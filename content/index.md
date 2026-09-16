@@ -1,0 +1,48 @@
+# Nils-Books — Index
+
+> Content catalog. Every page listed under its type with a one-line summary.
+> Read this first to find relevant pages.
+> Last updated: 2026-09-16 | Total pages: 16
+
+## Books
+- [[wide-open]] — Nils Klippstein, 2026 — opening the heart and building a stable
+  network of loving relationships instead of the exclusive couple model
+
+## Topic pages
+- [[monogamy]] — exclusive monogamy as a built order — control, property,
+  inheritance — and the shame around non-exclusive bonding as inherited, not
+  personal (concept)
+- [[networks-of-love]] — a stable web of relationships sharing the emotional
+  load, LOVE abundant rather than scarce (concept)
+
+## Chapter summaries
+**wide-open**
+- [[ch-00-foreword]] — the inner voice after the last traditional breakup, the fear
+  of leaving the only known model, and the question the book answers
+- [[ch-01-a-different-glow]] — Layla's retreat glow (Luma) over café chai, and
+  Maia's fear of the cage
+- [[ch-02-the-inherited-order]] — how the one-partner model was built by named
+  rulers and church figures, and what the cited verses actually say
+- [[ch-03-why-live-like-a-potted-plant]] — potted plant versus garden network;
+  load-sharing, touch without ownership, jealousy named as the barrier
+- [[ch-04-breathing-love]] — Maia's first glow by the pond; guilt and glow
+  coexisting on the walk home
+- [[ch-05-a-new-honesty]] — two confessions in a dark kitchen; the freedom vow,
+  radical honesty and radical trust
+- [[ch-06-the-blueprint-takes-shape]] — the skills list begins: communication,
+  self-regulation, boundaries, jealousy as a team sport
+- [[ch-07-shadow-work]] — jealousy and envy untangled, the network as a mirror,
+  and Chloe offered as a connection of Mark's own
+- [[ch-08-plans-and-expectations]] — the Thursday crash over shared time;
+  time and energy as the network's scarcest resource
+- [[ch-09-surrender-and-honesty]] — transparency after an evening with Chloe;
+  surprise jealousy; the Planning Pause
+- [[ch-10-becoming-we]] — jealousy and joy as coexisting visitors; compersion
+  and non-attachment as skills
+- [[ch-11-safe-exploration]] — boundaries agreed before, consent lived in the
+  moment, the Reconnection Ritual after
+- [[ch-12-networks-of-love]] — the closing essay: two plants in a pot versus the
+  garden ecosystem
+
+## Queries
+<!-- filed answers worth keeping -->
