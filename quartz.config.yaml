@@ -130,6 +130,8 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      sortFn: "(a, b) => (a.slugSegment || '').localeCompare(b.slugSegment || '', undefined, { numeric: true, sensitivity: 'base' })"
     layout:
       position: left
       priority: 50

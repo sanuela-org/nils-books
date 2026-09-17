@@ -2,7 +2,7 @@
 
 > Content catalog. Every page listed under its type with a one-line summary.
 > Read this first to find relevant pages.
-> Last updated: 2026-09-16 | Total pages: 16
+> Last updated: 2026-09-17 | Total pages: 16
 
 ## Books
 - [[wide-open]] — Nils Klippstein, 2026 — opening the heart and building a stable
@@ -17,8 +17,8 @@
 
 ## Chapter summaries
 **wide-open**
-- [[ch-00-foreword]] — the inner voice after the last traditional breakup, the fear
-  of leaving the only known model, and the question the book answers
+- [[ch-00-foreword]] — the full foreword, unabridged: the inner voice after the
+  last traditional breakup, and how the search for the new way began
 - [[ch-01-a-different-glow]] — Layla's retreat glow (Luma) over café chai, and
   Maia's fear of the cage
 - [[ch-02-the-inherited-order]] — how the one-partner model was built by named

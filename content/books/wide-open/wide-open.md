@@ -30,8 +30,8 @@ The model runs on learnable skills — heart-centred communication, emotional se
 
 ## Chapters
 
-- [[ch-00-foreword]] — the inner voice after the last traditional breakup, the fear
-  of leaving the only known model, and the question the book sets out to answer
+- [[ch-00-foreword]] — the full foreword, unabridged: the inner voice after the
+  last traditional breakup, and how the search for the new way began
 - [[ch-01-a-different-glow]] — Layla's retreat story over café chai: the glow
   called Luma, a hugging meditation with rules and consent, and the cage of shame
   Maia hears in her own fears
