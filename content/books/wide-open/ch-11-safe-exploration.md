@@ -1,12 +1,11 @@
 ---
 title: "Ch 11 — Safe Exploration"
-aliases: []
 book: wide-open
 chapter: 11
 substantial: true
 created: 2026-09-15
 updated: 2026-09-16
-tags: [chapter-summary, psychology]
+tags: [chapter-summary/wide-open]
 ---
 
 # Ch 11 — Safe Exploration

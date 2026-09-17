@@ -1,12 +1,11 @@
 ---
 title: "Ch 3 — Why Live Like a Potted Plant?"
-aliases: []
 book: wide-open
 chapter: 3
 substantial: true
 created: 2026-09-13
 updated: 2026-09-16
-tags: [chapter-summary, psychology]
+tags: [chapter-summary/wide-open]
 ---
 
 # Ch 3 — Why Live Like a Potted Plant?

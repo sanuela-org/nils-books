@@ -1,12 +1,11 @@
 ---
 title: "Ch 2 — The Inherited Order"
-aliases: []
 book: wide-open
 chapter: 2
 substantial: true
 created: 2026-09-13
 updated: 2026-09-16
-tags: [chapter-summary, psychology, history]
+tags: [chapter-summary/wide-open]
 ---
 
 # Ch 2 — The Inherited Order

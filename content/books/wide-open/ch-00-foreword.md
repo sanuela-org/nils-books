@@ -1,12 +1,11 @@
 ---
 title: "Foreword"
-aliases: []
 book: wide-open
 chapter: foreword
 substantial: true
 created: 2026-09-15
 updated: 2026-09-16
-tags: [chapter-summary, psychology]
+tags: [chapter-summary/wide-open]
 ---
 
 # Foreword

@@ -1,12 +1,11 @@
 ---
 title: "Ch 9 — Surrender and Honesty"
-aliases: []
 book: wide-open
 chapter: 9
 substantial: true
 created: 2026-09-15
 updated: 2026-09-16
-tags: [chapter-summary, psychology]
+tags: [chapter-summary/wide-open]
 ---
 
 # Ch 9 — Surrender and Honesty

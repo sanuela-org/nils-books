@@ -1,12 +1,11 @@
 ---
 title: "Ch 5 — A New Honesty"
-aliases: []
 book: wide-open
 chapter: 5
 substantial: true
 created: 2026-09-15
 updated: 2026-09-16
-tags: [chapter-summary, psychology]
+tags: [chapter-summary/wide-open]
 ---
 
 # Ch 5 — A New Honesty

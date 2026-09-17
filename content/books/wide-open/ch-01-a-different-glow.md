@@ -1,12 +1,11 @@
 ---
 title: "Ch 1 — A Different Glow"
-aliases: []
 book: wide-open
 chapter: 1
 substantial: true
 created: 2026-09-15
 updated: 2026-09-16
-tags: [chapter-summary, psychology]
+tags: [chapter-summary/wide-open]
 ---
 
 # Ch 1 — A Different Glow

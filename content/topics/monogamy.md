@@ -1,11 +1,10 @@
 ---
 title: Monogamy
-aliases: [The Inherited Order]
 type: concept
 books: [wide-open]
 created: 2026-09-15
 updated: 2026-09-15
-tags: [concept, history, society]
+tags: [concept, monogamy]
 ---
 
 # Monogamy

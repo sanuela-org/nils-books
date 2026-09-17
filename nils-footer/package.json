@@ -1,0 +1,32 @@
+{
+  "name": "nils-footer",
+  "version": "1.0.0",
+  "description": "Sanuela footer component for Nils-Books",
+  "type": "module",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js"
+  },
+  "quartz": {
+    "name": "nils-footer",
+    "displayName": "Sanuela Footer",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "links": {}
+    },
+    "components": {
+      "SanuelaFooter": {
+        "name": "SanuelaFooter",
+        "displayName": "Sanuela Footer",
+        "description": "Custom footer with Sanuela links",
+        "version": "1.0.0"
+      }
+    }
+  }
+}

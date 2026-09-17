@@ -1,3 +1,101 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// ---------------------------------------------------------------------------
+// Self-hosted fonts (files committed in quartz/static/fonts/, no Google Fonts)
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("static/fonts/-F63fjptAgt5VM-kVkqdyU8n5ig.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("static/fonts/-F6qfjptAgt5VM-kVkqdyU8n3vAO8lc.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("static/fonts/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icqEw.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("static/fonts/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrOSAqEw.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Merriweather Sans";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("static/fonts/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq3NzesC.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Merriweather Sans";
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("static/fonts/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq0TyusC.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Merriweather Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("static/fonts/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZou4ljg.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Merriweather Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("static/fonts/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZfOkljg.ttf") format("truetype");
+}
+
+// ---------------------------------------------------------------------------
+// Tags as plain left-aligned text under the title (no pill look, no icons)
+article ul.tags {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 0.5rem;
+  padding-left: 0;
+  margin: 0 0 1.5rem 0;
+  font-size: 0.85rem;
+  opacity: 0.75;
+}
+
+article ul.tags > li {
+  display: inline;
+  margin: 0;
+  white-space: nowrap;
+}
+
+article ul.tags > li + li::before {
+  content: ",";
+  margin-right: 0.5rem;
+}
+
+article a.internal.tag-link {
+  border-radius: 0;
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+  color: var(--dark);
+}

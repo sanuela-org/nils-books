@@ -1,12 +1,11 @@
 ---
 title: "Networks of LOVE (closing essay)"
-aliases: []
 book: wide-open
 chapter: networks-of-love
 substantial: true
 created: 2026-09-15
 updated: 2026-09-16
-tags: [chapter-summary, psychology, society]
+tags: [chapter-summary/wide-open]
 ---
 
 # Networks of LOVE (closing essay)

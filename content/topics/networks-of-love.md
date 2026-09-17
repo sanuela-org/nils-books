@@ -1,11 +1,10 @@
 ---
 title: Networks of LOVE
-aliases: [Network of LOVE]
 type: concept
 books: [wide-open]
 created: 2026-09-14
 updated: 2026-09-15
-tags: [concept, psychology, society]
+tags: [concept, networks-of-love]
 ---
 
 # Networks of LOVE

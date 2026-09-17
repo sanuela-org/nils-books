@@ -1,7 +1,6 @@
 ---
 title: Wide Open
 subtitle: "How to Open Our Hearts and Build a Network of LOVE"
-aliases: [Wide Open]
 book_slug: wide-open
 author: Nils Klippstein
 year: 2026
@@ -14,7 +13,7 @@ topics: [monogamy, networks-of-love]
 chapters_summarized: 13
 created: 2026-09-14
 updated: 2026-09-16
-tags: [book, psychology, history]
+tags: [book]
 ---
 
 # Wide Open
