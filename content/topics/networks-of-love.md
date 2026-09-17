@@ -3,7 +3,7 @@ title: Networks of LOVE
 type: concept
 books: [wide-open]
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-17
 tags: [concept, networks-of-love]
 ---
 
@@ -25,6 +25,8 @@ What it rejects is the dopamine chase: running through a garden picking every fl
 
 Slow, honest, grounded growth is what makes a network more enriching and stabilising than monogamy. Jealousy is the biggest barrier — rooted in old wounds, in the fear of loss or the feeling of not being enough, fear rather than actual loss. Understanding it comes before going further, and *Love Beyond Jealousy* takes it up.
 
+The model answers a need the foreword names: stability that does not have to be questioned every single day — trust, honesty, cohesion and the shared carrying of challenges. Opening wide does not mean giving up safety; the safety is built differently.
+
 ## Across books
 
 So far only [[wide-open]] carries it. [[ch-03-why-live-like-a-potted-plant]] delivers the model through in-scene dialogue and a notebook outline written under the heading 'Networks of LOVE'; the outline in full lives there. [[ch-02-the-inherited-order]] supplies the historical motivation: the one-partner model came from systems of control, property and inheritance, which is why questioning it is not wrong.
@@ -45,4 +47,13 @@ So far only [[wide-open]] carries it. [[ch-03-why-live-like-a-potted-plant]] del
 ## Related topics
 
 - [[monogamy]]
+- [[allowances-and-boundaries]]
+- [[community-awareness-and-group-dynamics]]
+- [[hugging-meditations]]
+- [[jealousy-as-a-team-process]]
+- [[non-attachment-and-compersion]]
+- [[planning-pause]]
+- [[reconnection-ritual]]
+- [[time-and-energy-management]]
+- [[touch-as-connection]]
 - [[wide-open]]

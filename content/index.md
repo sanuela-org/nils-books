@@ -2,7 +2,7 @@
 
 > Content catalog. Every page listed under its type with a one-line summary.
 > Read this first to find relevant pages.
-> Last updated: 2026-09-17 | Total pages: 16
+> Last updated: 2026-09-17 | Total pages: 26
 
 ## Books
 - [[wide-open]] — Nils Klippstein, 2026 — opening the heart and building a stable
@@ -14,6 +14,26 @@
   personal (concept)
 - [[networks-of-love]] — a stable web of relationships sharing the emotional
   load, LOVE abundant rather than scarce (concept)
+- [[hugging-meditations]] — sustained, fully clothed embraces for energetic
+  healing; the book's central practice (practice)
+- [[jealousy-as-a-team-process]] — jealousy as a fear alarm the whole team works together, not a
+  personal failing — the model's biggest barrier (concept)
+- [[heart-centred-communication]] — speaking and listening from the heart centre, not ego or fear;
+  includes the daily heart-share (practice)
+- [[shadow-work]] — the network as a mirror: defence patterns, jealousy and envy
+  untangled, core relational beliefs, self-validation (concept)
+- [[planning-pause]] — a transparent check-in before committing plans involving others —
+  transparency, not permission (practice)
+- [[reconnection-ritual]] — the after-time-apart ritual that bridges absence and reunion —
+  the only rule: don't skip it (practice)
+- [[non-attachment-and-compersion]] — holding jealousy and joy together; letting bonds grow and end
+  without possession (concept)
+- [[allowances-and-boundaries]] — positive agreements and levels of closeness that create safety
+  rather than control, revisited as relationships evolve (concept)
+- [[emotional-self-regulation]] — recognising triggers, pausing, self-soothing, and owning one's
+  own emotional reactions (practice)
+- [[time-and-energy-management]] — shared time as the network's structural resource: bandwidth,
+  fairness, solo time, existing commitments (practice)
 
 ## Chapter summaries
 **wide-open**

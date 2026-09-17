@@ -3,7 +3,7 @@ title: Monogamy
 type: concept
 books: [wide-open]
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-17
 tags: [concept, monogamy]
 ---
 
@@ -13,9 +13,9 @@ tags: [concept, monogamy]
 
 Monogamy is the inherited order: the assumption that one lifelong partner is the natural, moral and only legitimate shape for human intimacy. It is not a natural arrangement but a system built over roughly two and a half thousand years by rulers and church leaders whose interest was control and property. The guilt and shame around wanting closeness with someone else are a historical inheritance from patriarchy, not personal failures — a fear of being shamed for lovingly bonding with someone else, not a shame already felt. What is questioned is not the loving bond itself but the exclusivity made compulsory around it. The life accepted as 'normal' was not a natural order.
 
-## Across books
+## The history of monogamy
 
-So far the subject appears only in [[wide-open]], arriving in-story as a document one character compiles and sends another. It names the builders of the one-partner model, from Solon to Napoleon:
+The book [[wide-open]] names the builders of the one-partner model, from Solon to Napoleon:
 
 - **Solon** (c. 638–558 BCE) — laws regulating marriage and inheritance, pushing people into state-controlled, paired households.
 - **Emperor Augustus** (63 BCE–14 CE) — strict marriage and adultery laws to control citizens' behaviour, establishing the one-spouse model as the official moral standard.
@@ -31,7 +31,7 @@ So far the subject appears only in [[wide-open]], arriving in-story as a documen
 - **European colonial powers** (16th–20th centuries) — claimed full control over marriage in colonised societies worldwide, globalising the European model and suppressing indigenous relationship structures.
 - **Napoleon** (1769–1821) — replaced local customs with a unified legal system making monogamy the only socially accepted and legally recognised form of intimacy across many countries.
 
-The document then takes the passages long used to defend the exclusive model — verses about unity, loyalty and respect — and reads each in context, traditional interpretation against a different perspective. None of them actually forbids multi-partner relationships:
+The passages long used to defend the exclusive model — verses about unity, loyalty and respect — do not forbid multi-partner relationships. Read in context, each carries a different meaning:
 
 - **Genesis 2:24** — "the two shall become one flesh." Traditional interpretation: 'one flesh' as a divine blueprint for one man and one woman in a lifelong bond; 'two' means only two. Different perspective: the text describes deep union, not a legal structure — it does not forbid more than one partner, nor does it speak about exclusivity.
 - **Matthew 19:4-6** — "What God has joined together, let no one separate." Traditional interpretation: Jesus endorsing strict monogamy and making divorce almost impossible. Different perspective: the context is divorce, not the number of partners — a stand against treating partners as disposable, not against wider forms of stable care.

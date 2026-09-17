@@ -9,10 +9,10 @@ asin: ""
 kdp_url: ""
 cover: cover.jpg
 sources: [_sources/wide-open/]
-topics: [monogamy, networks-of-love]
+topics: [monogamy, networks-of-love, hugging-meditations, jealousy-as-a-team-process, heart-centred-communication, shadow-work, planning-pause, reconnection-ritual, non-attachment-and-compersion, allowances-and-boundaries, emotional-self-regulation, time-and-energy-management]
 chapters_summarized: 13
 created: 2026-09-14
-updated: 2026-09-16
+updated: 2026-09-17
 tags: [book]
 ---
 
@@ -80,6 +80,16 @@ The model runs on learnable skills — heart-centred communication, emotional se
 
 - [[monogamy]]
 - [[networks-of-love]]
+- [[hugging-meditations]]
+- [[jealousy-as-a-team-process]]
+- [[heart-centred-communication]]
+- [[shadow-work]]
+- [[planning-pause]]
+- [[reconnection-ritual]]
+- [[non-attachment-and-compersion]]
+- [[allowances-and-boundaries]]
+- [[emotional-self-regulation]]
+- [[time-and-energy-management]]
 
 ## Quotes
 

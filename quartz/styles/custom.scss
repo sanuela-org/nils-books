@@ -99,3 +99,25 @@ article a.internal.tag-link {
   margin: 0;
   color: var(--dark);
 }
+
+// ---------------------------------------------------------------------------
+// Undo creme-brulee's Obsidian-style inline typography (the theme.json
+// "typography" section is meant for Obsidian's edit view): it sets
+// color: cyan on em/i and cursor: grab on b/em/i/strong/del, so italics
+// look like links with a hand cursor on the web. Keep italics italic, but
+// in normal text color with a normal cursor.
+body b,
+body em,
+body i,
+body strong,
+body strong > em,
+body del,
+body .text-highlight {
+  cursor: auto !important;
+}
+
+body em,
+body i,
+body strong > em {
+  color: inherit !important;
+}
