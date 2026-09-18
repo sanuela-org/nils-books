@@ -4,7 +4,7 @@ book: wide-open
 chapter: networks-of-love
 substantial: true
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-18
 tags: [chapter-summary/wide-open]
 ---
 
@@ -18,7 +18,7 @@ The book's closing essay returns to the core model after the story ends. It dist
 
 The traditional model has followed us for thousands of years, built on possessiveness and fear. Countless people feel lonely inside relationships, many fear physical contact, and too many live without real intimacy.
 
-The traditional model is like growing two plants in a single pot and expecting them to survive on each other's nutrients alone. LOVE and growth stay strictly limited. The Network of LOVE is a stable ecosystem: an abundance of LOVE, safe comfort, closeness, support and care. Each connection feeds the health of the whole garden.
+The traditional model is like growing two plants in a single pot and expecting them to survive on each other's nutrients alone. LOVE and growth stay strictly limited. The [[networks-of-love|Network of LOVE]] is a stable ecosystem: an abundance of LOVE, safe comfort, closeness, support and care. Each connection feeds the health of the whole garden.
 
 This replaces the binary divide between "just friends" and "romantic lovers" with a multidimensional spectrum. Each bond carries its own blend of emotional depth and physical closeness. Friends can hold hands or cuddle, dressed or not, and speak openly about fears and vulnerabilities.
 
