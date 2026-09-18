@@ -9,10 +9,10 @@ asin: ""
 kdp_url: ""
 cover: cover.jpg
 sources: [_sources/wide-open/]
-topics: [monogamy, networks-of-love, hugging-meditations, jealousy-as-a-team-process, heart-centred-communication, shadow-work, planning-pause, reconnection-ritual, non-attachment-and-compersion, allowances-and-boundaries, emotional-self-regulation, time-and-energy-management]
-chapters_summarized: 13
+topics: [monogamy, networks-of-love, hugging-meditations, jealousy-as-a-team-process, heart-centred-communication, shadow-work, planning-pause, reconnection-ritual, non-attachment-and-compersion, allowances-and-boundaries, emotional-self-regulation, time-and-energy-management, sanuela-retreats, glossary]
+chapters_summarized: 14
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [book]
 ---
 
@@ -65,6 +65,9 @@ The model runs on learnable skills — heart-centred communication, emotional se
 - [[ch-12-networks-of-love]] — the closing essay: two plants in a pot against the
   garden ecosystem, connection beyond 'just friends' or 'romantic lovers', and
   LOVE met from the inner centre
+- [[ch-13-a-few-days-that-change-everything]] — a few days at Finca Sanuela: the
+  book's themes met in person — shared presence, heart-centred practices, honest
+  conversation, guided exploration
 
 ## Key ideas
 
@@ -90,6 +93,8 @@ The model runs on learnable skills — heart-centred communication, emotional se
 - [[allowances-and-boundaries]]
 - [[emotional-self-regulation]]
 - [[time-and-energy-management]]
+- [[sanuela-retreats]]
+- [[glossary]]
 
 ## Quotes
 

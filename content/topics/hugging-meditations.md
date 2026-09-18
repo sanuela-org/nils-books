@@ -2,8 +2,9 @@
 title: Hugging Meditations
 type: practice
 books: [wide-open]
+aliases: ["hugging meditation", "hug meditation", "energetic healing through hugging"]
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [practice, hugging-meditations]
 ---
 
@@ -64,4 +65,5 @@ Welcoming practices include sitting face to face and breathing together while ho
 - [[heart-centred-communication]]
 - [[non-attachment-and-compersion]]
 - [[networks-of-love]]
+- [[sanuela-retreats]]
 - [[wide-open]]

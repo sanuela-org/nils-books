@@ -2,8 +2,9 @@
 title: Reconnection Ritual
 type: practice
 books: [wide-open]
+aliases: ["welcoming heart share", "brief retelling"]
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [practice, reconnection-ritual]
 ---
 
@@ -49,4 +50,5 @@ The book offers six components. Couples can choose one, combine them, or create 
 - [[hugging-meditations]]
 - [[heart-centred-communication]]
 - [[touch-as-connection]]
+- [[sanuela-retreats]]
 - [[wide-open]]

@@ -2,8 +2,9 @@
 title: Heart-Centred Communication
 type: practice
 books: [wide-open]
+aliases: ["honest, loving communication", "daily heart-share", "heart share", "heart-share"]
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [practice, heart-centred-communication]
 ---
 
@@ -35,9 +36,7 @@ This style of communication creates a safe space for vulnerability. It builds tr
 - The heart centre is a vague metaphor — it is a specific breathing practice that grounds the speaker before words are chosen
 - This style is only for romantic relationships — it works in any connection where trust matters
 
-## Practices
-
-### Daily Heart-Share
+## Practice: Daily Heart-Share
 
 This simple practice builds emotional transparency and trust. It ensures that small concerns are voiced early, preventing them from escalating. It is not about solving problems — it is about honest sharing. This is the steady heartbeat of a stable relationship network.
 
@@ -61,4 +60,4 @@ Honesty and consistency are the most important things. The practice does not nee
 
 ## Related topics
 
-[[radical-honesty-and-trust]] · [[emotional-self-regulation]] · [[allowances-and-boundaries]] · [[planning-pause]] · [[conflict-repair]] · [[hugging-meditations]] · [[reconnection-ritual]] · [[networks-of-love]] · [[wide-open]]
+[[radical-honesty-and-trust]] · [[emotional-self-regulation]] · [[allowances-and-boundaries]] · [[planning-pause]] · [[conflict-repair]] · [[hugging-meditations]] · [[reconnection-ritual]] · [[networks-of-love]]  · [[sanuela-retreats]] · [[wide-open]]

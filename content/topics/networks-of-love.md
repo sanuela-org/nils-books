@@ -2,8 +2,9 @@
 title: Networks of LOVE
 type: concept
 books: [wide-open]
+aliases: ["Network of LOVE", "relationship network", "relationship networks"]
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [concept, networks-of-love]
 ---
 
@@ -56,4 +57,5 @@ So far only [[wide-open]] carries it. [[ch-03-why-live-like-a-potted-plant]] del
 - [[reconnection-ritual]]
 - [[time-and-energy-management]]
 - [[touch-as-connection]]
+- [[sanuela-retreats]]
 - [[wide-open]]

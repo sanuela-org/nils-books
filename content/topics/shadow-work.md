@@ -2,8 +2,9 @@
 title: Shadow Work
 type: concept
 books: [wide-open]
+aliases: ["inner shadow work", "core relational beliefs"]
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [concept, shadow-work]
 ---
 
@@ -82,4 +83,4 @@ See [[emotional-self-regulation]] for the broader practice of working with diffi
 
 ## Related topics
 
-[[emotional-self-regulation]] · [[jealousy-as-a-team-process]] · [[non-attachment-and-compersion]] · [[shame-and-social-conditioning]] · [[heart-centred-communication]] · [[networks-of-love]] · [[wide-open]]
+[[emotional-self-regulation]] · [[jealousy-as-a-team-process]] · [[non-attachment-and-compersion]] · [[shame-and-social-conditioning]] · [[heart-centred-communication]] · [[networks-of-love]]  · [[sanuela-retreats]] · [[wide-open]]

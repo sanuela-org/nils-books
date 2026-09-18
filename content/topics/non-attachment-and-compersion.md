@@ -2,8 +2,9 @@
 title: Non-Attachment and Compersion
 type: concept
 books: [wide-open]
+aliases: ["non-attachment", "compersion", "loving-kindness for compersion"]
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [concept, non-attachment-and-compersion]
 ---
 
@@ -45,9 +46,12 @@ Like any skill, compersion improves with practice. The more you train it, the mo
 - Ask for what you need to feel safe. Compersion thrives on reassurance. Suggest rituals before a partner leaves — a particular kiss, a kind word, a promise to check in. When they return, reconnect. Feeling secure is the gateway to joy.
 - Be present before and after. Jealousy is fuelled by imagination. Compersion thrives in reality. Where possible, meet a partner and their other partner together. Notice the small kindnesses between them. The nervous system learns: nothing is being hidden.
 - Actively participate in their joy. Cook a meal before a date. Help choose an outfit. Hold both of their hands when they hug, breathe through your heart centre, and feel the warmth move through you. The more you participate, the less you feel like an outsider.
-- Practice loving-kindness meditation. Sit quietly for five minutes. Breathe through your heart centre. Recite: "May you be happy. May you be free from suffering. May you feel joy and ease." Direct this first to your partner, then to yourself, then to their other connection. This re-wires the brain towards empathy and away from threat.
 - Ask: what am I afraid of losing? Jealousy is fear wearing a mask — almost always a fear of abandonment, inadequacy or scarcity. Identify the specific fear. Ask whether it is rooted in reality or an old wound. Separate the past from the present.
 - Celebrate a partner's return as a choice. Every time they come back, they are choosing you — not out of duty, but out of affection. Welcome them home with genuine curiosity. Their happiness is not a threat; it is evidence of their ability to LOVE.
+
+## Practice: Loving-Kindness for Compersion
+
+Sit quietly for five minutes and breathe through your heart centre. Inwardly recite these words — first to your partner, then to yourself, and finally to their other connection: "May you be happy. May you be free from suffering. May you feel joy and ease." This re-wires the brain towards empathy and away from threat.
 
 ## Holding jealousy and joy together
 
@@ -69,4 +73,5 @@ When people meet from their inner centre rather than out of need, energies awake
 - [[hugging-meditations]]
 - [[touch-as-connection]]
 - [[networks-of-love]]
+- [[sanuela-retreats]]
 - [[wide-open]]

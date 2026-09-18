@@ -2,8 +2,9 @@
 title: Emotional Self-Regulation
 type: practice
 books: [wide-open]
+aliases: ["self-regulation", "emotional regulation", "self-soothing", "recognising triggers"]
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [practice, emotional-self-regulation]
 ---
 
@@ -73,4 +74,5 @@ This is deeply liberating. You do not have to overcome your jealousy before you 
 - [[shadow-work]] — the deeper, longer-term healing of the wounds that self-regulation helps you navigate
 - [[jealousy-as-a-team-process]] — how jealousy becomes a shared signal to work with, not a private shame
 - [[heart-centred-communication]] — the skill of speaking and listening from a centred, loving place
+- [[sanuela-retreats]] — where the book's practices are experienced in person
 - [[wide-open]] — the book where these practices are presented

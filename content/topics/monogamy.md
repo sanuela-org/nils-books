@@ -2,8 +2,9 @@
 title: Monogamy
 type: concept
 books: [wide-open]
+aliases: ["exclusive monogamy", "one-partner model", "traditional relationship model"]
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [concept, monogamy]
 ---
 
@@ -55,4 +56,5 @@ The alternative to the exclusive couple is a garden rather than a pot: a network
 ## Related topics
 
 - [[networks-of-love]]
+- [[sanuela-retreats]]
 - [[wide-open]]

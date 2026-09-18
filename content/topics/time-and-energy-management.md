@@ -2,8 +2,9 @@
 title: Time and Energy Management
 type: practice
 books: [wide-open]
+aliases: ["shared time", "relationship bandwidth", "scheduling"]
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [practice, time-and-energy-management]
 ---
 
@@ -34,7 +35,7 @@ Managing commitments across multiple relationships requires an honest assessment
 Fairness does not happen by accident. It requires structure that everyone can see and rely on.
 
 - Transparently co-creating schedules honours commitments and reduces anxiety. Shared calendars work because they remove guessing.
-- Regular check-ins — even a few minutes — surface small concerns before they become large ones. The daily heart-share is the steady heartbeat of this work.
+- Regular check-ins — even a few minutes — surface small concerns before they become large ones. The [[heart-centred-communication#practice-daily-heart-share|daily heart-share]] is the steady heartbeat of this work.
 - Being fully present during scheduled time matters as much as scheduling the time at all. Distractions during connection erode trust quietly.
 - Predictability reduces stress. When people know what to expect, last-minute negotiations disappear and the network stabilises.
 - Graceful navigation of scheduling conflicts depends on the communication skills built elsewhere: honest, loving communication and emotional self-regulation.
@@ -65,4 +66,5 @@ When one partner has spent time with someone else, the returning partner carries
 - [[allowances-and-boundaries]]
 - [[community-awareness-and-group-dynamics]]
 - [[networks-of-love]]
+- [[sanuela-retreats]]
 - [[wide-open]]

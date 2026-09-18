@@ -2,8 +2,9 @@
 title: Allowances and Boundaries
 type: concept
 books: [wide-open]
+aliases: [allowances, boundaries, "levels of closeness", "boundaries in relationships"]
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [concept, allowances-and-boundaries]
 ---
 
@@ -69,4 +70,4 @@ Boundaries are also personal, not universal. Each person's comfort zone is diffe
 
 ## Related topics
 
-[[heart-centred-communication]] · [[planning-pause]] · [[safety-and-consent]] · [[jealousy-as-a-team-process]] · [[networks-of-love]]
+[[heart-centred-communication]] · [[planning-pause]] · [[safety-and-consent]] · [[jealousy-as-a-team-process]] · [[networks-of-love]] · [[sanuela-retreats]] · [[wide-open]]

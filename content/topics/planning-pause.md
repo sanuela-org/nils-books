@@ -2,8 +2,9 @@
 title: Planning Pause
 type: practice
 books: [wide-open]
+aliases: ["ten-second message", "24-hour waiting period", "shared glance", "Core Practice 2"]
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [practice, planning-pause]
 ---
 
@@ -52,4 +53,5 @@ The Planning Pause grew out of a scheduling crash. One partner announced an even
 - [[allowances-and-boundaries]] — how limits are communicated and respected
 - [[safety-and-consent]] — why the 24-hour waiting period matters for significant firsts
 - [[networks-of-love]] — the wider structure the Planning Pause serves
+- [[sanuela-retreats]]
 - [[wide-open]]

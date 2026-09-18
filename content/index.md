@@ -2,7 +2,7 @@
 
 > Content catalog. Every page listed under its type with a one-line summary.
 > Read this first to find relevant pages.
-> Last updated: 2026-09-17 | Total pages: 26
+> Last updated: 2026-09-18 | Total pages: 29
 
 ## Books
 - [[wide-open]] — Nils Klippstein, 2026 — opening the heart and building a stable
@@ -34,6 +34,10 @@
   own emotional reactions (practice)
 - [[time-and-energy-management]] — shared time as the network's structural resource: bandwidth,
   fairness, solo time, existing commitments (practice)
+- [[glossary]] — the books' shared vocabulary, each term in the author's own
+  understanding — starting with Luma (reference)
+- [[sanuela-retreats]] — a few days at Finca Sanuela: the books' themes as lived
+  practice, shaped around your needs (reference)
 
 ## Chapter summaries
 **wide-open**
@@ -63,6 +67,8 @@
   moment, the Reconnection Ritual after
 - [[ch-12-networks-of-love]] — the closing essay: two plants in a pot versus the
   garden ecosystem
+- [[ch-13-a-few-days-that-change-everything]] — a few days at Finca Sanuela: the
+  book's themes met in person
 
 ## Queries
 <!-- filed answers worth keeping -->

@@ -4,7 +4,7 @@ book: wide-open
 chapter: 2
 substantial: true
 created: 2026-09-13
-updated: 2026-09-16
+updated: 2026-09-18
 tags: [chapter-summary/wide-open]
 ---
 
@@ -16,9 +16,9 @@ Layla sends Maia a document she once compiled, laying out how monogamy was const
 
 ## The Perspective
 
-Layla's text reframes Maia's guilt and shame as a historical inheritance from patriarchy rather than a personal failure. She names what the builders of the one-partner model were after: control and property. Across centuries, figures from Solon to Napoleon built the one-partner model through law and doctrine. Marriage laws, adultery codes, church enforcement, colonial spread — the builders crafted a system for order and ownership, not happiness or freedom.
+Layla's text reframes Maia's guilt and shame as a historical inheritance from patriarchy rather than a personal failure. She names what the builders of the [[monogamy|one-partner model]] were after: control. Across centuries, figures from Solon to Napoleon built the one-partner model through law and doctrine. Marriage laws, adultery codes, church enforcement, colonial spread — the builders crafted a system for order and ownership, not happiness or freedom.
 
-The Church shaped the same idea through scripture. A handful of passages — Genesis, Matthew, Corinthians — were read as forbidding multi-partner bonds. Each addressed a different concern: divorce, objectification, practical order. None actually forbids more than one caring bond, but selection and interpretation made it look like divine mandate.
+The Church shaped the same idea through scripture. A handful of passages — Genesis, Matthew, Corinthians — were read as forbidding multi-partner bonds. Yet, none of these actually banned more than one caring relationship; it was the selection and interpretation that made it seem like a divine mandate. In reality, each passage addressed a different topic: divorce, objectification and practical order.
 
 Maia sees it: the life she accepted as normal was not a natural order. Pascal senses that something important is beginning.
 

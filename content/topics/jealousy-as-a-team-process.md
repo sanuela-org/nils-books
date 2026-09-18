@@ -2,8 +2,9 @@
 title: Jealousy as a Team Process
 type: concept
 books: [wide-open]
+aliases: ["jealousy is a team process", "jealousy as a team", "team approach to jealousy"]
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 tags: [concept, jealousy-as-a-team-process]
 ---
 
@@ -65,4 +66,5 @@ The team-process approach transforms jealousy from a shameful failing into a sha
 - [[allowances-and-boundaries]]
 - [[networks-of-love]]
 - [[conflict-repair]]
+- [[sanuela-retreats]]
 - [[wide-open]]
