@@ -6,6 +6,7 @@ unabridged: true
 substantial: true
 created: 2026-09-15
 updated: 2026-09-17
+proofread: true
 tags: [chapter-summary/wide-open]
 ---
 
@@ -29,16 +30,15 @@ So what was the new way? And how could I feel safe within it? Human beings are m
 
 It was while writing the book *Ayana, High Priestess of Sanuela* that my inner journey of exploration began. In that intuitively written, fictional story, there was a woman who could not decide which of the two men close to her would be better suited for a relationship. She felt something for both of them, and those feelings were not comparable with each other. She faced a dilemma that she could only resolve near the end of the book.
 
-At its heart, that book is about energetic healing through hugging meditations – something I only came to understand in the course of the intuitive writing process. Something that has always troubled me: if long embraces with another soul feel truly wonderful, why do we usually not allow ourselves this outside of an established partnership? And what about holding hands? It has become a symbol of mutual ownership. Yet the feeling of it is something like a mini-hug – and therefore a deeply healing experience that, within our conditioned social system, we withhold from one another.
+At its heart, that book is about energetic healing through [[hugging-meditations]] – something I only came to understand in the course of the intuitive writing process. Something that has always troubled me: if long embraces with another soul feel truly wonderful, why do we usually not allow ourselves this outside of an established partnership? And what about holding hands? It has become a symbol of mutual ownership. Yet the feeling of it is something like a mini-hug – and therefore a deeply healing experience that, within our conditioned social system, we withhold from one another.
 
 I sensed that I needed many more new stories and books to explore these things and, in doing so, find new paths that felt safe, good, and right.
 
 And I knew: if I, as a highly sensitive and back then very anxious human, could find new practical paths, then perhaps other people could also feel safe and comfortable with them too.
 
-This book offers an overview of stable relationship networks and the essential skills, tools and social competencies we need in order to become fully human. In the coming age of robotics, the time for this has never been more urgent.
+This book offers an overview of stable [[networks-of-love|relationship networks]] and the essential skills, tools and social competencies we need in order to become fully human. In the coming age of robotics, the time for this has never been more urgent.
 
-Anyone who, after reading, wishes to discover and experience this in practice is warmly welcome to visit Finca Sanuela. Here we hope to share these and other intuitively explored practices and ways of living.
+Anyone who, after reading, wishes to discover and experience this in practice is warmly welcome to visit [[sanuela-retreats|Finca Sanuela]]. Here we hope to share these and other intuitively explored practices and ways of living.
 
 Much LOVE,
-
 Nils

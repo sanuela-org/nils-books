@@ -5,6 +5,7 @@ books: [wide-open]
 aliases: ["honest, loving communication", "daily heart-share", "heart share", "heart-share"]
 created: 2026-09-17
 updated: 2026-09-18
+proofread: true
 tags: [practice, heart-centred-communication]
 ---
 
@@ -12,7 +13,7 @@ tags: [practice, heart-centred-communication]
 
 ## Definition
 
-Speaking and listening from the heart centre rather than from ego or fear. This is the first and most essential skill for building any [[networks-of-love]]. The practice rests on breath, honest self-expression, and genuine curiosity about the other person's inner world. Small hurts get voiced early, before they harden into resentment.
+Speaking and listening from the heart centre rather than from ego or fear. This is the first and most essential skill for building any [[networks-of-love|Network of LOVE]]. The practice rests on natural breathing, honest self-expression, and genuine curiosity about the other's inner world. Small hurts get voiced early, before they harden into resentment.
 
 ## Core Principles
 
@@ -38,7 +39,7 @@ This style of communication creates a safe space for vulnerability. It builds tr
 
 ## Practice: Daily Heart-Share
 
-This simple practice builds emotional transparency and trust. It ensures that small concerns are voiced early, preventing them from escalating. It is not about solving problems — it is about honest sharing. This is the steady heartbeat of a stable relationship network.
+This simple practice from the book [[books/wide-open/wide-open|*Wide Open*]] builds emotional transparency and trust. It ensures that small concerns are voiced early, preventing them from escalating. It is about honest sharing, not about solving problems. This is the steady heartbeat of a stable [[networks-of-love|relationship network]].
 
 **Duration:** 5–10 minutes. Some days you set aside time. On others it happens naturally while walking or doing dishes. Honesty and consistency matter most.
 
@@ -60,4 +61,13 @@ Honesty and consistency are the most important things. The practice does not nee
 
 ## Related topics
 
-[[radical-honesty-and-trust]] · [[emotional-self-regulation]] · [[allowances-and-boundaries]] · [[planning-pause]] · [[conflict-repair]] · [[hugging-meditations]] · [[reconnection-ritual]] · [[networks-of-love]]  · [[sanuela-retreats]] · [[wide-open]]
+- [[radical-honesty-and-trust]]
+- [[emotional-self-regulation]]
+- [[allowances-and-boundaries]]
+- [[planning-pause]]
+- [[conflict-repair]]
+- [[hugging-meditations]]
+- [[reconnection-ritual]]
+- [[networks-of-love]]
+- [[sanuela-retreats]]
+- [[wide-open]]

@@ -5,6 +5,7 @@ books: [wide-open]
 aliases: ["non-attachment", "compersion", "loving-kindness for compersion"]
 created: 2026-09-17
 updated: 2026-09-18
+proofread: true
 tags: [concept, non-attachment-and-compersion]
 ---
 
@@ -12,11 +13,11 @@ tags: [concept, non-attachment-and-compersion]
 
 ## Definition
 
-Non-attachment means loving without possessing — valuing each connection for what it offers rather than measuring it against an ideal. Compersion is the active joy felt when a partner experiences happiness with someone else. Together they form the emotional foundation of a [[wide-open]] relationship network: the willingness to let change happen gracefully, and to feel LOVE expand rather than shrink when connections multiply.
+Non-attachment means loving without possessing — valuing each connection for what it offers rather than measuring it against an ideal. Compersion is the active joy felt when a partner experiences happiness with someone else. Together they form the emotional foundation of a [[networks-of-love|relationship network]]: the willingness to allow changes to happen, and to feel LOVE expand rather than shrink when new loving connections are added.
 
 ## What non-attachment is
 
-Non-attachment cultivates flexibility and resilience in the face of change. It means embracing the natural evolution of relationships — understanding that change is a natural part of life, regardless of whether anyone has done anything wrong.
+Non-attachment cultivates flexibility and resilience in the face of change. It means embracing the natural evolution of relationships — understanding that change is a natural part of life.
 
 It asks you to release the urge to control the outcome, the feelings of others, or the specific direction a relationship will take. Conscious gratitude in the present moment builds resilience and reduces anxious clinging to a specific future.
 
@@ -24,19 +25,19 @@ It asks you to release the urge to control the outcome, the feelings of others, 
 
 Non-attachment is not detachment. Detachment is indifference. Non-attachment is caring deeply without allowing that care to become suffering caused by obsession or the demand that things last forever.
 
-The difference matters. You can hold a connection with open hands — valuing it fully, grieving when it changes — without needing to grip it tighter to survive.
+The difference matters. You can hold a connection with open hands — valuing it fully, without needing to grip it tighter to survive.
 
 ## Letting go with grace
 
-When a connection ends or transitions, non-attachment means doing so with grace and goodwill. Honour the connection that was. Release the expectation of what it should have become. No blame, no theatre — just a clear-eyed recognition that the relationship served its purpose and can now shift shape.
+When a connection ends or transitions, non-attachment means doing so with grace and goodwill. Honour the connection that was. Release the expectation of what it should have become. No blame, no theatre — just a clear-eyed recognition that the relationship served its purpose and can now shift shape into something new.
 
-This is not coldness. It is the deepest respect for what two people shared, combined with the maturity to let it be what it becomes.
+This is not coldness. It is the deepest respect for what two human beings shared, combined with the maturity to let it be what it wants to become.
 
 ## Compersion: joy for another's joy
 
 Compersion is actively nurturing joy in a partner's other connections. It is an antidote to jealousy and envy and builds an abundance mindset. But it is not the absence of jealousy. It is the ability to embrace both fear and joy, ache and warmth.
 
-Like any skill, compersion improves with practice. The more you train it, the more natural it becomes — though it never becomes automatic. It is a choice made again and again.
+Like any skill, compersion improves with practice. The more you train it, the more natural it becomes, though it is a choice made again and again.
 
 ## Training compersion
 
@@ -55,15 +56,13 @@ Sit quietly for five minutes and breathe through your heart centre. Inwardly rec
 
 ## Holding jealousy and joy together
 
-The deepest shift is learning that jealousy and compersion can coexist. You do not have to overcome jealousy before you are allowed to feel joy for someone. Both feelings can be true at the same time — the stirring in the stomach and the warmth in the chest.
-
-This is not a compromise. It is a fuller experience of being human. In a hugging meditation, jealousy may hum in the background while a blissful sense of oneness washes through the body. Both are real. Both are welcome. Naming both — *I feel jealous, and I'm also truly happy for you* — is deeply liberating.
+The deepest shift is learning that jealousy and compersion can coexist. You do not have to overcome jealousy before you are allowed to feel joy for someone. Both feelings can be true at the same time — the stirring in the stomach and the warmth in the chest. Both are real. Both are welcome. Naming both — *I feel jealous, and I'm also truly happy for you* — is deeply liberating. This is about the full experience of being human. 
 
 ## Connecting to the wider network
 
-Non-attachment and compersion feed directly into the [[wide-open]] model of [[networks-of-love]]. They replace the idea that relationships are either "just friends" or "romantic lovers" with a multidimensional spectrum of connections, each with its own blend of depth and closeness.
+Non-attachment and compersion feed directly into the [[networks-of-love|Network of LOVE]] model. They replace the idea that relationships are either "just friends" or "romantic lovers" with a multidimensional spectrum of connections, each with its own blend of allowances, boundaries, depth and closeness.
 
-When people meet from their inner centre rather than out of need, energies awaken and flow freely — without the desire for possession, pressure or performance. Trust, consent and fairness stabilise the circle, and LOVE becomes a living network rather than a closed bond.
+When people meet from their inner centre rather than out of need, energies awaken and flow freely — without the desire for possession, pressure or performance. Trust, consent and fairness stabilise the circle, and LOVE becomes a living network rather than a [[monogamy|restricted bond]].
 
 ## Related topics
 

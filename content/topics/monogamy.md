@@ -4,7 +4,8 @@ type: concept
 books: [wide-open]
 aliases: ["exclusive monogamy", "one-partner model", "traditional relationship model"]
 created: 2026-09-15
-updated: 2026-09-18
+updated: 2026-09-19
+proofread: true
 tags: [concept, monogamy]
 ---
 
@@ -12,11 +13,13 @@ tags: [concept, monogamy]
 
 ## Definition
 
-Monogamy is the inherited order: the assumption that one lifelong partner is the natural, moral and only legitimate shape for human intimacy. It is not a natural arrangement but a system built over roughly two and a half thousand years by rulers and church leaders whose interest was control and property. The guilt and shame around wanting closeness with someone else are a historical inheritance from patriarchy, not personal failures — a fear of being shamed for lovingly bonding with someone else, not a shame already felt. What is questioned is not the loving bond itself but the exclusivity made compulsory around it. The life accepted as 'normal' was not a natural order.
+Monogamy is the inherited order: the assumption that one partner is the natural, moral and only legitimate way for human intimacy. It is not a natural arrangement but a system built over roughly two and a half thousand years by warlords, rulers and church leaders whose interest was control. 
+
+The guilt and shame around wanting to be close to someone else come from a historical legacy of patriarchy — the fear of being shamed for expressing LOVE and affection towards someone else. What is questioned is not the loving bond itself but the exclusivity made compulsory around it. The life accepted as 'normal' was not a natural order.
 
 ## The history of monogamy
 
-The book [[wide-open]] names the builders of the one-partner model, from Solon to Napoleon:
+The book [[wide-open|*Wide Open*]] names the builders of the one-partner model, from Solon to Napoleon:
 
 - **Solon** (c. 638–558 BCE) — laws regulating marriage and inheritance, pushing people into state-controlled, paired households.
 - **Emperor Augustus** (63 BCE–14 CE) — strict marriage and adultery laws to control citizens' behaviour, establishing the one-spouse model as the official moral standard.
@@ -31,6 +34,8 @@ The book [[wide-open]] names the builders of the one-partner model, from Solon t
 - **The Council of Trent** (1545–1563) — took control of marriage away from private contracts, making it a fully institutionalised, public, sacramental and exclusively monogamous union under church authority.
 - **European colonial powers** (16th–20th centuries) — claimed full control over marriage in colonised societies worldwide, globalising the European model and suppressing indigenous relationship structures.
 - **Napoleon** (1769–1821) — replaced local customs with a unified legal system making monogamy the only socially accepted and legally recognised form of intimacy across many countries.
+
+## The Bible passages
 
 The passages long used to defend the exclusive model — verses about unity, loyalty and respect — do not forbid multi-partner relationships. Read in context, each carries a different meaning:
 

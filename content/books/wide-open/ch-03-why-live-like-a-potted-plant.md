@@ -4,7 +4,8 @@ book: wide-open
 chapter: 3
 substantial: true
 created: 2026-09-13
-updated: 2026-09-18
+updated: 2026-09-16
+proofread: true
 tags: [chapter-summary/wide-open]
 ---
 
@@ -28,4 +29,4 @@ She is not convinced — but for the first time she doesn't reject the idea. A t
 
 - [[networks-of-love]]
 - [[monogamy]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]

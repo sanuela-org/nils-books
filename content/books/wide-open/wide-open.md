@@ -22,9 +22,9 @@ Nils Klippstein's case for relationship networks instead of the exclusive couple
 
 ## Summary
 
-Exclusive-couple monogamy is a historical construction. Lawmakers, emperors and popes built it over centuries to secure control, property and inheritance. The guilt many people feel about wanting more than one loving bond belongs to that inherited system, not to them.
+Exclusive-couple [[monogamy]] is a historical construction. Lawmakers, emperors and popes built it over centuries to secure control, property and inheritance. The guilt many people feel about wanting more than one loving bond belongs to that inherited system, not to them.
 
-In its place stands the Network of LOVE: several caring connections sharing the load a single partner is otherwise expected to carry alone. The bonds are held together by honesty, consent, individual boundaries and a shared commitment to each other's wellbeing.
+In its place stands the [[networks-of-love|Network of LOVE]]: several caring connections sharing the load a single partner is otherwise expected to carry alone. The bonds are held together by honesty, consent, individual allowances and boundaries and a shared commitment to each other's wellbeing.
 
 The model runs on learnable skills — heart-centred communication, emotional self-regulation, boundaries, jealousy worked as a team, conflict repair, shadow work, compersion and rituals of reconnection. Good feelings need good grounding. The story follows Maia as the idea reaches her, meets her fear, and takes root in her life.
 

@@ -4,7 +4,8 @@ book: wide-open
 chapter: 8
 substantial: true
 created: 2026-09-15
-updated: 2026-09-18
+updated: 2026-09-19
+proofread: true
 tags: [chapter-summary/wide-open]
 ---
 
@@ -22,9 +23,10 @@ Their heart-share practice works for a week. A crash follows: Mark assigns a Thu
 
 ## Practice: Daily Heart-Share
 
-The chapter introduces the daily heart-share practice: five-to-ten-minutes of sharing gratitude, worries, or background feelings, while listening from the heart without immediately trying to solve anything. See [[heart-centred-communication#practice-daily-heart-share]] for the complete practice.
+The chapter introduces the daily heart-share practice: five-to-ten-minutes of sharing gratitude, worries, or background feelings, while listening from the heart without immediately trying to solve anything. See [[heart-centred-communication#Practice: Daily Heart-Share]] for the complete practice.
 
 ## Links to topics
 
+- [[time-and-energy-management]]
 - [[networks-of-love]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]

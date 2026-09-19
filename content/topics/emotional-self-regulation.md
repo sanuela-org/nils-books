@@ -1,24 +1,32 @@
 ---
 title: Emotional Self-Regulation
 type: practice
-books: [wide-open]
-aliases: ["self-regulation", "emotional regulation", "self-soothing", "recognising triggers"]
+books:
+  - wide-open
+aliases:
+  - self-regulation
+  - emotional regulation
+  - self-soothing
+  - recognising triggers
 created: 2026-09-17
-updated: 2026-09-18
-tags: [practice, emotional-self-regulation]
+updated: 2026-09-19
+proofread: true
+tags:
+  - practice
+  - emotional-self-regulation
 ---
 
 # Emotional Self-Regulation
 
 ## Definition
 
-Emotional self-regulation is the practice of cultivating personal stability and resilient presence. It means recognising when you are emotionally triggered, pausing before reacting, and using reliable methods to return to a centred state. In a network of LOVE, this skill keeps you from dumping your emotional wobble on a partner and expecting them to fix it. You work with your own reactions first. Then you engage with honesty and care. It is listed as Skill 2 among the essential practices that make a network of LOVE work safely and sustainably.
+Emotional self-regulation is the practice of cultivating personal stability and resilient presence. It means recognising when you are emotionally triggered, pausing before reacting, and using reliable methods to return to a centred state. In a [[networks-of-love|Network of LOVE]], this skill keeps you from dumping your emotional wobble on a partner and expecting them to fix it. You work with your own reactions first. Then you engage with honesty and care. It is listed as the second among the essential practices that make a Network of LOVE work safely and sustainably.
 
 ## What It Covers
 
 Emotional self-regulation in this framework is not about suppressing feelings. It is about meeting them with awareness and taking full responsibility for your own reactions. Others may stimulate a feeling, but the intensity of your response is yours to work with. Blaming, projecting, or expecting a partner to manage your emotional state is a failure of self-regulation.
 
-The core of the practice:
+The core of the practice, as described in the book [[books/wide-open/wide-open|*Wide Open*]]:
 
 - Recognising early when you are emotionally triggered
 - Taking full responsibility for your emotional reactions instead of blaming others or expecting them to fix things
@@ -28,19 +36,19 @@ The core of the practice:
 
 ## Breathing Through the Heart Centre
 
-The primary tool for emotional self-regulation is heart-centred breathing. This means breathing through the centre of your chest and imagining pure LOVE flowing in and out. It is not a metaphor — it is a physical practice. When jealousy, fear, or insecurity flares, you place a hand on your chest or abdomen and breathe deliberately. The goal is to move from a reactive state into a centred one.
+The primary tool for emotional self-regulation is heart-centred breathing. This means breathing through the centre of your chest and imagining pure LOVE flowing in and out. It is not a metaphor — it is a physical practice. When jealousy, fear, or insecurity flares, you place a hand on your chest or abdomen and breathe naturally. The goal is to move from a reactive state into a centred one.
 
-Heart-centred breathing also underlies the hugging meditations practised throughout the book. In those meditations, partners hold each other and breathe through their heart centres together. This is not just a bonding exercise — it is a way to build the neural pathway of self-regulation so that it is available when you need it most.
+Heart-centred breathing is also at the base of [[hugging-meditations|hugging meditations]]. In this practice, partners hold each other and breathe through their heart centres together. One of the many benefits of hugging meditation is that it helps to build the neural pathway of self-regulation, making it available when you need it most.
 
 ## Pausing as a Tool
 
 Asking for a pause is a proactive tool, not a sign of withdrawal or failure to communicate. The practice is simple: when something triggers you, say "I need a moment." Step away, breathe, and let the initial wave pass. Return to the conversation when you are centred enough to speak from the heart rather than from the wound.
 
-This pause is especially important before sharing something vulnerable. The book shows that processing emotions through walking in nature, breathwork, journaling, or meditation gives you the clarity to communicate what you actually feel, rather than reacting to the first thing that surfaces.
+This pause is especially important before sharing something vulnerable. Processing emotions through walking in nature, breathwork, journaling, or meditation can give you the clarity to communicate what you actually feel, rather than reacting to the first thing that surfaces.
 
 ## Responsibility Without Blame
 
-Emotional self-regulation means owning your triggers as your own work. When your partner laughs with another man and jealousy rises, that jealousy is yours to understand. You do not accuse your partner. You sit with the feeling, ask yourself what it is really about, and share the wound rather than the blame.
+Emotional self-regulation means owning your triggers as your own [[shadow-work|inner shadow work]]. When your partner laughs with someone else and jealousy rises, that jealousy is yours to understand. You do not have to accuse your partner. You can sit with the feeling, ask yourself what it is really about, and share the wound rather than the blame.
 
 When jealousy comes after a partner's time with someone else, the practice is not to retreat or attack. Reach for your partner's hand, name what is happening, and let them know. Take responsibility for the old wound that is being activated, rather than making their happiness the problem.
 
@@ -48,9 +56,9 @@ This is the distinction between self-regulation and blame: the action of others 
 
 ## Holding Contradictory Feelings
 
-A mature practice of emotional self-regulation includes the ability to hold two opposing feelings at once. During a hugging meditation, jealousy stirs in the stomach while warmth expands in the chest. Both are real. Neither is pushed away, and neither waits for the other to disappear. They coexist.
+A mature practice of emotional self-regulation includes the ability to hold two opposing feelings at once. During any situation, emotions could stir in the stomach while warmth may expand in the chest. Both feelings are real. Neither is pushed away, and neither waits for the other to disappear. They coexist.
 
-This is deeply liberating. You do not have to overcome your jealousy before you are allowed to feel joy for your partner. The hard edges soften when you stop demanding that only one feeling be true at a time.
+This is deeply liberating. You do not have to overcome your jealousy before you are allowed to feel joy for your partner. The hard edges soften when you stop demanding that only one feeling can be true at a time.
 
 ## How This Shows Up
 

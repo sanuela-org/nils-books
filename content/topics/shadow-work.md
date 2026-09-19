@@ -5,6 +5,7 @@ books: [wide-open]
 aliases: ["inner shadow work", "core relational beliefs"]
 created: 2026-09-17
 updated: 2026-09-18
+proofread: true
 tags: [concept, shadow-work]
 ---
 
@@ -12,11 +13,11 @@ tags: [concept, shadow-work]
 
 ## Definition
 
-Shadow work is the conscious, ongoing practice of meeting your deepest triggers and patterns with curiosity rather than avoidance. A relationship network accelerates this process by reflecting back unconscious wounds, insecurities, and attachment patterns faster and more intensely than any single relationship could. The discomfort it surfaces is not a sign of failure — it is the price of growth and the raw material for greater emotional freedom.
+Shadow work is the conscious, ongoing practice of meeting your deepest triggers and patterns with curiosity rather than avoidance. A [[networks-of-love|relationship network]] accelerates this process by reflecting back unconscious wounds, insecurities, and attachment patterns faster and more intensely than any single relationship could. The discomfort it surfaces is the price of growth and the raw material for greater emotional freedom.
 
 ## Discomfort as the price of growth
 
-Deep personal work is not optional if you want to build a sustainable, healthy network of partners. It demands sitting with feelings that feel awful — jealousy, fear, envy, old shame — without trying to tame them before they tear you apart. This inner work is not about reaching a state of calm; it is about staying present while the storm passes.
+Deep personal work is not optional if you want to build a sustainable, healthy network of partners. It requires staying with the most painful emotions — jealousy, fear, envy, old shame — neither suppressing them nor letting them overwhelm you. This inner work is not about reaching a state of calm; it is about staying present while the storm passes.
 
 The work is lifelong. Each relational challenge becomes an opportunity for personal evolution. There is no finish line, only a deepening willingness to look at what hurts and ask what it is showing you.
 
@@ -28,7 +29,7 @@ The mirror is not always comfortable. It may show you the gap between who you th
 
 ## Recurring patterns as defences
 
-Old wounds express themselves through automatic communication patterns. These are defences rooted in past experiences, not conscious choices. Common ones include:
+Old wounds express themselves through automatic communication patterns. These are defences rooted in past experiences. Common ones include:
 
 - **People-pleasing** — suppressing your own needs to keep the peace, mistaking compliance for safety.
 - **Withdrawing** — pulling away from connection when vulnerability feels too threatening.
@@ -58,7 +59,7 @@ The work is identifying and investigating these beliefs as they arise, rather th
 
 When a partner's happiness with someone else triggers a deep, disproportionate reaction, it rarely has much to do with the current situation. The intensity of the response points to an older, personal wound — a place where past hurt still lives in the body.
 
-A common example: hearing a partner's happy, intimate laughter with someone else and feeling like it is your own funeral. The real fear underneath may not be about the other person at all. It may be an old story about being the reliable one who is left behind when real intimacy happens elsewhere.
+A common example: hearing a partner's happy, intimate laughter with someone else and feeling like it is your own funeral. The real fear underneath may not be about the other person at all. It may be an old story about being the boring, reliable one who is left behind when real intimacy happens elsewhere.
 
 The past can completely take over the present. Part of shadow work is recognising when this happens and gently distinguishing between who your partner is and who they are not.
 
@@ -83,4 +84,11 @@ See [[emotional-self-regulation]] for the broader practice of working with diffi
 
 ## Related topics
 
-[[emotional-self-regulation]] · [[jealousy-as-a-team-process]] · [[non-attachment-and-compersion]] · [[shame-and-social-conditioning]] · [[heart-centred-communication]] · [[networks-of-love]]  · [[sanuela-retreats]] · [[wide-open]]
+- [[emotional-self-regulation]]
+- [[jealousy-as-a-team-process]]
+- [[non-attachment-and-compersion]]
+- [[shame-and-social-conditioning]]
+- [[heart-centred-communication]]
+- [[networks-of-love]]
+- [[sanuela-retreats]]
+- [[wide-open]]

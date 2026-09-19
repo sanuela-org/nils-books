@@ -4,7 +4,8 @@ type: reference
 books: []
 aliases: ["retreats at Finca Sanuela", "Finca Sanuela retreat", "Sanuela retreat"]
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-19
+proofread: true
 tags: [reference]
 ---
 
@@ -12,17 +13,17 @@ tags: [reference]
 
 ## Definition
 
-A retreat at Finca Sanuela in Tenerife brings the themes of the books into lived experience: a few days or weeks shaped entirely around your current needs and readiness, with no fixed programme and no pressure to be anywhere other than exactly where you are. Whether you come alone or with a partner, the setting is safe and unhurried — a place where ideas about [[networks-of-love]] stop being theory and become practice.
+A retreat at Finca Sanuela in Tenerife brings the themes of the books into lived experience: a few days or weeks shaped entirely around your current needs and readiness, with no fixed programme and no pressure to be anywhere other than exactly where you are. Whether you come alone or with a partner, the setting is safe and unhurried — a place where ideas about your very own [[networks-of-love|Network of LOVE]] stop being theory and become practice.
 
 ## What you can practise and explore
 
 - Heart-centred breathing and speaking — the foundation of honest, loving communication
-- Heart-sharing circles — the daily heart-share as a real, lived experience ([[heart-centred-communication#practice-daily-heart-share|complete practice]])
-- Allowances and boundaries conversations — guided exercises to find your own approach and express it
-- Working with jealousy — identifying triggers, naming fears, the team approach, practising compersion
-- Shadow work — meeting the old wounds and patterns that drive reactions, guided and held safely
+- Heart-sharing circles — the daily heart-share as a real, lived experience ([[heart-centred-communication#Practice: Daily Heart-Share|complete practice]])
+- [[allowances-and-boundaries|Allowances and boundaries]] conversations — guided exercises to find your own approach and express it
+- Working with jealousy — identifying triggers, naming fears, the team approach, practising [[non-attachment-and-compersion|compersion]]
+- [[shadow-work|Inner shadow work]] — meeting the old wounds and patterns that drive reactions, guided and held safely
 - Somatic practices — hand-holding, [[hugging-meditations|hugging meditations]] and other practices that build the body's capacity for trust and openness
-- Individual visioning — what does my network of LOVE actually look like? Who is in it? What do I need to feel safe in it?
+- Individual visioning — what does my Network of LOVE actually look like? Who is in it? What do I need to feel safe in it?
 - Individual sessions — one-to-one time with Nils or another guide to look at your specific situation
 
 ## What makes this different

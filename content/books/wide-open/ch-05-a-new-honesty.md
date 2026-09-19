@@ -5,6 +5,7 @@ chapter: 5
 substantial: true
 created: 2026-09-15
 updated: 2026-09-16
+proofread: true
 tags: [chapter-summary/wide-open]
 ---
 
@@ -28,4 +29,4 @@ He chooses to give her full freedom, with honesty, empathy and trust as his only
 
 - [[monogamy]]
 - [[networks-of-love]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]
