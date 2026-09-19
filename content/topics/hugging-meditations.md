@@ -4,7 +4,7 @@ type: practice
 books: [wide-open]
 aliases: ["hugging meditation", "hug meditation", "energetic healing through hugging"]
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-19
 proofread: true
 tags: [practice, hugging-meditations]
 ---
@@ -62,4 +62,4 @@ Holding hands in everyday life can become a mini-hug once you have felt the full
 - [[non-attachment-and-compersion]]
 - [[networks-of-love]]
 - [[sanuela-retreats]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]

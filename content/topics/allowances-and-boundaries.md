@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: [allowances, boundaries, "levels of closeness", "boundaries in relationships"]
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-19
 proofread: true
 tags: [concept, allowances-and-boundaries]
 ---
@@ -77,4 +77,4 @@ Boundaries are also personal, not universal. Each partner's comfort zone is diff
 - [[jealousy-as-a-team-process]]
 - [[networks-of-love]]
 - [[sanuela-retreats]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]

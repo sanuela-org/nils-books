@@ -2,7 +2,7 @@
 title: Glossary
 type: reference
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-19
 proofread: true
 tags: [reference]
 ---
@@ -17,5 +17,5 @@ Luma is the inner presence of light and LOVE. It begins as a subtle, heart-centr
 
 ## Related topics
 
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]
 - [[sanuela-retreats]]

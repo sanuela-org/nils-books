@@ -63,4 +63,4 @@ In the book [[wide-open|Wide Open]], [[ch-03-why-live-like-a-potted-plant|Chapte
 - [[time-and-energy-management]]
 - [[touch-as-connection]]
 - [[sanuela-retreats]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]

@@ -62,4 +62,4 @@ The alternative to the exclusive couple is a garden rather than a pot: a network
 
 - [[networks-of-love]]
 - [[sanuela-retreats]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]

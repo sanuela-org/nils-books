@@ -68,4 +68,4 @@ The team-process approach transforms jealousy from a shameful failing into a sha
 - [[networks-of-love]]
 - [[conflict-repair]]
 - [[sanuela-retreats]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]

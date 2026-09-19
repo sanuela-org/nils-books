@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["non-attachment", "compersion", "loving-kindness for compersion"]
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-19
 proofread: true
 tags: [concept, non-attachment-and-compersion]
 ---
@@ -73,4 +73,4 @@ When people meet from their inner centre rather than out of need, energies awake
 - [[touch-as-connection]]
 - [[networks-of-love]]
 - [[sanuela-retreats]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]

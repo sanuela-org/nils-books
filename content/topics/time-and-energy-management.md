@@ -68,4 +68,4 @@ When one partner has spent time with someone else, the returning partner carries
 - [[group-dynamics-in-a-relationship-network]]
 - [[networks-of-love]]
 - [[sanuela-retreats]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]

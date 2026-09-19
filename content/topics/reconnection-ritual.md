@@ -4,7 +4,7 @@ type: practice
 books: [wide-open]
 aliases: ["welcoming heart share", "brief retelling"]
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-19
 proofread: true
 tags: [practice, reconnection-ritual]
 ---
@@ -44,4 +44,4 @@ The book [[books/wide-open/wide-open|*Wide Open*]] offers six components. Couple
 - [[heart-centred-communication]]
 - [[touch-as-connection]]
 - [[sanuela-retreats]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]

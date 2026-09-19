@@ -4,7 +4,7 @@ type: practice
 books: [wide-open]
 aliases: ["honest, loving communication", "daily heart-share", "heart share", "heart-share"]
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-19
 proofread: true
 tags: [practice, heart-centred-communication]
 ---
@@ -70,4 +70,4 @@ Honesty and consistency are the most important things. The practice does not nee
 - [[reconnection-ritual]]
 - [[networks-of-love]]
 - [[sanuela-retreats]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]

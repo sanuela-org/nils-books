@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["inner shadow work", "core relational beliefs"]
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-19
 proofread: true
 tags: [concept, shadow-work]
 ---
@@ -91,4 +91,4 @@ See [[emotional-self-regulation]] for the broader practice of working with diffi
 - [[heart-centred-communication]]
 - [[networks-of-love]]
 - [[sanuela-retreats]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]

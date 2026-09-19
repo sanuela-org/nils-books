@@ -2,10 +2,10 @@
 
 > Content catalog. Every page listed under its type with a one-line summary.
 > Read this first to find relevant pages.
-> Last updated: 2026-09-18 | Total pages: 29
+> Last updated: 2026-09-19 | Total pages: 36
 
 ## Books
-- [[wide-open]] — Nils Klippstein, 2026 — opening the heart and building a stable
+- [[wide-open|Book: *Wide Open*]] — Nils Klippstein, 2026 — opening the heart and building a stable
   network of loving relationships instead of the exclusive couple model
 
 ## Topic pages
@@ -34,6 +34,20 @@
   own emotional reactions (practice)
 - [[time-and-energy-management]] — shared time as the network's structural resource: bandwidth,
   fairness, solo time, existing commitments (practice)
+- [[conflict-repair]] — de-escalation, apologising for consequences rather than intentions, and
+  repair that rebuilds the whole circle, not just two people (practice)
+- [[touch-as-connection]] — touch as communication of safety and belonging — the mini-hug, the
+  conditioned system's withholding, warmth carried across bonds (concept)
+- [[safety-and-consent]] — continuous, revocable consent, safe words, and safety as the ground
+  every other skill stands on (concept)
+- [[radical-honesty-and-trust]] — hiding nothing as the precondition of the model; the freedom vow;
+  trust built from repeated honest moments (concept)
+- [[abundance-and-scarcity-in-love]] — LOVE as abundant rather than a limited resource; scarcity thinking as
+  the fuel of jealousy (concept)
+- [[shame-and-social-conditioning]] — shame around loving more than one as inherited conditioning, met with
+  conscious unlearning rather than guilt (concept)
+- [[group-dynamics-in-a-relationship-network]] — the network as a group with its own dynamics: ripples, triangulation vs
+  mediation, shared carrying, group-level awareness (concept)
 - [[glossary]] — the books' shared vocabulary, each term in the author's own
   understanding — starting with Luma (reference)
 - [[sanuela-retreats]] — a few days at Finca Sanuela: the books' themes as lived

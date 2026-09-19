@@ -83,4 +83,4 @@ This is deeply liberating. You do not have to overcome your jealousy before you 
 - [[jealousy-as-a-team-process]] — how jealousy becomes a shared signal to work with, not a private shame
 - [[heart-centred-communication]] — the skill of speaking and listening from a centred, loving place
 - [[sanuela-retreats]] — where the book's practices are experienced in person
-- [[wide-open]] — the book where these practices are presented
+- [[wide-open|Book: *Wide Open*]] — the book where these practices are presented

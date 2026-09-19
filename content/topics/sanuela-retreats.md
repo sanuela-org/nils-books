@@ -50,4 +50,4 @@ For current dates, prices and booking, see the official page: [Retreats at Finca
 - [[hugging-meditations]]
 - [[heart-centred-communication]]
 - [[shadow-work]]
-- [[wide-open]]
+- [[wide-open|Book: *Wide Open*]]
