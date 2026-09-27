@@ -4,7 +4,7 @@ book: wide-open
 chapter: 8
 substantial: true
 created: 2026-09-15
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [chapter-summary/wide-open]
 ---
@@ -15,18 +15,18 @@ tags: [chapter-summary/wide-open]
 
 A daily heart-share steadies Maia and Mark as their relationship opens. A new connection with Chloe brings joy. Then a scheduling crash reveals the real scarcity: time and energy are a network's most finite resource.
 
-## The Message
+## The message
 
 Their heart-share practice works for a week. A crash follows: Mark assigns a Thursday with Chloe without asking Maia. She swallows her disappointment — "It's fine" — recognising her time was the flexible variable. Both use blame and defence instead of the skills they already know. The crash came from a failure to manage their shared time.
 
 [[time-and-energy-management|Time and energy management]] is the real work. Relationship bandwidth is finite and requires conscious, transparent communication. Co-created schedules and shared calendars reduce anxiety. Quality time means full presence; self-care and solo time are non-negotiable. Scheduling conflicts are navigated as inevitable events, not personal rejections. Conflict repair means de-escalating with honest, loving communication and apologising for consequences rather than just explaining intentions. Conflicts send ripples through the wider network. Triangulation pulls a third party to take sides or avoid direct communication; healthy mediation holds space. The distinction matters.
 
-## Practice: Daily Heart-Share
+## Practice: Daily heart-share
 
-The chapter introduces the daily heart-share practice: five-to-ten-minutes of sharing gratitude, worries, or background feelings, while listening from the heart without immediately trying to solve anything. See [[heart-centred-communication#Practice: Daily Heart-Share]] for the complete practice.
+The chapter introduces the daily heart-share practice: five-to-ten-minutes of sharing gratitude, worries, or background feelings, while listening from the heart without immediately trying to solve anything. See [[heart-centred-communication#Practice: Daily heart-share|daily heart-share]] for the complete practice.
 
 ## Links to topics
 
-- [[time-and-energy-management]]
-- [[networks-of-love]]
-- [[wide-open|Book: *Wide Open*]]
+- [[time-and-energy-management|Time and Energy Management]]
+- [[networks-of-love|Networks of LOVE]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

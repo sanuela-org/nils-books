@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["Network of LOVE", "relationship network", "relationship networks"]
 created: 2026-09-14
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [concept, networks-of-love]
 ---
@@ -29,7 +29,7 @@ What the Network of LOVE rejects is the dopamine chase: running through a garden
 
 > "It's not about having more sex. It's about experiencing more growth!"
 
-Slow, honest, grounded growth is what makes a network more enriching and stabilising than [[monogamy]]. Jealousy is the biggest barrier — rooted in old wounds, in the fear of loss or the feeling of not being enough, fear rather than actual loss. Understanding it comes before going further, and *Love Beyond Jealousy* takes it up.
+Slow, honest, grounded growth is what makes a network more enriching and stabilising than [[monogamy|monogamy]]. Jealousy is the biggest barrier — rooted in old wounds, in the fear of loss or the feeling of not being enough, fear rather than actual loss. Understanding it comes before going further, and *Love Beyond Jealousy* takes it up.
 
 The relationship network model answers a need the foreword names: stability that does not have to be questioned every single day — trust, honesty, cohesion and the shared carrying of challenges. Opening wide does not mean giving up safety; the safety is built differently.
 
@@ -52,15 +52,15 @@ In the book [[wide-open|Wide Open]], [[ch-03-why-live-like-a-potted-plant|Chapte
 
 ## Related topics
 
-- [[monogamy]]
-- [[allowances-and-boundaries]]
-- [[group-dynamics-in-a-relationship-network]]
-- [[hugging-meditations]]
-- [[jealousy-as-a-team-process]]
-- [[non-attachment-and-compersion]]
-- [[planning-pause]]
-- [[reconnection-ritual]]
-- [[time-and-energy-management]]
-- [[touch-as-connection]]
-- [[sanuela-retreats]]
-- [[wide-open|Book: *Wide Open*]]
+- [[monogamy|Monogamy]]
+- [[allowances-and-boundaries|Allowances and Boundaries]]
+- [[group-dynamics-in-a-relationship-network|Group Dynamics in a Relationship Network]]
+- [[hugging-meditations|Hugging Meditations]]
+- [[jealousy-as-a-team-process|Jealousy as a Team Process]]
+- [[non-attachment-and-compersion|Non-Attachment and Compersion]]
+- [[planning-pause|Planning Pause]]
+- [[reconnection-ritual|Reconnection Ritual]]
+- [[time-and-energy-management|Time and Energy Management]]
+- [[touch-as-connection|Touch as Connection]]
+- [[sanuela-retreats|Sanuela Retreats]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

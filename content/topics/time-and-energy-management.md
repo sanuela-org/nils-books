@@ -4,7 +4,7 @@ type: practice
 books: [wide-open]
 aliases: ["shared time", "relationship bandwidth", "scheduling"]
 created: 2026-09-17
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [practice, time-and-energy-management]
 ---
@@ -15,13 +15,13 @@ tags: [practice, time-and-energy-management]
 
 Relationship bandwidth is finite. Every human, couple, and network has a limited amount of time, emotional energy, and attention. When new connections enter a relationship, scheduling becomes a structural challenge. Treating shared time as a resource that requires conscious, transparent management prevents the buildup of resentment and unspoken expectations. Time and energy management means evaluating your real capacity before committing, communicating availability honestly, and building systems that keep everyone feeling seen.
 
-## The Thursday Crash
+## The Thursday crash
 
 The most common challenge in a [[networks-of-love|relationship network]] is not jealousy or betrayal. It is a simple failure to manage shared time. In the book [[books/wide-open/wide-open|*Wide Open*]], one partner announces a plan — "a friend is free tonight" — and the other's proposal, already voiced, becomes background noise. The assumption underneath: your time was the flexible variable. The inner replay runs: *We can go another day. They're happy. I'm not jealous. This is what I wanted.*
 
 The crash escalates silently. By evening, greetings stiffen. One partner senses the pull-away and becomes defensive. The other's voice rises: "It's about you not even seeing that there was a choice to make!" The resulting fight is not about a restaurant or a date. It is about being taken for granted — about a ledger of who gave what that surfaces in a moment of hurt. The beautiful, overflowing ease of a good week can hit this first real obstacle overnight.
 
-## Relationship Bandwidth
+## Relationship bandwidth
 
 Managing commitments across multiple relationships requires an honest assessment of what you actually have to give — not an idealised version of your capacity.
 
@@ -31,17 +31,17 @@ Managing commitments across multiple relationships requires an honest assessment
 - Existing commitments carry weight. A new invitation does not automatically override a standing one, even if the standing one was never formally booked.
 - Solo time and self-care are part of the energy budget. Without them, you cannot show up fully for anyone.
 
-## Building Fair Systems
+## Building fair systems
 
 Fairness does not happen by accident. It requires structure that everyone can see and rely on.
 
 - Transparently co-creating schedules honours commitments and reduces anxiety. Shared calendars work because they remove guessing.
-- Regular check-ins — even a few minutes — surface small concerns before they become large ones. The [[heart-centred-communication#Practice: Daily Heart-Share|daily heart-share]] is the steady heartbeat of this work.
+- Regular check-ins — even a few minutes — surface small concerns before they become large ones. The [[heart-centred-communication#Practice: Daily heart-share|daily heart-share]] is the steady heartbeat of this work.
 - Being fully present during scheduled time matters as much as scheduling the time at all. Distractions during connection erode trust quietly.
 - Predictability reduces stress. When people know what to expect, last-minute negotiations disappear and the network stabilises.
 - Graceful navigation of scheduling conflicts depends on the communication skills built elsewhere: [[heart-centred-communication|honest, loving communication]] and emotional [[emotional-self-regulation|self-regulation]].
 
-## Assumptions and Expectations
+## Assumptions and expectations
 
 The core lesson of a typical clash of schedules is about assumptions. One partner assumes that the other will just know what they want. The other assumes that giving explicit permission means everything is fine. Both assumptions are wrong. Expectations form silently and then break under pressure.
 
@@ -51,7 +51,7 @@ The core lesson of a typical clash of schedules is about assumptions. One partne
 - For significant situations — first visits, first stays, first sexual intimacy — allowing a settling period between the idea and the confirmation prevents decisions made in haste.
 - When an invitation arises spontaneously, a shared glance with your partner before responding communicates: *We're a team.*
 
-## After Time Apart
+## After time apart
 
 When one partner has spent time with someone else, the returning partner carries the energies of that connection. The partner who stayed home may have been alone with worry or imagination. The gap between them is real. Without active reconnection, it widens.
 
@@ -62,10 +62,10 @@ When one partner has spent time with someone else, the returning partner carries
 
 ## Related topics
 
-- [[planning-pause]]
-- [[reconnection-ritual]]
-- [[allowances-and-boundaries]]
-- [[group-dynamics-in-a-relationship-network]]
-- [[networks-of-love]]
-- [[sanuela-retreats]]
-- [[wide-open|Book: *Wide Open*]]
+- [[planning-pause|Planning Pause]]
+- [[reconnection-ritual|Reconnection Ritual]]
+- [[allowances-and-boundaries|Allowances and Boundaries]]
+- [[group-dynamics-in-a-relationship-network|Group Dynamics in a Relationship Network]]
+- [[networks-of-love|Networks of LOVE]]
+- [[sanuela-retreats|Sanuela Retreats]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

@@ -4,7 +4,7 @@ book: wide-open
 chapter: 5
 substantial: true
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-23
 proofread: true
 tags: [chapter-summary/wide-open]
 ---
@@ -15,7 +15,7 @@ tags: [chapter-summary/wide-open]
 
 In a dark kitchen, Maia confesses something she fears was cheating. Mark's tears turn into his own, darker confession. The honesty cracks open the rigid frame they have built around their relationship and points toward a new direction.
 
-## The Message
+## The message
 
 The chapter's core arrives through two confessions. Maia's truth — a long hug that lit a warm, golden light — meets Mark's counter-revelation: actual infidelity hidden for a year. The asymmetry matters. Her breach was a connection she feared was cheating. His was a sexual act he knew crossed a line.
 
@@ -27,6 +27,6 @@ He chooses to give her full freedom, with honesty, empathy and trust as his only
 
 ## Links to topics
 
-- [[monogamy]]
-- [[networks-of-love]]
-- [[wide-open|Book: *Wide Open*]]
+- [[monogamy|Monogamy]]
+- [[networks-of-love|Networks of LOVE]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

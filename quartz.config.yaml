@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: sanuela-org.github.io/nils-books
+  baseUrl: books.sanuela.org
   ignorePatterns:
     - private
     - templates

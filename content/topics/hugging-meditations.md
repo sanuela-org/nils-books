@@ -4,7 +4,7 @@ type: practice
 books: [wide-open]
 aliases: ["hugging meditation", "hug meditation", "energetic healing through hugging"]
 created: 2026-09-17
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [practice, hugging-meditations]
 ---
@@ -27,7 +27,7 @@ The initial awkwardness dissolves quickly. What remains is deep, beautiful prese
 
 Time softens and stretches. Five minutes or twenty — it does not matter. When the practice feels complete, separate slowly. There is no need for words. The shared presence speaks for itself.
 
-## Safety and Structure
+## Safety and structure
 
 Every hugging meditation rests on clear agreements:
 
@@ -38,7 +38,7 @@ Every hugging meditation rests on clear agreements:
 - There is no agenda. Neither partner expects something from the other — no conversation, no reciprocity, no romantic escalation.
 - The practice is consensual at every stage. One person guides the other closer only after feeling genuine openness and willingness.
 
-## The Glow
+## The glow
 
 The body may respond to hugging meditation by experiencing a specific sensation, such as a warm, golden light radiating from the chest. This is not a metaphor. Participants describe it as a real, physical sensation that nourishes the soul deeply — like a spa treatment. Some also experience an energetic tingling sensation in their cells.
 
@@ -46,7 +46,7 @@ The glow may stay with you even after the practice ends. It follows you home. It
 
 Touch withheld by the conditioned social system is one of the deepest deprivations people experience. A hugging meditation restores what culture has taken: the simple, sacred act of holding another human being without needing to own them.
 
-## Carrying It Home
+## Carrying it home
 
 The practice does not stay in the circle. Its purpose is to nourish every bond you have. When you return to a partner after a hugging meditation, you bring a fuller heart and a calmer presence. Sharing the experience openly — describing the glow, the safety, the feeling of being seen — builds trust rather than breaking it.
 
@@ -54,12 +54,12 @@ Holding hands in everyday life can become a mini-hug once you have felt the full
 
 ## Related topics
 
-- [[touch-as-connection]]
-- [[safety-and-consent]]
-- [[reconnection-ritual]]
-- [[allowances-and-boundaries]]
-- [[heart-centred-communication]]
-- [[non-attachment-and-compersion]]
-- [[networks-of-love]]
-- [[sanuela-retreats]]
-- [[wide-open|Book: *Wide Open*]]
+- [[touch-as-connection|Touch as Connection]]
+- [[safety-and-consent|Safety and Consent]]
+- [[reconnection-ritual|Reconnection Ritual]]
+- [[allowances-and-boundaries|Allowances and Boundaries]]
+- [[heart-centred-communication|Heart-Centred Communication]]
+- [[non-attachment-and-compersion|Non-Attachment and Compersion]]
+- [[networks-of-love|Networks of LOVE]]
+- [[sanuela-retreats|Sanuela Retreats]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

@@ -4,7 +4,7 @@ book: wide-open
 chapter: 4
 substantial: true
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-23
 proofread: true
 tags: [chapter-summary/wide-open]
 ---
@@ -15,7 +15,7 @@ tags: [chapter-summary/wide-open]
 
 Layla's voice message describes a balancing walk and a [[hugging-meditations|hugging meditation]] practice. She invites Maia to join her and Dorian by the pond in the park. Maia says yes, driven by a curiosity she can no longer ignore. The practice opens something unexpected — and Maia walks home carrying both a radiant glow and the first stirrings of guilt.
 
-## Key Insight
+## Key insight
 
 Maia experiences the hugging meditation for herself. The practice deepens through breath and presence: sitting face to face with eyes closed, first just holding hands, and then drawing into an embrace. Through the centre of the chest, she breathes in and out pure LOVE — nothing else matters right now. She just feels.
 
@@ -25,5 +25,5 @@ But the glow does not erase what her stomach already knows. The word cheating ec
 
 ## Links to topics
 
-- [[networks-of-love]]
-- [[wide-open|Book: *Wide Open*]]
+- [[networks-of-love|Networks of LOVE]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

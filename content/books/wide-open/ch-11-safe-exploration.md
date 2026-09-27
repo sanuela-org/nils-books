@@ -4,7 +4,7 @@ book: wide-open
 chapter: 11
 substantial: true
 created: 2026-09-15
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [chapter-summary/wide-open]
 ---
@@ -15,7 +15,7 @@ tags: [chapter-summary/wide-open]
 
 Maia and Layla walk together again, weeks later, and it feels to them like they are learning a whole new language of relationships. What follows is a careful exploration with boundaries in place: three people discovering sacred sensuality without shame, and two partners learning to hold space for it.
 
-## In Essence
+## In essence
 
 The story threads through a park walk, an evening at Dorian's apartment, and Mark at home. One idea runs through: growth happens now, not when we feel perfectly ready.
 
@@ -25,11 +25,11 @@ At Dorian's apartment, three humans who trust each other follow what feels good.
 
 The Brief Retelling reconnects them. Maia's experience felt sacred, without possession or shame. In yab yum they breathe together. In bed they share what they are unlearning. His old story that her happiness elsewhere means he is not enough. Her fear of not knowing where to stop. Some days she is still afraid. She does it anyway.
 
-## Practice: Reconnection Ritual
+## Practice: Reconnection ritual
 
 The Reconnection Ritual bridges the gap after time apart — especially when one partner has been with someone else. The only rule: don't skip it. Options include a welcoming heart share, a [[hugging-meditations|hugging meditation]] in yab yum, a shared shower, a brief retelling, a quick reclaiming, or shared silence. The specifics matter less than consistency.
 
 ## Links to topics
 
-- [[networks-of-love]]
-- [[wide-open|Book: *Wide Open*]]
+- [[networks-of-love|Networks of LOVE]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

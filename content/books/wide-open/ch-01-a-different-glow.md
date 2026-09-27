@@ -4,7 +4,7 @@ book: wide-open
 chapter: 1
 substantial: true
 created: 2026-09-15
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [chapter-summary/wide-open]
 ---
@@ -15,9 +15,9 @@ tags: [chapter-summary/wide-open]
 
 Maia meets Layla in a café and listens as Layla describes a weekend retreat on conscious connection. The teaching arrives entirely through their dialogue — a picture of aliveness that prompts Maia to question her own assumptions.
 
-## In Essence
+## In essence
 
-Layla describes guided practices that felt safe and free: sharing circles and [[hugging-meditations]] — fully clothed, with clear rules and a safe word. A long, silent hold with Dorian left her breathing through her heart centres, rediscovering her own capacity for connection. The retreat gave a name to the warm, golden light in her chest: [[glossary#Luma|*Luma*]].
+Layla describes guided practices that felt safe and free: sharing circles and [[hugging-meditations|hugging meditations]] — fully clothed, with clear rules and a safe word. A long, silent hold with Dorian left her breathing through her heart centres, rediscovering her own capacity for connection. The retreat gave a name to the warm, golden light in her chest: [[glossary#Luma|*Luma*]].
 
 She talked through it all with Pascal before going. She came home more present, more herself. She calls Pascal her main, home-cooked meal — a different flavour does not mean the meal is lacking. Telling Pascal about Dorian was not a confession but a sharing. He admitted a fear of jealousy, yet he is more afraid of her dimming her light for his comfort. It is an experiment in trust.
 
@@ -27,7 +27,7 @@ A seed sits planted in Maia's heart — terrifying and thrilling.
 
 ## Links to topics
 
-- [[hugging-meditations]]
-- [[networks-of-love]]
-- [[monogamy]]
-- [[wide-open|Book: *Wide Open*]]
+- [[hugging-meditations|Hugging Meditations]]
+- [[networks-of-love|Networks of LOVE]]
+- [[monogamy|Monogamy]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

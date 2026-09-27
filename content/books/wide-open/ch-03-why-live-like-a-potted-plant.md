@@ -4,7 +4,7 @@ book: wide-open
 chapter: 3
 substantial: true
 created: 2026-09-13
-updated: 2026-09-16
+updated: 2026-09-23
 proofread: true
 tags: [chapter-summary/wide-open]
 ---
@@ -15,7 +15,7 @@ tags: [chapter-summary/wide-open]
 
 On a park walk, Layla pitches the [[networks-of-love|Network of LOVE]] as a garden rather than a potted plant. Maia pushes back with fears of chaos and loss. That evening, alone at her kitchen table, Maia writes out the vision in her own words. She is not yet convinced, but a root of curiosity has taken hold.
 
-## In Essence
+## In essence
 
 Under the park's soil a mycelial network connects every tree, bush and flower — sharing nutrients, sending warnings, the strong supporting the weak. That resilience is the model: when one partner needs time alone, others hold the space, and responsibility is shared rather than concentrated. No single partner can always meet every emotional and sensual need. Expecting one human to be best friend, cheerleader, therapist and lover at once is an impossible weight. Couples strain under it, then rumble — or fall asleep.
 
@@ -27,6 +27,6 @@ She is not convinced — but for the first time she doesn't reject the idea. A t
 
 ## Links to topics
 
-- [[networks-of-love]]
-- [[monogamy]]
-- [[wide-open|Book: *Wide Open*]]
+- [[networks-of-love|Networks of LOVE]]
+- [[monogamy|Monogamy]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

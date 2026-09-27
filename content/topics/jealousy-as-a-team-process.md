@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["jealousy is a team process", "jealousy as a team", "team approach to jealousy"]
 created: 2026-09-17
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [concept, jealousy-as-a-team-process]
 ---
@@ -30,7 +30,7 @@ A relationship network acts as a powerful mirror. It reflects unconscious patter
 - **Fear of loss.** The core thought is: *I'm losing her. I'm losing him. I'm losing us.* But the feeling often activates before any loss has actually occurred — it is a projection of dread, not a response to reality.
 - **Fear of not being enough.** A partner's joy with someone else can trigger the belief: *I am the safe, predictable one. The real, exciting connection is happening somewhere else. My value lies in my stability, and my punishment for being stable is being boring.*
 - **Envy tangled with jealousy.** Jealousy says, *I'm losing something I have.* Envy asks, *Why does she get to have that and I don't?* The two feelings often twist together into a single knot. Untangling them is part of the work.
-- **No healthy models.** People have only ever known [[monogamy]] or chaotic dating. Anything else feels unfamiliar and therefore unsafe. The absence of examples makes jealousy feel like proof that the whole model is dangerous.
+- **No healthy models.** People have only ever known [[monogamy|monogamy]] or chaotic dating. Anything else feels unfamiliar and therefore unsafe. The absence of examples makes jealousy feel like proof that the whole model is dangerous.
 
 ## Working jealousy as a team
 
@@ -53,19 +53,19 @@ The team-process approach transforms jealousy from a shameful failing into a sha
 ## Key terms
 
 - **Team process** — the shared, collaborative approach to handling jealousy. Never one's problem to solve alone; a responsibility of everyone involved.
-- **Compersion** — the ability to feel authentic joy in a partner's joy with someone else. Not the absence of jealousy; an active, cultivated skill that can coexist with fear. See [[non-attachment-and-compersion]].
+- **Compersion** — the ability to feel authentic joy in a partner's joy with someone else. Not the absence of jealousy; an active, cultivated skill that can coexist with fear. See [[non-attachment-and-compersion|non-attachment and compersion]].
 - **Fear alarm** — jealousy understood as a signal rather than a truth. It tells you where to look, not what is actually happening.
-- **Shadow-work** — the inner work of meeting old wounds and unconscious patterns with conscious curiosity, rather than projecting them onto present relationships. See [[shadow-work]].
-- **Heart-centred breathing** — the foundational practice for emotional self-regulation: breathing through the heart centre to return to a centred state before engaging with others. See [[heart-centred-communication]].
+- **Shadow-work** — the inner work of meeting old wounds and unconscious patterns with conscious curiosity, rather than projecting them onto present relationships. See [[shadow-work|shadow work]].
+- **Heart-centred breathing** — the foundational practice for emotional self-regulation: breathing through the heart centre to return to a centred state before engaging with others. See [[heart-centred-communication|heart-centred communication]].
 
 ## Related topics
 
-- [[non-attachment-and-compersion]]
-- [[emotional-self-regulation]]
-- [[heart-centred-communication]]
-- [[shadow-work]]
-- [[allowances-and-boundaries]]
-- [[networks-of-love]]
-- [[conflict-repair]]
-- [[sanuela-retreats]]
-- [[wide-open|Book: *Wide Open*]]
+- [[non-attachment-and-compersion|Non-Attachment and Compersion]]
+- [[emotional-self-regulation|Emotional Self-Regulation]]
+- [[heart-centred-communication|Heart-Centred Communication]]
+- [[shadow-work|Shadow Work]]
+- [[allowances-and-boundaries|Allowances and Boundaries]]
+- [[networks-of-love|Networks of LOVE]]
+- [[conflict-repair|Conflict Repair]]
+- [[sanuela-retreats|Sanuela Retreats]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

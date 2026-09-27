@@ -4,7 +4,7 @@ type: reference
 books: []
 aliases: ["retreats at Finca Sanuela", "Finca Sanuela retreat", "Sanuela retreat"]
 created: 2026-09-18
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [reference]
 ---
@@ -18,7 +18,7 @@ A retreat at Finca Sanuela in Tenerife brings the themes of the books into lived
 ## What you can practise and explore
 
 - Heart-centred breathing and speaking — the foundation of honest, loving communication
-- Heart-sharing circles — the daily heart-share as a real, lived experience ([[heart-centred-communication#Practice: Daily Heart-Share|complete practice]])
+- Heart-sharing circles — the daily heart-share as a real, lived experience ([[heart-centred-communication#Practice: Daily heart-share|complete practice]])
 - [[allowances-and-boundaries|Allowances and boundaries]] conversations — guided exercises to find your own approach and express it
 - Working with jealousy — identifying triggers, naming fears, the team approach, practising [[non-attachment-and-compersion|compersion]]
 - [[shadow-work|Inner shadow work]] — meeting the old wounds and patterns that drive reactions, guided and held safely
@@ -45,9 +45,9 @@ For current dates, prices and booking, see the official page: [Retreats at Finca
 
 ## Related topics
 
-- [[glossary]]
-- [[networks-of-love]]
-- [[hugging-meditations]]
-- [[heart-centred-communication]]
-- [[shadow-work]]
-- [[wide-open|Book: *Wide Open*]]
+- [[glossary|Glossary]]
+- [[networks-of-love|Networks of LOVE]]
+- [[hugging-meditations|Hugging Meditations]]
+- [[heart-centred-communication|Heart-Centred Communication]]
+- [[shadow-work|Shadow Work]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

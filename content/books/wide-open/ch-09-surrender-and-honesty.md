@@ -4,7 +4,7 @@ book: wide-open
 chapter: 9
 substantial: true
 created: 2026-09-15
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [chapter-summary/wide-open]
 ---
@@ -15,7 +15,7 @@ tags: [chapter-summary/wide-open]
 
 Mark arrives at Chloe's carrying regret after a fight with Maia. Honesty, surrender and confession surface old wounds. Core Practice 2: [[planning-pause|The Planning Pause]] emerges, and a tentative step toward a shared network.
 
-## In Essence
+## In essence
 
 Mark replays the fight on the drive over. He announced plans, did not ask, took Maia for granted. At Chloe's door he hides nothing and explains the scheduling failure and unspoken expectations that bred resentment, without defending himself. She suggests sitting together for tea.
 
@@ -27,12 +27,12 @@ Mark's instinct is to defend, explain, solve. He stops. He breathes. He listens.
 
 Maia names what must change — stop making assumptions. Mark writes down Core Practice 2: the Planning Pause. The jealousy doesn't vanish; it becomes something they can work through together. Chloe's group-tea idea is accepted — you cannot build a [[networks-of-love|Network of LOVE]] by avoiding things. 
 
-## Practice: Planning Pause
+## Practice: Planning pause
 
-Before committing to plans involving someone else, pause and check in with your partner — not for permission, but for transparency; see [[planning-pause]] for the complete practice.
+Before committing to plans involving someone else, pause and check in with your partner — not for permission, but for transparency; see [[planning-pause|Planning Pause]] for the complete practice.
 
 ## Links to topics
 
-- [[planning-pause]]
-- [[networks-of-love]]
-- [[wide-open|Book: *Wide Open*]]
+- [[planning-pause|Planning Pause]]
+- [[networks-of-love|Networks of LOVE]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

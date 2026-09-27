@@ -4,7 +4,7 @@ book: wide-open
 chapter: 6
 substantial: true
 created: 2026-09-15
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [chapter-summary/wide-open]
 ---
@@ -15,7 +15,7 @@ tags: [chapter-summary/wide-open]
 
 Mark watches Maia and Dorian breathing together through their heart centres. His anxiety gives way to balance and inclusion. The next morning, he and Maia begin building a blueprint of skills — starting with [[heart-centred-communication|honest, loving communication]] and [[emotional-self-regulation|emotional regulation]].
 
-## In Essence
+## In essence
 
 Mark places a hand on Maia's ankle. It doesn't feel like something is being taken from him — instead, balance and inclusion. The next morning, he admits the jealous voice is still there.
 
@@ -27,7 +27,7 @@ Maia reads that jealousy isn't just one person's problem but the responsibility 
 
 ## Links to topics
 
-- [[heart-centred-communication]]
-- [[emotional-self-regulation]]
-- [[networks-of-love]]
-- [[wide-open|Book: *Wide Open*]]
+- [[heart-centred-communication|Heart-Centred Communication]]
+- [[emotional-self-regulation|Emotional Self-Regulation]]
+- [[networks-of-love|Networks of LOVE]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

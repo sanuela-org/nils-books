@@ -4,7 +4,7 @@ book: wide-open
 chapter: 2
 substantial: true
 created: 2026-09-13
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [chapter-summary/wide-open]
 ---
@@ -13,9 +13,9 @@ tags: [chapter-summary/wide-open]
 
 ## What this chapter explores
 
-Layla sends Maia a document she once compiled, laying out how [[monogamy]] was constructed as a system of inherited rules. That night Maia lies awake, sensing that what she had always accepted as normal is not a natural order.
+Layla sends Maia a document she once compiled, laying out how [[monogamy|monogamy]] was constructed as a system of inherited rules. That night Maia lies awake, sensing that what she had always accepted as normal is not a natural order.
 
-## The Perspective
+## The perspective
 
 Layla's text reframes Maia's guilt and shame as a historical inheritance from patriarchy rather than a personal failure. She names what the builders of the one-partner model were after: control. Across centuries, figures from Solon to Napoleon built the one-partner model through law and doctrine. Marriage laws, adultery codes, church enforcement, colonial spread — the builders crafted a system for order and ownership, not happiness or freedom.
 
@@ -25,6 +25,6 @@ Maia sees it: the life she accepted as normal was not a natural order. Pascal se
 
 ## Links to topics
 
-- [[monogamy]]
-- [[networks-of-love]]
-- [[wide-open|Book: *Wide Open*]]
+- [[monogamy|Monogamy]]
+- [[networks-of-love|Networks of LOVE]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["exclusive monogamy", "one-partner model", "traditional relationship model"]
 created: 2026-09-15
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [concept, monogamy]
 ---
@@ -44,7 +44,7 @@ The passages long used to defend the exclusive model — verses about unity, loy
 - **Matthew 5:27-28** — "Anyone who looks at a woman lustfully has already committed adultery with her in his heart." Traditional interpretation: a call to extreme sexual discipline; any desire outside the marriage bond is sinful. Different perspective: the passage critiques objectification and selfish desire, not loving or consensual intimacy — it warns against using people, not against forming more than one caring bond.
 - **1 Corinthians 7:2** — "each man should have his own wife and each woman her own husband." Traditional interpretation: a clear command — one man, one woman — justifying a closed, possessive model; a cornerstone of monogamy in Christian ethics. Different perspective: practical advice to a troubled community, guiding people toward responsible intimacy — a solution for its moment, not a universal rule about how many caring bonds a human heart can hold.
 
-The alternative to the exclusive couple is a garden rather than a pot: a network joined underground, where touch is not ownership and LOVE is abundant rather than a limited resource — see [[networks-of-love]].
+The alternative to the exclusive couple is a garden rather than a pot: a network joined underground, where touch is not ownership and LOVE is abundant rather than a limited resource — see [[networks-of-love|Networks of LOVE]].
 
 ## Common misunderstandings
 
@@ -56,10 +56,10 @@ The alternative to the exclusive couple is a garden rather than a pot: a network
 
 - **The inherited order** — monogamy understood as a system of control and property rather than a natural arrangement.
 - **LOVE** — always capitalised in this book, and treated as abundant rather than a limited resource.
-- **Network of LOVE** — a stable, honest web of connections that shares the emotional load a couple would otherwise carry alone; see [[networks-of-love]].
+- **Network of LOVE** — a stable, honest web of connections that shares the emotional load a couple would otherwise carry alone; see [[networks-of-love|Networks of LOVE]].
 
 ## Related topics
 
-- [[networks-of-love]]
-- [[sanuela-retreats]]
-- [[wide-open|Book: *Wide Open*]]
+- [[networks-of-love|Networks of LOVE]]
+- [[sanuela-retreats|Sanuela Retreats]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

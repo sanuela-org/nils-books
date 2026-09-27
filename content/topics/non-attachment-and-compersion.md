@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["non-attachment", "compersion", "loving-kindness for compersion"]
 created: 2026-09-17
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [concept, non-attachment-and-compersion]
 ---
@@ -50,7 +50,7 @@ Like any skill, compersion improves with practice. The more you train it, the mo
 - Ask: what am I afraid of losing? Jealousy is fear wearing a mask — almost always a fear of abandonment, inadequacy or scarcity. Identify the specific fear. Ask whether it is rooted in reality or an old wound. Separate the past from the present.
 - Celebrate a partner's return as a choice. Every time they come back, they are choosing you — not out of duty, but out of affection. Welcome them home with genuine curiosity. Their happiness is not a threat; it is evidence of their ability to LOVE.
 
-## Practice: Loving-Kindness for Compersion
+## Practice: Loving-kindness for compersion
 
 Sit quietly for five minutes and breathe through your heart centre. Inwardly recite these words — first to your partner, then to yourself, and finally to their other connection: "May you be happy. May you be free from suffering. May you feel joy and ease." This re-wires the brain towards empathy and away from threat.
 
@@ -66,11 +66,11 @@ When people meet from their inner centre rather than out of need, energies awake
 
 ## Related topics
 
-- [[jealousy-as-a-team-process]]
-- [[shadow-work]]
-- [[abundance-and-scarcity-in-love]]
-- [[hugging-meditations]]
-- [[touch-as-connection]]
-- [[networks-of-love]]
-- [[sanuela-retreats]]
-- [[wide-open|Book: *Wide Open*]]
+- [[jealousy-as-a-team-process|Jealousy as a Team Process]]
+- [[shadow-work|Shadow Work]]
+- [[abundance-and-scarcity-in-love|Abundance and Scarcity in LOVE]]
+- [[hugging-meditations|Hugging Meditations]]
+- [[touch-as-connection|Touch as Connection]]
+- [[networks-of-love|Networks of LOVE]]
+- [[sanuela-retreats|Sanuela Retreats]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

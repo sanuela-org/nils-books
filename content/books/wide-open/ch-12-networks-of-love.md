@@ -4,7 +4,7 @@ book: wide-open
 chapter: networks-of-love
 substantial: true
 created: 2026-09-15
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [chapter-summary/wide-open]
 ---
@@ -15,7 +15,7 @@ tags: [chapter-summary/wide-open]
 
 The book's closing essay returns to the core model after the story ends. It distils the case for Networks of LOVE into direct non-fiction, covering why the old model fails and what a garden ecosystem offers instead.
 
-## In Essence
+## In essence
 
 The [[monogamy|traditional relationship model]] has followed us for thousands of years, built on possessiveness and fear. Countless people fear physical contact, too many live without real intimacy, and many feel lonely even inside their relationship.
 
@@ -26,6 +26,6 @@ This replaces the binary divide between "just friends" and "romantic lovers" wit
 Sharing comfort and joy, as well as emotional burdens, promotes individual growth and collective stability. When people meet from their inner centre rather than from need, energies awaken and flow freely — without possession, pressure or performance. Steady presence, [[heart-centred-communication|honest communication]], [[allowances-and-boundaries|allowances and boundaries]] and shared commitment create a calm, resilient field. Touch, closeness and even arousal can flourish without fear because trust, consent and fairness stabilise the whole circle.
 
 ## Links to topics
-- [[networks-of-love]]
-- [[monogamy]]
-- [[wide-open|Book: *Wide Open*]]
+- [[networks-of-love|Networks of LOVE]]
+- [[monogamy|Monogamy]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

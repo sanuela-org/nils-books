@@ -5,7 +5,7 @@ chapter: foreword
 unabridged: true
 substantial: true
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-23
 proofread: true
 tags: [chapter-summary/wide-open]
 ---
@@ -30,7 +30,7 @@ So what was the new way? And how could I feel safe within it? Human beings are m
 
 It was while writing the book *Ayana, High Priestess of Sanuela* that my inner journey of exploration began. In that intuitively written, fictional story, there was a woman who could not decide which of the two men close to her would be better suited for a relationship. She felt something for both of them, and those feelings were not comparable with each other. She faced a dilemma that she could only resolve near the end of the book.
 
-At its heart, that book is about energetic healing through [[hugging-meditations]] – something I only came to understand in the course of the intuitive writing process. Something that has always troubled me: if long embraces with another soul feel truly wonderful, why do we usually not allow ourselves this outside of an established partnership? And what about holding hands? It has become a symbol of mutual ownership. Yet the feeling of it is something like a mini-hug – and therefore a deeply healing experience that, within our conditioned social system, we withhold from one another.
+At its heart, that book is about energetic healing through [[hugging-meditations|hugging meditations]] – something I only came to understand in the course of the intuitive writing process. Something that has always troubled me: if long embraces with another soul feel truly wonderful, why do we usually not allow ourselves this outside of an established partnership? And what about holding hands? It has become a symbol of mutual ownership. Yet the feeling of it is something like a mini-hug – and therefore a deeply healing experience that, within our conditioned social system, we withhold from one another.
 
 I sensed that I needed many more new stories and books to explore these things and, in doing so, find new paths that felt safe, good, and right.
 

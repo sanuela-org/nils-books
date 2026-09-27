@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["inner shadow work", "core relational beliefs"]
 created: 2026-09-17
-updated: 2026-09-19
+updated: 2026-09-23
 proofread: true
 tags: [concept, shadow-work]
 ---
@@ -43,7 +43,7 @@ Jealousy and envy are often confused, but they carry different messages. Jealous
 
 Both are valid signals. Jealousy is fear wearing a mask — almost always rooted in a fear of abandonment, inadequacy, or scarcity. Envy is longing — a yearning for a quality of connection you haven't yet experienced for yourself.
 
-See [[jealousy-as-a-team-process]] and [[non-attachment-and-compersion]] for more on working with these feelings.
+See [[jealousy-as-a-team-process|jealousy as a team process]] and [[non-attachment-and-compersion|non-attachment and compersion]] for more on working with these feelings.
 
 ## Core relational beliefs
 
@@ -71,7 +71,7 @@ This does not mean shutting down connection. It means arriving at relationships 
 
 Jealousy and joy can coexist — realising this is a form of self-validation. You do not have to overcome your jealousy before you are allowed to feel joy. Both feelings can be true simultaneously. That ability to hold two truths at once is deeply liberating.
 
-See [[emotional-self-regulation]] for the broader practice of working with difficult feelings.
+See [[emotional-self-regulation|emotional self-regulation]] for the broader practice of working with difficult feelings.
 
 ## How this shows up
 
@@ -84,11 +84,11 @@ See [[emotional-self-regulation]] for the broader practice of working with diffi
 
 ## Related topics
 
-- [[emotional-self-regulation]]
-- [[jealousy-as-a-team-process]]
-- [[non-attachment-and-compersion]]
-- [[shame-and-social-conditioning]]
-- [[heart-centred-communication]]
-- [[networks-of-love]]
-- [[sanuela-retreats]]
-- [[wide-open|Book: *Wide Open*]]
+- [[emotional-self-regulation|Emotional Self-Regulation]]
+- [[jealousy-as-a-team-process|Jealousy as a Team Process]]
+- [[non-attachment-and-compersion|Non-Attachment and Compersion]]
+- [[shame-and-social-conditioning|Shame and Social Conditioning]]
+- [[heart-centred-communication|Heart-Centred Communication]]
+- [[networks-of-love|Networks of LOVE]]
+- [[sanuela-retreats|Sanuela Retreats]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]

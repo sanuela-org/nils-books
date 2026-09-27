@@ -4,7 +4,7 @@ book: wide-open
 chapter: 13
 substantial: true
 created: 2026-09-15
-updated: 2026-09-18
+updated: 2026-09-23
 proofread: true
 tags: [chapter-summary/wide-open]
 ---
@@ -27,6 +27,6 @@ Readers who feel drawn to explore the book's themes in person are invited to lea
 
 ## Links to topics
 
-- [[sanuela-retreats]]
-- [[networks-of-love]]
-- [[wide-open|Book: *Wide Open*]]
+- [[sanuela-retreats|Sanuela Retreats]]
+- [[networks-of-love|Networks of LOVE]]
+- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
