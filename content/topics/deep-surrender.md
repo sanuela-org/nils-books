@@ -35,4 +35,4 @@ Deep surrender is not passivity or defeat. It is not being overpowered. It is a 
 - [[letting-go|Letting Go]]
 - [[masculine-and-feminine-balance|Masculine and Feminine Balance]]
 - [[inner-sanctuary|Inner Sanctuary]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

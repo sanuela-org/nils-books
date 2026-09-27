@@ -38,4 +38,4 @@ Through breathing and holding yourself in this way, you become what you seek. Yo
 - [[non-attachment-and-compersion|Non-Attachment and Compersion]]
 - [[heart-centred-communication|Heart-Centred Communication]]
 - [[inner-protector|Inner Protector]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

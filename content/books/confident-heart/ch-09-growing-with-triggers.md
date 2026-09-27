@@ -30,4 +30,4 @@ From this grounded place, old scripts lose their grip. Options replace the refle
 
 - [[growing-with-triggers|Growing With Triggers]]
 - [[controller-and-victim-masks|Controller and Victim Masks]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

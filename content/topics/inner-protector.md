@@ -73,4 +73,4 @@ When the protector's voice as inner critic is met with gratitude rather than res
 - [[inner-sanctuary|Inner Sanctuary]]
 - [[shame-and-social-conditioning|Shame and Social Conditioning]]
 - [[heart-qualities|Heart Qualities]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

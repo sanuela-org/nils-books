@@ -43,4 +43,4 @@ Fear often arrives through a trigger. The pause protocol of [[growing-with-trigg
 - [[expanding-the-comfort-zone|Expanding the Comfort Zone]]
 - [[inner-protector|Inner Protector]]
 - [[heart-centred-communication|Heart-Centred Communication]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

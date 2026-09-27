@@ -29,4 +29,4 @@ The chapter introduces the daily heart-share practice: five-to-ten-minutes of sh
 
 - [[time-and-energy-management|Time and Energy Management]]
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

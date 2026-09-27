@@ -17,7 +17,7 @@ The guilt and shame people carry about loving more than one human is a condition
 
 ## Shame as historical inheritance
 
-The book [[books/wide-open/wide-open|*Wide Open*]] describes it like this: the guilt and shame around loving more than one person are a historical inheritance from patriarchy. They were engineered. A series of rulers and institutions, from Solon's marriage laws to Napoleon's legal codes, imposed the one-partner model to manage inheritance, property and social order. The builders of the one-partner model acted from motives of control and governance, not human happiness. Over centuries, these external rules became internalised as conscience. The [[monogamy|inherited order of monogamy]] is documented in full on its own page.
+The book [[wide-open|Wide Open]] describes it like this: the guilt and shame around loving more than one person are a historical inheritance from patriarchy. They were engineered. A series of rulers and institutions, from Solon's marriage laws to Napoleon's legal codes, imposed the one-partner model to manage inheritance, property and social order. The builders of the one-partner model acted from motives of control and governance, not human happiness. Over centuries, these external rules became internalised as conscience. The [[monogamy|inherited order of monogamy]] is documented in full on its own page.
 
 People now carry an emotionally charged collective memory of generations whose bodies were legislated and whose desire for human closeness was shamed. This memory lives in the body as automatic response — a clench in the stomach, a flash of fear — and disguises itself as moral intuition. Shame feels personal, but its architecture is political. The conditioned social system produced it, and only conscious unlearning can dismantle it. 
 
@@ -47,4 +47,4 @@ The body often responds before the mind catches up — a tightening, a flush, an
 - [[touch-as-connection|Touch as Connection]]
 - [[radical-honesty-and-trust|Radical Honesty and Trust]]
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

@@ -57,4 +57,4 @@ From this inner stability, friendliness radiates outward and the world mirrors i
 - [[heart-centred-communication|Heart-Centred Communication]]
 - [[friendly-universe|Friendly Universe]]
 - [[inner-protector|Inner Protector]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

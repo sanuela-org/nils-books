@@ -1,0 +1,30 @@
+{
+  "name": "nils-books-ui",
+  "version": "1.0.0",
+  "description": "Book cover header, index cover cards, folder/tag titles for Nils-Books",
+  "type": "module",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js"
+  },
+  "quartz": {
+    "name": "nils-books-ui",
+    "displayName": "Nils Books UI",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 46,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "BookUI": {
+        "name": "BookUI",
+        "displayName": "Book UI",
+        "description": "Cover header on pages with cover frontmatter; cover cards on pages with show_book_covers; titles for folder/tag pages",
+        "version": "1.0.0"
+      }
+    }
+  }
+}

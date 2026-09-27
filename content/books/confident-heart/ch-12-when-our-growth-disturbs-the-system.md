@@ -31,4 +31,4 @@ Staying true to yourself is not selfish. You do not change the world by demandin
 ## Links to topics
 
 - [[growing-with-triggers|Growing With Triggers]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

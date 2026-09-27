@@ -35,4 +35,4 @@ Before committing to plans involving someone else, pause and check in with your 
 
 - [[planning-pause|Planning Pause]]
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

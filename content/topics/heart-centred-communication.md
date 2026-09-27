@@ -39,7 +39,7 @@ This style of communication creates a safe space for vulnerability. It builds tr
 
 ## Practice: Daily heart-share
 
-This simple practice from the book [[books/wide-open/wide-open|*Wide Open*]] builds emotional transparency and trust. It ensures that small concerns are voiced early, preventing them from escalating. It is about honest sharing, not about solving problems. This is the steady heartbeat of a stable [[networks-of-love|relationship network]].
+This simple practice from the book [[wide-open|Wide Open]] builds emotional transparency and trust. It ensures that small concerns are voiced early, preventing them from escalating. It is about honest sharing, not about solving problems. This is the steady heartbeat of a stable [[networks-of-love|relationship network]].
 
 **Duration:** 5–10 minutes. Some days you set aside time. On others it happens naturally while walking or doing dishes. Honesty and consistency matter most.
 
@@ -70,4 +70,4 @@ Honesty and consistency are the most important things. The practice does not nee
 - [[reconnection-ritual|Reconnection Ritual]]
 - [[networks-of-love|Networks of LOVE]]
 - [[sanuela-retreats|Sanuela Retreats]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

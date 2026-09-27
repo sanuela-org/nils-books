@@ -23,7 +23,7 @@ Scarcity thinking says LOVE is a limited resource: whatever one partner gives aw
 
 ## Where scarcity thinking comes from
 
-The book [[books/wide-open/wide-open|*Wide Open*]] describes the scarcity mindset as a cultural construct. People believe that if a partner shares their attention, touch or tenderness with someone else, something is being taken away.
+The book [[wide-open|Wide Open]] describes the scarcity mindset as a cultural construct. People believe that if a partner shares their attention, touch or tenderness with someone else, something is being taken away.
 
 This belief fuels jealousy and the urge to possess. The scarcity frame makes any outside connection feel like a loss, even when nothing is actually missing. It shapes behaviour in quiet ways: monitoring a partner's time, feeling threatened by closeness with others, treating affection as a limited resource. People learn to shield LOVE rather than share it, and the relationship tightens around that fear.
 
@@ -58,4 +58,4 @@ Old wounds reinforce scarcity thinking. Understanding [[jealousy-as-a-team-proce
 - [[non-attachment-and-compersion|Non-Attachment and Compersion]]
 - [[jealousy-as-a-team-process|Jealousy as a Team Process]]
 - [[monogamy|Monogamy]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

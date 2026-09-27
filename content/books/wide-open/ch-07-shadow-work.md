@@ -26,4 +26,4 @@ Recurring patterns — people-pleasing, withdrawing, blaming — are automatic d
 ## Links to topics
 - [[shadow-work|Shadow Work]]
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

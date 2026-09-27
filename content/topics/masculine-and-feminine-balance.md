@@ -37,4 +37,4 @@ Reclaiming the feminine is not defeating the masculine but restoring its partner
 - [[deep-surrender|Deep Surrender]]
 - [[inner-protector|Inner Protector]]
 - [[unshakable-self|Unshakable Self]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

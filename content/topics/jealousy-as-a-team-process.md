@@ -34,7 +34,7 @@ A relationship network acts as a powerful mirror. It reflects unconscious patter
 
 ## Working jealousy as a team
 
-The team-process approach transforms jealousy from a shameful failing into a shared puzzle to solve. No one is left alone with the monster in their stomach. The book [[books/wide-open/wide-open|*Wide Open*]] describes it like this:
+The team-process approach transforms jealousy from a shameful failing into a shared puzzle to solve. No one is left alone with the monster in their stomach. The book [[wide-open|Wide Open]] describes it like this:
 
 - **Acknowledge the signal.** When jealousy arises, say it out loud. Suppressing it only strengthens it. "I feel jealous right now. That's perfectly normal." The goal is not to eliminate the feeling but to stop it from running the show.
 - **Sit with it together.** Everyone affected breathes through the heart centre and listens. The one feeling jealousy is not being accused. The one triggering it is not being blamed. The team is working to understand the root cause together.
@@ -68,4 +68,4 @@ The team-process approach transforms jealousy from a shameful failing into a sha
 - [[networks-of-love|Networks of LOVE]]
 - [[conflict-repair|Conflict Repair]]
 - [[sanuela-retreats|Sanuela Retreats]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

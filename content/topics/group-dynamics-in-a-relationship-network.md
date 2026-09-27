@@ -13,7 +13,7 @@ tags: [concept, group-dynamics-in-a-relationship-network]
 
 ## Definition
 
-A [[networks-of-love|Network of LOVE]] is not a couple with extra people bolted on. It is a group with its own emergent dynamics. When three or more human beings share closeness, the system develops properties no single pair contains: tensions travel, trust accumulates across the circle, and everyone's wellbeing affects everyone else. Treating the relationship network as a living organism rather than a collection of isolated pairs is what keeps it stable. The book [[books/wide-open/wide-open|*Wide Open*]] describes it like this: each connection contributes to the health of the whole garden.
+A [[networks-of-love|Network of LOVE]] is not a couple with extra people bolted on. It is a group with its own emergent dynamics. When three or more human beings share closeness, the system develops properties no single pair contains: tensions travel, trust accumulates across the circle, and everyone's wellbeing affects everyone else. Treating the relationship network as a living organism rather than a collection of isolated pairs is what keeps it stable. The book [[wide-open|Wide Open]] describes it like this: each connection contributes to the health of the whole garden.
 
 ## Conflicts send ripples
 
@@ -58,4 +58,4 @@ Many learn to think about relationships one pair at a time. They focus on their 
 - [[allowances-and-boundaries|Allowances and Boundaries]]
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[heart-centred-communication|Heart-Centred Communication]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

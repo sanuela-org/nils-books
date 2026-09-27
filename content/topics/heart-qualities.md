@@ -66,4 +66,4 @@ Identity is not fixed. It is a living, breathing garden. You can feel vulnerable
 - [[inner-protector|Inner Protector]]
 - [[unshakable-self|Unshakable Self]]
 - [[inner-sanctuary|Inner Sanctuary]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

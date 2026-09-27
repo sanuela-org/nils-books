@@ -30,6 +30,6 @@ Living from the heart hands us a kaleidoscope. Every shift in perspective reveal
 
 ## Links to topics
 
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]
 - [[multiple-truths|Multiple Truths]]
 - [[group-dynamics-in-a-relationship-network|Group Dynamics in a Relationship Network]]

@@ -31,4 +31,4 @@ Numbing the longing with food, substances or social media presses the snooze but
 - [[transforming-the-longing|Transforming the Longing]]
 - [[heart-centred-communication|Heart-Centred Communication]]
 - [[non-attachment-and-compersion|Non-Attachment and Compersion]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

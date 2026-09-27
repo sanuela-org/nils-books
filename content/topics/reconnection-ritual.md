@@ -21,7 +21,7 @@ After time apart, assumptions and emotions pile up fast. The partner who stayed 
 
 ## The rituals
 
-The book [[books/wide-open/wide-open|*Wide Open*]] offers six components. Couples can choose one, combine them, or create their own.
+The book [[wide-open|Wide Open]] offers six components. Couples can choose one, combine them, or create their own.
 
 - Welcoming Heart Share: Sit facing each other, hold hands, breathe together through the heart centres. Ask each other a question and truly listen. "How do you really feel?" "How did you feel while we were apart?" "What do you need from me right now?"
 - Welcoming Hug: Undress and hold each other for at least ten minutes, standing or sitting in yab yum. Skin to skin, breath to breath. No agenda beyond presence.
@@ -44,4 +44,4 @@ The book [[books/wide-open/wide-open|*Wide Open*]] offers six components. Couple
 - [[heart-centred-communication|Heart-Centred Communication]]
 - [[touch-as-connection|Touch as Connection]]
 - [[sanuela-retreats|Sanuela Retreats]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

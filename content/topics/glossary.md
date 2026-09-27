@@ -45,5 +45,5 @@ The book's name for millennia of imbalanced masculine principle: separation, con
 
 ## Related topics
 
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
 - [[sanuela-retreats|Sanuela Retreats]]

@@ -26,7 +26,7 @@ Emotional self-regulation is the practice of cultivating personal stability and 
 
 Emotional self-regulation in this framework is not about suppressing feelings. It is about meeting them with awareness and taking full responsibility for your own reactions. Others may stimulate a feeling, but the intensity of your response is yours to work with. Blaming, projecting, or expecting a partner to manage your emotional state is a failure of self-regulation.
 
-The core of the practice, as described in the book [[books/wide-open/wide-open|*Wide Open*]]:
+The core of the practice, as described in the book [[wide-open|Wide Open]]:
 
 - Recognising early when you are emotionally triggered
 - Taking full responsibility for your emotional reactions instead of blaming others or expecting them to fix things
@@ -83,4 +83,4 @@ This is deeply liberating. You do not have to overcome your jealousy before you 
 - [[jealousy-as-a-team-process|Jealousy as a Team Process]] — how jealousy becomes a shared signal to work with, not a private shame
 - [[heart-centred-communication|Heart-Centred Communication]] — the skill of speaking and listening from a centred, loving place
 - [[sanuela-retreats|Sanuela Retreats]] — where the book's practices are experienced in person
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]] — the book where these practices are presented
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]] — the book where these practices are presented

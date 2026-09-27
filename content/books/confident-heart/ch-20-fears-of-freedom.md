@@ -29,4 +29,4 @@ The path of the confident heart is a pioneering one. It takes courage to face mi
 
 - [[networks-of-love|Network of LOVE]]
 - [[shame-and-social-conditioning|Shame and Social Conditioning]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

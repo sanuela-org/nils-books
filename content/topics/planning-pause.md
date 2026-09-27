@@ -13,7 +13,7 @@ tags: [practice, planning-pause]
 
 ## Definition
 
-The Planning Pause is a relationship practice, described in the book [[books/wide-open/wide-open|*Wide Open*]]: before committing to any plan that involves spending time with someone, pause and check in with your partner(s) first. This is mainly about transparency: ensuring no existing commitments or feelings are overlooked in the excitement of a new invitation.
+The Planning Pause is a relationship practice, described in the book [[wide-open|Wide Open]]: before committing to any plan that involves spending time with someone, pause and check in with your partner(s) first. This is mainly about transparency: ensuring no existing commitments or feelings are overlooked in the excitement of a new invitation.
 
 ## The benefit
 
@@ -55,4 +55,4 @@ The Planning Pause can prevent scheduling clashes, such as when one partner make
 - [[safety-and-consent|Safety and Consent]] — why the 24-hour waiting period matters for significant firsts
 - [[networks-of-love|Networks of LOVE]] — the wider structure the Planning Pause serves
 - [[sanuela-retreats|Sanuela Retreats]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

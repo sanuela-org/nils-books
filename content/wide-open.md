@@ -126,5 +126,5 @@ The book's practices, with full steps living on their topic pages:
 
 ## Related books
 
-- [[books/confident-heart/confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]
 

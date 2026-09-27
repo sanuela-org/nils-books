@@ -30,4 +30,4 @@ Once recognised, [[emotional-self-regulation|heart-centred breathing]] offers th
 
 - [[controller-and-victim-masks|Controller and Victim Masks]]
 - [[emotional-self-regulation|Emotional Self-Regulation]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

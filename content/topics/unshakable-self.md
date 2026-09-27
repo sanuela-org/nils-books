@@ -2,7 +2,7 @@
 title: Unshakable self
 type: concept
 books: [confident-heart]
-aliases: [confident heart, fearless mind, the conductor and the orchestra]
+aliases: [fearless mind, the conductor and the orchestra]
 created: 2026-09-27
 updated: 2026-09-27
 proofread: true
@@ -37,4 +37,4 @@ The armour felt like skin for so long. Taking it off can feel terrifying. There 
 - [[heart-qualities|Heart Qualities]]
 - [[inner-protector|Inner Protector]]
 - [[masculine-and-feminine-balance|Masculine and Feminine Balance]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

@@ -21,7 +21,7 @@ Physical closeness carries information that voice and gesture cannot fully deliv
 
 This is why touch in stillness, without agenda, without expectation, can feel more honest than any conversation. It bypasses the defences humans build around words and lands directly in the nervous system. The result is a sense of being met, fully and without condition.
 
-The book [[books/wide-open/wide-open|*Wide Open*]] describes it like this: holding hands is something like a mini-hug, and therefore a deeply healing experience. It is small enough to happen anywhere — on a walk, sitting on a bench, sharing a quiet moment on a sofa — yet the energy it carries is real.
+The book [[wide-open|Wide Open]] describes it like this: holding hands is something like a mini-hug, and therefore a deeply healing experience. It is small enough to happen anywhere — on a walk, sitting on a bench, sharing a quiet moment on a sofa — yet the energy it carries is real.
 
 A hand-hold that is offered with presence becomes a channel for the same warmth that longer embraces generate. Two palms held together can start a current of peace, acceptance and appreciation that ripples through the whole body. What makes it healing is the quality of the attention behind it. When touch is given with full presence, even a brief contact leaves a mark of calm that stays with both people long after they part.
 
@@ -59,4 +59,4 @@ This is about recognising that LOVE, when truly felt, naturally overflows. The a
 - [[allowances-and-boundaries|Allowances and Boundaries]]
 - [[shame-and-social-conditioning|Shame and Social Conditioning]]
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

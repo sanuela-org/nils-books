@@ -105,7 +105,7 @@ The destination is the [[unshakable-self|unshakable self]]: longing transformed 
 
 - The inner protector (the ego) is an innate survival mechanism, guarding core fears; its strategies were logical responses to real or perceived danger.
 - The fortress's hidden costs: a fatigue that sleep cannot cure, numbing, distraction, and an inner critic that makes you your own cruelest guardian.
-- Safety that nourishes is generated within, as [[glossary|*Geborgenheit*]], and carried everywhere; it comes from an inner sanctuary, not from walls.
+- Safety that nourishes is generated within, as [[glossary|Geborgenheit]], and carried everywhere; it comes from an inner sanctuary, not from walls.
 - Growth happens in the stretch zone through small, integrated expansions; the walls move outwards instead of coming down.
 - Fear is met with acknowledgement, heart-centred breathing and curious inquiry; the ego cannot tell vulnerability from danger, and the heart can.
 - The controller and victim masks feed each other; heart-centred language ("I feel …", "I choose not to …") makes the roles redundant.
@@ -162,4 +162,4 @@ Practised across the chapters, with full steps living on their topic pages:
 
 ## Related books
 
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

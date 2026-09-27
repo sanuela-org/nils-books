@@ -63,4 +63,4 @@ In the book [[wide-open|Wide Open]], [[ch-03-why-live-like-a-potted-plant|Chapte
 - [[time-and-energy-management|Time and Energy Management]]
 - [[touch-as-connection|Touch as Connection]]
 - [[sanuela-retreats|Sanuela Retreats]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

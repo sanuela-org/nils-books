@@ -25,7 +25,7 @@ The key tools are heart-centred breathing and [[heart-centred-communication|hone
 
 Many apologies miss their mark because they focus on defending intentions. Saying "I didn't mean to hurt you" can feel like minimisation when someone is in pain. Genuine repair addresses the actual impact — what happened and how it landed.
 
-As described in the book [[books/wide-open/wide-open|*Wide Open*]], an effective apology names the specific harm. It acknowledges that even well-meaning actions can cause real damage. This distinction matters because it shifts the conversation from who was right to what can be done to make things right. Forgiveness follows naturally when the one who was hurt feels truly seen and understood.
+As described in the book [[wide-open|Wide Open]], an effective apology names the specific harm. It acknowledges that even well-meaning actions can cause real damage. This distinction matters because it shifts the conversation from who was right to what can be done to make things right. Forgiveness follows naturally when the one who was hurt feels truly seen and understood.
 
 ## Repair conversation vs. re-litigation
 
@@ -54,4 +54,4 @@ Sometimes a balanced third perspective from within or outside the network can he
 - [[jealousy-as-a-team-process|Jealousy as a Team Process]]
 - [[allowances-and-boundaries|Allowances and Boundaries]]
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

@@ -50,4 +50,4 @@ For current dates, prices and booking, see the official page: [Retreats at Finca
 - [[hugging-meditations|Hugging Meditations]]
 - [[heart-centred-communication|Heart-Centred Communication]]
 - [[shadow-work|Shadow Work]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

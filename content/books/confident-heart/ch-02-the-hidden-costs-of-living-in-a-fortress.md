@@ -28,4 +28,4 @@ Over time, the protector's voice hardens into a permanent inner critic. Like a g
 
 - [[inner-protector|Inner Protector]]
 - [[abundance-and-scarcity-in-love|Abundance and Scarcity in LOVE]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

@@ -19,7 +19,7 @@ The guilt and shame around wanting to be close to someone else come from a histo
 
 ## The history of monogamy
 
-The book [[wide-open|*Wide Open*]] names the builders of the one-partner model, from Solon to Napoleon:
+The book [[wide-open|Wide Open]] names the builders of the one-partner model, from Solon to Napoleon:
 
 - **Solon** (c. 638–558 BCE) — laws regulating marriage and inheritance, pushing people into state-controlled, paired households.
 - **Emperor Augustus** (63 BCE–14 CE) — strict marriage and adultery laws to control citizens' behaviour, establishing the one-spouse model as the official moral standard.
@@ -62,4 +62,4 @@ The alternative to the exclusive couple is a garden rather than a pot: a network
 
 - [[networks-of-love|Networks of LOVE]]
 - [[sanuela-retreats|Sanuela Retreats]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

@@ -28,4 +28,4 @@ Working with this territory means pausing when an old armoured pattern surfaces,
 
 - [[heart-qualities|Heart Qualities]]
 - [[inner-protector|Inner Protector]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

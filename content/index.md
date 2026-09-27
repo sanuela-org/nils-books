@@ -1,3 +1,8 @@
+---
+title: Nils-Books — Index
+show_book_covers: true
+---
+
 # Nils-Books — Index
 
 > Content catalog. Every page listed under its type with a one-line summary.
@@ -5,9 +10,9 @@
 > Last updated: 2026-09-27 | Total pages: 72
 
 ## Books
-- [[wide-open|Book: *Wide Open*]] — Nils Klippstein, 2026 — opening the heart and building a stable
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]] — Nils Klippstein, 2026 — opening the heart and building a stable
   network of loving relationships instead of the exclusive couple model
-- [[confident-heart|Book: *The Confident Heart*]] — Nils Klippstein, 2025 — from fear to LOVE: the
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]] — Nils Klippstein, 2025 — from fear to LOVE: the
   inner protector's fortress, its costs, and the confident heart built in its place
 
 ## Topic pages

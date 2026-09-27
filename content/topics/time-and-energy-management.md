@@ -17,7 +17,7 @@ Relationship bandwidth is finite. Every human, couple, and network has a limited
 
 ## The Thursday crash
 
-The most common challenge in a [[networks-of-love|relationship network]] is not jealousy or betrayal. It is a simple failure to manage shared time. In the book [[books/wide-open/wide-open|*Wide Open*]], one partner announces a plan — "a friend is free tonight" — and the other's proposal, already voiced, becomes background noise. The assumption underneath: your time was the flexible variable. The inner replay runs: *We can go another day. They're happy. I'm not jealous. This is what I wanted.*
+The most common challenge in a [[networks-of-love|relationship network]] is not jealousy or betrayal. It is a simple failure to manage shared time. In the book [[wide-open|Wide Open]], one partner announces a plan — "a friend is free tonight" — and the other's proposal, already voiced, becomes background noise. The assumption underneath: your time was the flexible variable. The inner replay runs: *We can go another day. They're happy. I'm not jealous. This is what I wanted.*
 
 The crash escalates silently. By evening, greetings stiffen. One partner senses the pull-away and becomes defensive. The other's voice rises: "It's about you not even seeing that there was a choice to make!" The resulting fight is not about a restaurant or a date. It is about being taken for granted — about a ledger of who gave what that surfaces in a moment of hurt. The beautiful, overflowing ease of a good week can hit this first real obstacle overnight.
 
@@ -68,4 +68,4 @@ When one partner has spent time with someone else, the returning partner carries
 - [[group-dynamics-in-a-relationship-network|Group Dynamics in a Relationship Network]]
 - [[networks-of-love|Networks of LOVE]]
 - [[sanuela-retreats|Sanuela Retreats]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

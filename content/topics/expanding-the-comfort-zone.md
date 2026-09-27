@@ -36,4 +36,4 @@ The ego then fears arousal or misinterpretation. Curiosity reframes this as noti
 - [[hugging-meditations|Hugging Meditations]]
 - [[inner-protector|Inner Protector]]
 - [[meeting-fear|Meeting fear]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

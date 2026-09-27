@@ -29,4 +29,4 @@ Readers who feel drawn to explore the book's themes in person are invited to lea
 
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

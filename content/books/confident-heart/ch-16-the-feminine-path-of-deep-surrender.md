@@ -32,4 +32,4 @@ Forgiveness is not condoning hurt but a decision to release energetic cords bind
 
 - [[deep-surrender|Deep Surrender]]
 - [[masculine-and-feminine-balance|Masculine and Feminine Balance]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

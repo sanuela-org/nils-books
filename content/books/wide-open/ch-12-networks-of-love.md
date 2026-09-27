@@ -28,4 +28,4 @@ Sharing comfort and joy, as well as emotional burdens, promotes individual growt
 ## Links to topics
 - [[networks-of-love|Networks of LOVE]]
 - [[monogamy|Monogamy]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

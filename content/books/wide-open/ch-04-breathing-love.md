@@ -19,11 +19,11 @@ Layla's voice message describes a balancing walk and a [[hugging-meditations|hug
 
 Maia experiences the hugging meditation for herself. The practice deepens through breath and presence: sitting face to face with eyes closed, first just holding hands, and then drawing into an embrace. Through the centre of the chest, she breathes in and out pure LOVE — nothing else matters right now. She just feels.
 
-What follows is a wide-open sensation in her chest: [[glossary#Luma|*Luma*]]. Not excitement or romantic attraction, but a vibrant, loving peace. Dancing liquid light spreads from her heart to every cell, releasing tension she had not realised she was carrying. Time softens. There are no thoughts, only deep sensations. The glow Layla had spoken of is real, and it stays with Maia as she walks home in a dreamlike haze.
+What follows is a wide-open sensation in her chest: [[glossary#Luma|Luma]]. Not excitement or romantic attraction, but a vibrant, loving peace. Dancing liquid light spreads from her heart to every cell, releasing tension she had not realised she was carrying. Time softens. There are no thoughts, only deep sensations. The glow Layla had spoken of is real, and it stays with Maia as she walks home in a dreamlike haze.
 
 But the glow does not erase what her stomach already knows. The word cheating echoes, ugly and unavoidable. Maia recognises that the secret would poison her happiness with Mark. Her fear is acute, yet her heart holds the warm expansiveness of the light. She resolves to show him the glow, hoping he will see it too.
 
 ## Links to topics
 
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

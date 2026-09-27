@@ -28,4 +28,4 @@ This is reparenting the inner world: vulnerability is not an overwhelming threat
 
 - [[meeting-fear|Meeting fear]]
 - [[heart-centred-communication|Heart-Centred Communication]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

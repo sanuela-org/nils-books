@@ -27,4 +27,4 @@ Maia sees it: the life she accepted as normal was not a natural order. Pascal se
 
 - [[monogamy|Monogamy]]
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

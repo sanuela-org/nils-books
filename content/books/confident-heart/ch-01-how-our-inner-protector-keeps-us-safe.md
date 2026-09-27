@@ -24,4 +24,4 @@ The path to a confident heart begins with gratitude. Before anything changes, yo
 ## Links to topics
 
 - [[inner-protector|Inner Protector]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

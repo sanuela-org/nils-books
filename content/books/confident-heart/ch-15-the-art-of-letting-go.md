@@ -30,4 +30,4 @@ Small practices build this skill. The worst-case scenario approach involves faci
 
 - [[letting-go|Letting Go]]
 - [[friendly-universe|Friendly Universe]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

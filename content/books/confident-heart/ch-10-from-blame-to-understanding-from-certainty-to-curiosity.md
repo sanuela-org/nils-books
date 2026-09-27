@@ -30,4 +30,4 @@ Certainty builds walls. The heart holds its own truth gently enough to leave roo
 
 - [[heart-centred-communication|Heart-Centred Communication]]
 - [[multiple-truths|Multiple Truths]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

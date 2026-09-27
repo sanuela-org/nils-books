@@ -61,4 +61,4 @@ When partners offer a steady presence, honest communication, individual allowanc
 - [[hugging-meditations|Hugging Meditations]]
 - [[group-dynamics-in-a-relationship-network|Group Dynamics in a Relationship Network]]
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

@@ -34,5 +34,5 @@ Co-created agreements grow from honest conversations: what nourishes both partne
 - [[non-attachment-and-compersion|Non-Attachment and Compersion]]
 - [[abundance-and-scarcity-in-love|Abundance and Scarcity in LOVE]]
 - [[allowances-and-boundaries|Allowances and Boundaries]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

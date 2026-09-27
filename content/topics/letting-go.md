@@ -42,4 +42,4 @@ Consciously practise letting go in situations where little is at stake. Choose f
 - [[friendly-universe|Friendly Universe]]
 - [[deep-surrender|Deep Surrender]]
 - [[inner-protector|Inner Protector]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

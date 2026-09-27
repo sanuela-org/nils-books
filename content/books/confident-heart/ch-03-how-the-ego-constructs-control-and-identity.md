@@ -31,4 +31,4 @@ Transforming this fearsome tyrant into a wise advisor allows the confident heart
 ## Links to topics
 
 - [[inner-protector|Inner Protector]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

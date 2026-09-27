@@ -29,4 +29,4 @@ When the inner marriage occurs, directed action flows from receptive, loving pea
 
 - [[masculine-and-feminine-balance|Masculine and Feminine Balance]]
 - [[inner-protector|Inner Protector]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

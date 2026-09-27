@@ -91,4 +91,4 @@ See [[emotional-self-regulation|emotional self-regulation]] for the broader prac
 - [[heart-centred-communication|Heart-Centred Communication]]
 - [[networks-of-love|Networks of LOVE]]
 - [[sanuela-retreats|Sanuela Retreats]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

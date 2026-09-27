@@ -32,4 +32,4 @@ The greatest legacy is the energetic imprint — the LOVE we dare to embody, the
 ## Links to topics
 
 - [[unshakable-self|The Unshakable Self]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

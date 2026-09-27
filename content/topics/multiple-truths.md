@@ -29,4 +29,4 @@ The heart's kaleidoscope unfolds a world where a supposed villain is a wounded s
 - [[inner-protector|Inner Protector]]
 - [[heart-qualities|Heart Qualities]]
 - [[shame-and-social-conditioning|Shame and Social Conditioning]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

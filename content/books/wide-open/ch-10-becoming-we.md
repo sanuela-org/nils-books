@@ -31,4 +31,4 @@ The chapter closes with kind wishes — for your partner, for yourself, and for 
 
 - [[non-attachment-and-compersion|Non-Attachment and Compersion]]
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

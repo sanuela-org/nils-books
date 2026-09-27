@@ -12,6 +12,7 @@ configuration:
     - private
     - templates
     - .obsidian
+    - proposal-*
   theme:
     fontOrigin: local
     cdnCaching: false
@@ -154,7 +155,7 @@ plugins:
       position: right
       priority: 50
   - source: "@quartz-community/article-title"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 10
@@ -187,6 +188,8 @@ plugins:
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
     enabled: true
+    options:
+      showCurrentPage: false
     layout:
       position: beforeBody
       priority: 5
@@ -204,6 +207,11 @@ plugins:
     layout:
       position: footer
       priority: 50
+  - source: "./nils-books-ui"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 32
   - source: "@quartz-community/recent-notes"
     enabled: false
   - source: "@quartz-community/spacer"

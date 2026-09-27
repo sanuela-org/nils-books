@@ -30,4 +30,4 @@ Maia reads that jealousy isn't just one person's problem but the responsibility 
 - [[heart-centred-communication|Heart-Centred Communication]]
 - [[emotional-self-regulation|Emotional Self-Regulation]]
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

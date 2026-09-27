@@ -62,4 +62,4 @@ Holding hands in everyday life can become a mini-hug once you have felt the full
 - [[non-attachment-and-compersion|Non-Attachment and Compersion]]
 - [[networks-of-love|Networks of LOVE]]
 - [[sanuela-retreats|Sanuela Retreats]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

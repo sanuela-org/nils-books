@@ -29,4 +29,4 @@ She is not convinced — but for the first time she doesn't reject the idea. A t
 
 - [[networks-of-love|Networks of LOVE]]
 - [[monogamy|Monogamy]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

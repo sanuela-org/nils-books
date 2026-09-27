@@ -28,4 +28,4 @@ Your inner sanctuary is portable. Difficult conversations and stressful meetings
 
 - [[inner-sanctuary|Inner Sanctuary]]
 - [[heart-centred-communication|Heart-Centred Communication]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

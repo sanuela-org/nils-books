@@ -77,4 +77,4 @@ Boundaries are also personal, not universal. Each partner's comfort zone is diff
 - [[jealousy-as-a-team-process|Jealousy as a Team Process]]
 - [[networks-of-love|Networks of LOVE]]
 - [[sanuela-retreats|Sanuela Retreats]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

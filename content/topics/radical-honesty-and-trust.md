@@ -27,7 +27,7 @@ A confession made to ease a guilty conscience is not the same as genuine care. T
 
 ## How trust is built
 
-The book [[books/wide-open/wide-open|*Wide Open*]] describes it like this: Trust grows not from grand declarations, but from consistent, small acts of transparency over time, a living practice of showing up truthfully, again and again.
+The book [[wide-open|Wide Open]] describes it like this: Trust grows not from grand declarations, but from consistent, small acts of transparency over time, a living practice of showing up truthfully, again and again.
 
 - Every honest moment is a deposit that strengthens the relationship's foundation.
 - Repeated transparency creates a felt sense of safety — you stop wondering what your partner is hiding.
@@ -62,4 +62,4 @@ A secret kept "to protect" someone is almost always a secret kept to protect you
 - [[non-attachment-and-compersion|Non-Attachment and Compersion]]
 - [[monogamy|Monogamy]]
 - [[networks-of-love|Networks of LOVE]]
-- [[wide-open|Book: *Wide Open. How to Open Our Hearts and Build a Network of LOVE*]]
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

@@ -46,4 +46,4 @@ Cross-link [[letting-go|Letting go]] for the fuller letting-go practice.
 - [[inner-sanctuary|Inner Sanctuary]]
 - [[letting-go|Letting Go]]
 - [[inner-protector|Inner Protector]]
-- [[confident-heart|Book: *The Confident Heart. From Fear to LOVE*]]
+- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]
