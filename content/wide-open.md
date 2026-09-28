@@ -8,6 +8,7 @@ isbn: ""
 asin: ""
 kdp_url: ""
 cover: cover.jpg
+summary: "opening the heart and building a stable network of loving relationships instead of the exclusive couple model"
 sources: [_sources/wide-open/]
 topics: [monogamy, networks-of-love, hugging-meditations, jealousy-as-a-team-process, heart-centred-communication, shadow-work, planning-pause, reconnection-ritual, non-attachment-and-compersion, allowances-and-boundaries, emotional-self-regulation, time-and-energy-management, conflict-repair, touch-as-connection, safety-and-consent, radical-honesty-and-trust, abundance-and-scarcity-in-love, shame-and-social-conditioning, group-dynamics-in-a-relationship-network, sanuela-retreats, glossary]
 chapters_summarized: 14

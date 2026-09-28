@@ -1,0 +1,21 @@
+{
+  "name": "nils-books-data",
+  "version": "1.0.0",
+  "description": "Adds frontmatter fields (year) to static/contentIndex.json so client-side components like the explorer can sort by them",
+  "type": "module",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "quartz": {
+    "name": "nils-books-data",
+    "displayName": "Nils Books Data",
+    "category": "emitter",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 55,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

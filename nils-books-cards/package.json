@@ -1,0 +1,21 @@
+{
+  "name": "nils-books-cards",
+  "version": "1.0.0",
+  "description": "Injects book cover cards into the site index body, right after the '## Books' heading",
+  "type": "module",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "quartz": {
+    "name": "nils-books-cards",
+    "displayName": "Nils Books Cards",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 75,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

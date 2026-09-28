@@ -86,7 +86,7 @@ Last updated: September 27, 2026 | Total pages: 72
   fearless mind as orchestra; the heart-mind check-in; legacy as energetic imprint (concept)
 
 ## Chapter summaries
-### wide-open
+### Wide Open. How to Open Our Hearts and Build a Network of LOVE
 - [[wide-open/ch-00-foreword|Foreword]] — the full foreword, unabridged: the inner voice after the
   last traditional breakup, and how the search for the new way began
 - [[ch-01-a-different-glow|Ch 1 — A Different Glow]] — Layla's retreat glow (Luma) over café chai, and
@@ -116,7 +116,7 @@ Last updated: September 27, 2026 | Total pages: 72
 - [[ch-13-a-few-days-that-change-everything|Ch 13 — A Few Days That Change Everything]] — a few days at Finca Sanuela: the
   book's themes met in person
 
-### confident-heart
+### The Confident Heart. From Fear to LOVE
 - [[confident-heart/ch-00-foreword|Foreword]] — written with an AI assistant, on what no assistant
   replaces: facing our deepest fears and shadow sides, and lovingly accepting them
 - [[confident-heart/ch-01-how-our-inner-protector-keeps-us-safe|Ch 1 — How Our Inner Protector Keeps Us Safe]] — the ego as innate

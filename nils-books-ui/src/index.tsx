@@ -61,52 +61,7 @@ function BookUI({ fileData, allFiles }: QuartzComponentProps) {
     )
   }
 
-  // 2) book blocks — pages opting in via `show_book_covers: true` (index.md):
-  // same look as the book-page header: cover left, "Title. Subtitle" right, byline smaller.
-  if (fm.show_book_covers && Array.isArray(allFiles)) {
-    const books = allFiles
-      .filter((f) => (f.frontmatter as Fm | undefined)?.cover)
-      .map((f) => ({ slug: String(f.slug), fm: (f.frontmatter ?? {}) as Fm }))
-      .sort((a, b) => {
-        const ya = Number(a.fm.year ?? 0)
-        const yb = Number(b.fm.year ?? 0)
-        if (ya !== yb) return ya - yb
-        return String(a.fm.title ?? "").localeCompare(String(b.fm.title ?? ""))
-      })
-    return (
-      <div class="book-list">
-        {books.map((b) => {
-          const title = String(b.fm.title ?? "")
-          const subtitle = b.fm.subtitle ? String(b.fm.subtitle) : ""
-          const href = resolveRelative(slug, b.slug)
-          const chaptersHref = `${href}#chapters`
-          return (
-            <div class="book-entry">
-              <a class="book-entry-coverlink" href={href}>
-                <img
-                  class="book-cover"
-                  src={joinSegments(pathToRoot(slug), "_attachments", String(b.fm.book_slug ?? ""), String(b.fm.cover))}
-                  alt={`Cover of ${title}`}
-                  loading="lazy"
-                />
-              </a>
-              <div class="book-header-meta">
-                <p class="book-titleline">
-                  <a href={href}>{title}{subtitle ? `. ${subtitle}` : ""}</a>
-                </p>
-                <p class="book-byline">{byline(b.fm)}</p>
-                <p class="book-chapters">
-                  <a href={chaptersHref}>Chapter summaries</a>
-                </p>
-              </div>
-            </div>
-          )
-        })}
-      </div>
-    )
-  }
-
-  // 3) folder + tag pages: auto page title (article-title is disabled site-wide)
+// 2) folder + tag pages: auto page title (article-title is disabled site-wide)
   if ((slug.endsWith("/index") && slug !== "index") || slug.startsWith("tags/")) {
     return <h1 class="article-title">{String(fm.title ?? "")}</h1>
   }
@@ -202,8 +157,8 @@ BookUI.css = `
   min-width: 0;
 }
 
-.book-header p.book-subtitle {
-  margin: 0.4rem 0 0.2rem;
+.book-header p.book-titleline {
+  margin: 0.1rem 0 0.2rem;
   font-size: 1.15rem;
   line-height: 1.35;
   font-style: italic;
@@ -215,6 +170,14 @@ BookUI.css = `
   margin: 0;
   font-size: 0.9rem;
   color: var(--gray);
+}
+
+/* index book cards get a one-line summary between byline and chapter-summaries link */
+.book-entry p.book-summary {
+  margin: 0.35rem 0 0;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  color: var(--darkgray);
 }
 
 @media (max-width: 800px) {

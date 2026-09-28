@@ -8,6 +8,7 @@ isbn: ""
 asin: ""
 kdp_url: ""
 cover: cover.jpg
+summary: "from fear to LOVE: the inner protector's fortress, its costs, and the confident heart built in its place"
 sources:
   - _sources/confident-heart/
 topics:

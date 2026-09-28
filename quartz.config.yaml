@@ -82,6 +82,9 @@ plugins:
   - source: "@quartz-community/description"
     enabled: true
     order: 70
+  - source: "./nils-books-cards"
+    enabled: true
+    order: 75
   - source: "@quartz-community/latex"
     enabled: true
     options:
@@ -110,7 +113,7 @@ plugins:
     enabled: false
   - source: "@quartz-community/alias-redirects"
     enabled: true
-  - source: "@quartz-community/content-index"
+  - source: "./nils-books-data"
     enabled: true
     options:
       enableSiteMap: true
@@ -132,7 +135,7 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: true
     options:
-      sortFn: "(a, b) => { const y = (n) => { const f = n.data && n.data.frontmatter ? Number(n.data.frontmatter.year) : 0; return isNaN(f) ? 0 : f }; const t = (n) => String((n.displayName || n.slugSegment || '')).toLowerCase(); const ay = y(a), by = y(b); if (ay !== by) return ay - by; return t(a).localeCompare(t(b), undefined, { numeric: true, sensitivity: 'base' }) }"
+      sortFn: "(a, b) => { const y = (n) => Number(n.data && n.data.year) || 0; const ya = y(a), yb = y(b); if (ya !== yb) return yb - ya; return String(a.displayName || '').localeCompare(String(b.displayName || ''), undefined, { numeric: true, sensitivity: 'base' }) }"
     layout:
       position: left
       priority: 50
