@@ -4,7 +4,7 @@ type: practice
 books: [wide-open]
 aliases: ["repairing after conflict", "repair process"]
 created: 2026-09-19
-updated: 2026-09-23
+updated: 2026-09-28
 proofread: true
 tags: [practice, conflict-repair]
 ---
@@ -31,7 +31,7 @@ As described in the book [[wide-open|Wide Open]], an effective apology names the
 
 Rerunning the same arguments is a way of trying to determine who was wrong. A repair conversation moves toward healing. The difference is direction: re-litigation looks backwards, seeking vindication, while repair faces forward, seeking solutions and renewed trust.
 
-To stay in repair mode, both partners can keep asking: "What do we need right now to feel safe again?" rather than "Let me explain why I was justified." The first question opens a door. The second one closes one.
+To stay in repair mode, treat the conflict as a shared problem to solve rather than a battle to win. The explicit goal is to restore trust and understanding, not a verdict on who was justified.
 
 ## Timing and readiness
 

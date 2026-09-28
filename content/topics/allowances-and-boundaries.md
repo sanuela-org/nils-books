@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: [allowances, boundaries, "levels of closeness", "boundaries in relationships"]
 created: 2026-09-17
-updated: 2026-09-23
+updated: 2026-09-28
 proofread: true
 tags: [concept, allowances-and-boundaries]
 ---
@@ -17,7 +17,7 @@ Allowances and boundaries are the agreements partners make about what closeness,
 
 ## Positive agreements versus prohibitions
 
-The most effective boundaries are framed as shared intentions, not lists of prohibitions. A prohibition says "Don't let another human being become too important." An agreement says "We will communicate proactively if a new relationship becomes serious, so we can discuss how our commitments, time, and emotional landscapes might adapt."
+The most effective boundaries are framed as shared intentions, not lists of prohibitions. A prohibition says "Don't let another partner become too important." An agreement says "We will communicate proactively if a new relationship becomes serious, so we can discuss how our commitments, time, and emotional landscapes might adapt."
 
 Translating restrictions into positive statements keeps the focus on what the relationship is building, not on what it fears. It also makes conversations about boundaries feel collaborative rather than defensive. The energy shifts from policing to co-creating.
 

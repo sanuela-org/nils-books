@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["Network of LOVE", "relationship network", "relationship networks"]
 created: 2026-09-14
-updated: 2026-09-23
+updated: 2026-09-28
 proofread: true
 tags: [concept, networks-of-love]
 ---
@@ -32,6 +32,40 @@ What the Network of LOVE rejects is the dopamine chase: running through a garden
 Slow, honest, grounded growth is what makes a network more enriching and stabilising than [[monogamy|monogamy]]. Jealousy is the biggest barrier — rooted in old wounds, in the fear of loss or the feeling of not being enough, fear rather than actual loss. Understanding it comes before going further, and *Love Beyond Jealousy* takes it up.
 
 The relationship network model answers a need the foreword names: stability that does not have to be questioned every single day — trust, honesty, cohesion and the shared carrying of challenges. Opening wide does not mean giving up safety; the safety is built differently.
+
+## The notebook outline
+
+The book states the essentials as an outline:
+
+- Why live like a potted plant when we could live in a rich garden?
+- Monogamy came from systems of control, not from LOVE; knowing that makes questioning it legitimate.
+- No single partner can meet all emotional and sensual needs; expecting it strains even a good relationship.
+- A stable network spreads the emotional load, which brings reassurance and stability.
+- Closeness does not have to be sexual or exclusive; touch can share comfort and healing without possessing anyone.
+- Humans naturally need more connection than one partnership can offer.
+- A network grown slowly, honestly and grounded can be more enriching and stabilising than monogamy.
+- Fear comes mostly from having no healthy examples; the unfamiliar feels unsafe at first.
+- Cultural stories shape behaviour: the idea that touch implies ownership is deeply ingrained.
+- LOVE is not a limited resource; giving it to one lover does not take it from another.
+- Jealousy is the biggest barrier, rooted in old wounds and the fear of loss; understand it before going further.
+
+## The skills blueprint
+
+The book gathers the skills of a working network, together with three core practices. This wiki carries them on their own pages:
+
+- Honest, loving communication — [[heart-centred-communication|Heart-Centred Communication]]
+- Emotional self-regulation — [[emotional-self-regulation|Emotional Self-Regulation]]
+- Allowances and boundaries — [[allowances-and-boundaries|Allowances and Boundaries]]
+- Working with jealousy as a team — [[jealousy-as-a-team-process|Jealousy as a Team Process]]
+- Self-awareness and inner shadow work — [[shadow-work|Shadow Work]]
+- Time and energy management — [[time-and-energy-management|Time and Energy Management]]
+- Conflict de-escalation and repair — [[conflict-repair|Conflict Repair]]
+- Community awareness and group dynamics — [[group-dynamics-in-a-relationship-network|Group Dynamics in a Relationship Network]]
+- Non-attachment and cultivating compersion — [[non-attachment-and-compersion|Non-Attachment and Compersion]]
+- Integrity and accountability — [[radical-honesty-and-trust|Radical Honesty and Trust]]
+- Continuous learning and unlearning — [[shame-and-social-conditioning|Shame and Social Conditioning]]
+
+The core practices: the [[heart-centred-communication#Practice: Daily heart-share|daily heart-share]], the [[planning-pause|Planning Pause]] and the [[reconnection-ritual|Reconnection Ritual]].
 
 ## Across books
 

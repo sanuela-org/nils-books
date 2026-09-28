@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["radical honesty", "honesty and trust", "total honesty", "truthfulness"]
 created: 2026-09-19
-updated: 2026-09-23
+updated: 2026-09-28
 proofread: true
 tags: [concept, radical-honesty-and-trust]
 ---
@@ -27,7 +27,7 @@ A confession made to ease a guilty conscience is not the same as genuine care. T
 
 ## How trust is built
 
-The book [[wide-open|Wide Open]] describes it like this: Trust grows not from grand declarations, but from consistent, small acts of transparency over time, a living practice of showing up truthfully, again and again.
+Trust grows from consistent, small acts of transparency over time — a living practice of showing up truthfully, again and again.
 
 - Every honest moment is a deposit that strengthens the relationship's foundation.
 - Repeated transparency creates a felt sense of safety — you stop wondering what your partner is hiding.
@@ -53,6 +53,18 @@ A secret kept "to protect" someone is almost always a secret kept to protect you
 - The protected partner is denied the chance to respond with the generosity you assume they lack.
 - When the truth eventually surfaces, the harm comes not from the original act but from the prolonged deception.
 - Every secret kept is a moment of trust that cannot be recovered.
+
+## Integrity and accountability
+
+The book [[wide-open|Wide Open]] describes it like this: the quiet commitment to being trustworthy, not just in the big moments, but in the small everyday choices that either build or damage trust over time.
+
+- Follow through on promises and agreements. If you cannot, say so before, not after. Reliability is the currency of trust.
+- Take empathic responsibility for mistakes: name what you did and recognise the consequences it had.
+- Make amends that match the harm. Ask what you can do to repair it, then do it.
+- Be honest even when it is uncomfortable. A withheld difficult truth works like a slow poison; speak early and gently.
+- Admit when you do not know. Saying "I need time to figure this out" is a sign of maturity.
+- Keep confidences. What is shared in confidence stays private; gossip and unnecessarily involving others betray trust. If you need to discuss something with others, ask permission first.
+- Show up consistently, especially on the ordinary days, when you are tired and nobody is watching. That is where integrity is revealed.
 
 ## Related topics
 

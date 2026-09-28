@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["group awareness", "network dynamics", "community awareness"]
 created: 2026-09-19
-updated: 2026-09-23
+updated: 2026-09-28
 proofread: true
 tags: [concept, group-dynamics-in-a-relationship-network]
 ---
@@ -49,6 +49,7 @@ Many learn to think about relationships one pair at a time. They focus on their 
 - Seeing the system helps people notice when one relationship is over-functioning and another is being neglected.
 - The Network of LOVE is more than the sum of its pairs. Its health depends on paying attention to the relationships between all its members.
 - Regular group check-ins, shared rituals, and open conversation about how the network is evolving keep the web transparent and alive.
+- Name the power dynamics openly — couple privilege, hierarchy between longer-standing and newer connections, newcomer status, or plain shyness — so that nobody feels excluded or less valued.
 
 ## Related topics
 
