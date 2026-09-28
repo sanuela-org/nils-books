@@ -17,8 +17,6 @@ A Network of LOVE is a stable, honest web of relationships that shares the emoti
 
 Metaphorically speaking, it is like potted plants compared to a thriving garden. Potted plants are completely dependent on their caregivers and can suffer if they are isolated with little other support. A garden is joined underground by a mycelial network connecting every tree, bush and flower — sharing nutrients, sending warnings, letting the strong support the weak. That resilience is the model: when one partner needs time alone, others hold the space, and shared responsibility takes the pressure off.
 
-> "Why live like a potted plant when we could also live in a rich garden?"
-
 It is impossible to expect anyone to be a best friend, cheerleader, therapist and lover all at once. Under this impossible weight, couples either strain and things rumble, or the relationship falls asleep. 
 
 Wanting more closeness than one partnership can offer does not mean something is missing from the main relationship. We have been taught that LOVE given to one lover takes something away from another. LOVE is abundant, not a limited resource. 
@@ -35,7 +33,7 @@ The relationship network model answers a need the foreword names: stability that
 
 ## The notebook outline
 
-The book states the essentials as an outline:
+The book [[wide-open|Wide Open]] states the essentials as an outline:
 
 - Why live like a potted plant when we could live in a rich garden?
 - Monogamy came from systems of control, not from LOVE; knowing that makes questioning it legitimate.
@@ -51,7 +49,7 @@ The book states the essentials as an outline:
 
 ## The skills blueprint
 
-The book gathers the skills of a working network, together with three core practices. This wiki carries them on their own pages:
+The book [[wide-open|Wide Open]] gathers the skills of a working network, together with three core practices. This wiki carries them on their own pages:
 
 - Honest, loving communication — [[heart-centred-communication|Heart-Centred Communication]]
 - Emotional self-regulation — [[emotional-self-regulation|Emotional Self-Regulation]]
