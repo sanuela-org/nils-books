@@ -121,3 +121,8 @@ body i,
 body strong > em {
   color: inherit !important;
 }
+
+/* date hidden, reading time only (Nils, 2026-09-28) */
+.content-meta time {
+  display: none;
+}

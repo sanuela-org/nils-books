@@ -1,4 +1,4 @@
-// nils-books-ui/src/index.tsx
+// src/index.tsx
 import { jsx, jsxs } from "preact/jsx-runtime";
 function stripSlashes(s, onlyPrefix = false) {
   if (s.startsWith("/")) s = s.slice(1);
@@ -33,27 +33,47 @@ function BookUI({ fileData, allFiles }) {
     return /* @__PURE__ */ jsxs("div", { class: "book-header", children: [
       /* @__PURE__ */ jsx("img", { class: "book-cover", src, alt: `Cover of ${title}` }),
       /* @__PURE__ */ jsxs("div", { class: "book-header-meta", children: [
-        fm.subtitle ? /* @__PURE__ */ jsx("p", { class: "book-subtitle", children: String(fm.subtitle) }) : null,
+        fm.subtitle ? /* @__PURE__ */ jsxs("p", { class: "book-titleline", children: [
+          title,
+          ". ",
+          String(fm.subtitle)
+        ] }) : /* @__PURE__ */ jsx("p", { class: "book-titleline", children: title }),
         byline(fm) ? /* @__PURE__ */ jsx("p", { class: "book-byline", children: byline(fm) }) : null
       ] })
     ] });
   }
   if (fm.show_book_covers && Array.isArray(allFiles)) {
-    const books = allFiles.filter((f) => f.frontmatter?.cover).map((f) => ({ slug: String(f.slug), fm: f.frontmatter ?? {} })).sort((a, b) => String(a.fm.title ?? "").localeCompare(String(b.fm.title ?? "")));
-    return /* @__PURE__ */ jsx("div", { class: "book-cards", children: books.map((b) => /* @__PURE__ */ jsxs("a", { class: "book-card", href: resolveRelative(slug, b.slug), children: [
-      /* @__PURE__ */ jsx(
-        "img",
-        {
-          class: "book-card-cover",
-          src: joinSegments(pathToRoot(slug), "_attachments", String(b.fm.book_slug ?? ""), String(b.fm.cover)),
-          alt: `Cover of ${String(b.fm.title ?? "")}`,
-          loading: "lazy"
-        }
-      ),
-      /* @__PURE__ */ jsx("span", { class: "book-card-title", children: String(b.fm.title ?? "") }),
-      b.fm.subtitle ? /* @__PURE__ */ jsx("span", { class: "book-card-subtitle", children: String(b.fm.subtitle) }) : null,
-      /* @__PURE__ */ jsx("span", { class: "book-card-author", children: byline(b.fm) })
-    ] })) });
+    const books = allFiles.filter((f) => f.frontmatter?.cover).map((f) => ({ slug: String(f.slug), fm: f.frontmatter ?? {} })).sort((a, b) => {
+      const ya = Number(a.fm.year ?? 0);
+      const yb = Number(b.fm.year ?? 0);
+      if (ya !== yb) return ya - yb;
+      return String(a.fm.title ?? "").localeCompare(String(b.fm.title ?? ""));
+    });
+    return /* @__PURE__ */ jsx("div", { class: "book-list", children: books.map((b) => {
+      const title = String(b.fm.title ?? "");
+      const subtitle = b.fm.subtitle ? String(b.fm.subtitle) : "";
+      const href = resolveRelative(slug, b.slug);
+      const chaptersHref = `${href}#chapters`;
+      return /* @__PURE__ */ jsxs("div", { class: "book-entry", children: [
+        /* @__PURE__ */ jsx("a", { class: "book-entry-coverlink", href, children: /* @__PURE__ */ jsx(
+          "img",
+          {
+            class: "book-cover",
+            src: joinSegments(pathToRoot(slug), "_attachments", String(b.fm.book_slug ?? ""), String(b.fm.cover)),
+            alt: `Cover of ${title}`,
+            loading: "lazy"
+          }
+        ) }),
+        /* @__PURE__ */ jsxs("div", { class: "book-header-meta", children: [
+          /* @__PURE__ */ jsx("p", { class: "book-titleline", children: /* @__PURE__ */ jsxs("a", { href, children: [
+            title,
+            subtitle ? `. ${subtitle}` : ""
+          ] }) }),
+          /* @__PURE__ */ jsx("p", { class: "book-byline", children: byline(b.fm) }),
+          /* @__PURE__ */ jsx("p", { class: "book-chapters", children: /* @__PURE__ */ jsx("a", { href: chaptersHref, children: "Chapter summaries" }) })
+        ] })
+      ] });
+    }) });
   }
   if (slug.endsWith("/index") && slug !== "index" || slug.startsWith("tags/")) {
     return /* @__PURE__ */ jsx("h1", { class: "article-title", children: String(fm.title ?? "") });
@@ -61,6 +81,72 @@ function BookUI({ fileData, allFiles }) {
   return null;
 }
 BookUI.css = `
+.book-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 0.5rem 0 2rem;
+}
+
+.book-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+.book-entry img.book-cover {
+  width: 250px;
+  max-width: 42%;
+  height: auto;
+  flex-shrink: 0;
+  border-radius: 10px;
+  border: 1px solid var(--lightgray);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+}
+
+.book-entry p.book-titleline {
+  margin: 0.1rem 0 0.2rem;
+  font-size: 1.15rem;
+  line-height: 1.35;
+  font-style: italic;
+  font-weight: 500;
+  color: var(--darkgray);
+}
+
+.book-entry p.book-titleline a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.book-entry p.book-titleline a:hover {
+  text-decoration: underline;
+}
+
+.book-entry p.book-byline {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--gray);
+}
+
+.book-entry p.book-chapters {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 800px) {
+  .book-entry {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1rem;
+  }
+
+  .book-entry img.book-cover {
+    width: 190px;
+    max-width: 55%;
+  }
+}
+
 .book-header {
   display: flex;
   align-items: flex-start;
@@ -95,61 +181,6 @@ BookUI.css = `
   margin: 0;
   font-size: 0.9rem;
   color: var(--gray);
-}
-
-.book-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 1.5rem;
-  margin: 0.5rem 0 2rem;
-}
-
-a.book-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  padding: 1.25rem 1rem 1rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 12px;
-  background: var(--light);
-  text-decoration: none;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
-}
-
-a.book-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
-}
-
-.book-card img.book-card-cover {
-  height: 260px;
-  width: auto;
-  max-width: 100%;
-  object-fit: contain;
-  border-radius: 8px;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
-  margin-bottom: 0.8rem;
-}
-
-.book-card .book-card-title {
-  font-family: var(--headerFont);
-  font-weight: 700;
-  font-size: 1.05rem;
-  color: var(--dark);
-}
-
-.book-card .book-card-subtitle {
-  font-size: 0.85rem;
-  font-style: italic;
-  color: var(--darkgray);
-  margin-top: 0.2rem;
-}
-
-.book-card .book-card-author {
-  font-size: 0.8rem;
-  color: var(--gray);
-  margin-top: 0.35rem;
 }
 
 @media (max-width: 800px) {

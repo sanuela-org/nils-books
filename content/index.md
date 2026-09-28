@@ -3,17 +3,13 @@ title: Nils-Books — Index
 show_book_covers: true
 ---
 
-# Nils-Books — Index
+# Nils-Books
 
-> Content catalog. Every page listed under its type with a one-line summary.
-> Read this first to find relevant pages.
-> Last updated: 2026-09-27 | Total pages: 72
+Welcome! This growing knowledge base brings together the visions, concepts, and practices explored throughout Nils Klippstein’s books. At their heart is an invitation to heal and grow, open ourselves to nourishing closeness, create more honest and caring relationship networks, explore our embodied and energetic nature, and deepen our connection with our inner guidance and with Gaia.
+
+Last updated: September 27, 2026 | Total pages: 72
 
 ## Books
-- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]] — Nils Klippstein, 2026 — opening the heart and building a stable
-  network of loving relationships instead of the exclusive couple model
-- [[confident-heart|Book: The Confident Heart. From Fear to LOVE]] — Nils Klippstein, 2025 — from fear to LOVE: the
-  inner protector's fortress, its costs, and the confident heart built in its place
 
 ## Topic pages
 - [[monogamy|Monogamy]] — exclusive monogamy as a built order — control, property,
@@ -90,7 +86,7 @@ show_book_covers: true
   fearless mind as orchestra; the heart-mind check-in; legacy as energetic imprint (concept)
 
 ## Chapter summaries
-**wide-open**
+### wide-open
 - [[wide-open/ch-00-foreword|Foreword]] — the full foreword, unabridged: the inner voice after the
   last traditional breakup, and how the search for the new way began
 - [[ch-01-a-different-glow|Ch 1 — A Different Glow]] — Layla's retreat glow (Luma) over café chai, and
@@ -120,7 +116,7 @@ show_book_covers: true
 - [[ch-13-a-few-days-that-change-everything|Ch 13 — A Few Days That Change Everything]] — a few days at Finca Sanuela: the
   book's themes met in person
 
-**confident-heart**
+### confident-heart
 - [[confident-heart/ch-00-foreword|Foreword]] — written with an AI assistant, on what no assistant
   replaces: facing our deepest fears and shadow sides, and lovingly accepting them
 - [[confident-heart/ch-01-how-our-inner-protector-keeps-us-safe|Ch 1 — How Our Inner Protector Keeps Us Safe]] — the ego as innate
@@ -163,6 +159,3 @@ show_book_covers: true
   conductor, the mind as orchestra, legacy as energetic imprint
 - [[confident-heart/ch-20-fears-of-freedom|Afterword — Fears of Freedom]] — the backlash against relationship
   networks, the cosy cage, and becoming a quiet invitation
-
-## Queries
-<!-- filed answers worth keeping -->
