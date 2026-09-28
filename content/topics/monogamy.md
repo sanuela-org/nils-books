@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["exclusive monogamy", "one-partner model", "traditional relationship model"]
 created: 2026-09-15
-updated: 2026-09-23
+updated: 2026-09-28
 proofread: true
 tags: [concept, monogamy]
 ---
@@ -55,7 +55,7 @@ The alternative to the exclusive couple is a garden rather than a pot: a network
 ## Key terms
 
 - **The inherited order** — monogamy understood as a system of control and property rather than a natural arrangement.
-- **LOVE** — always capitalised in this book, and treated as abundant rather than a limited resource.
+- **LOVE** — always capitalised in [[wide-open|Wide Open]], and treated as abundant rather than a limited resource.
 - **Network of LOVE** — a stable, honest web of connections that shares the emotional load a couple would otherwise carry alone; see [[networks-of-love|Networks of LOVE]].
 
 ## Related topics

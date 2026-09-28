@@ -2,7 +2,7 @@
 title: Glossary
 type: reference
 created: 2026-09-18
-updated: 2026-09-23
+updated: 2026-09-28
 proofread: true
 tags: [reference]
 ---
@@ -41,7 +41,7 @@ Meeting your own fear and vulnerability the way a good parent meets a child: wit
 
 ## Yang Dictatorship
 
-The book's name for millennia of imbalanced masculine principle: separation, control and domination prioritised over connection. Ending it begins within, by rebalancing masculine and feminine energies. Part of [[masculine-and-feminine-balance|masculine and feminine balance]].
+Coined in [[confident-heart|The Confident Heart]] for millennia of imbalanced masculine principle: separation, control and domination prioritised over connection. Ending it begins within, by rebalancing masculine and feminine energies. Part of [[masculine-and-feminine-balance|masculine and feminine balance]].
 
 ## Related topics
 

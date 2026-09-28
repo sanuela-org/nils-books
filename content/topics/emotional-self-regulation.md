@@ -9,7 +9,7 @@ aliases:
   - self-soothing
   - recognising triggers
 created: 2026-09-17
-updated: 2026-09-23
+updated: 2026-09-28
 proofread: true
 tags:
   - practice
@@ -82,5 +82,5 @@ This is deeply liberating. You do not have to overcome your jealousy before you 
 - [[shadow-work|Shadow Work]] — the deeper, longer-term healing of the wounds that self-regulation helps you navigate
 - [[jealousy-as-a-team-process|Jealousy as a Team Process]] — how jealousy becomes a shared signal to work with, not a private shame
 - [[heart-centred-communication|Heart-Centred Communication]] — the skill of speaking and listening from a centred, loving place
-- [[sanuela-retreats|Sanuela Retreats]] — where the book's practices are experienced in person
-- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]] — the book where these practices are presented
+- [[sanuela-retreats|Sanuela Retreats]] — where the practices of [[wide-open|Wide Open]] are experienced in person
+- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]] — where these practices are presented
