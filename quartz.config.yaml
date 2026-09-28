@@ -217,6 +217,11 @@ plugins:
     layout:
       position: beforeBody
       priority: 32
+  - source: "./nils-explorer-seed"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 4
   - source: "@quartz-community/recent-notes"
     enabled: false
   - source: "@quartz-community/spacer"

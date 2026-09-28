@@ -1,0 +1,29 @@
+{
+  "name": "nils-explorer-seed",
+  "version": "1.0.0",
+  "description": "Seeds localStorage fileTree so the explorer's Topics folder is open on a reader's first visit; saved reader state afterwards always wins",
+  "type": "module",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js"
+  },
+  "quartz": {
+    "name": "nils-explorer-seed",
+    "displayName": "Nils Explorer Seed",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 46,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "ExplorerSeed": {
+        "name": "ExplorerSeed",
+        "description": "Seeds localStorage fileTree (topics/index collapsed:false) before the explorer's first render",
+        "version": "1.0.0"
+      }
+    }
+  }
+}
