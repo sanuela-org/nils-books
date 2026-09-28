@@ -4,7 +4,7 @@ type: concept
 books: [confident-heart]
 aliases: [heart traits, qualities of the heart, armour]
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-09-28
 proofread: true
 tags: [concept, heart-qualities]
 ---
@@ -36,7 +36,7 @@ Rate each quality from 1 ('I never embody this') to 9 ('I embody this constantly
 - Generous interpretation: Giving others the benefit of the doubt and assuming positive intent until proven otherwise.
 - Emotional fluidity: Allowing feelings to arise, be experienced, and pass without suppression or attachment.
 - Heart-centred boundaries: Setting clear, loving limits that protect one's energy and well-being without hostility.
-- Joy for others: Finding genuine happiness in the success and happiness of other people.
+- Joy for others: Finding genuine happiness in the success and happiness of other people (compersion).
 - Intuitive action: Taking fearless steps forward while letting go of the need to interfere, fix or force a specific outcome.
 - Gratitude: Naturally acknowledging and appreciating the good things in one's life, both big and small.
 - Trustful surrender: The deep, inner knowing that life is unfolding for your growth, allowing you to meet challenges with grace and learn from them without despair.
@@ -55,7 +55,7 @@ Understanding the heart qualities is one thing. Living them as your new identity
 
 When an old armoured pattern surfaces, do not fight it. Simply pause, breathe through your heart centre, and ask with curiosity which quality would serve here. This is not analysis. It is a moment of presence that redirects the nervous system.
 
-Pick one quality per day and practise it in micro-moments. Choose [[heart-centred-communication|spontaneity]] and take a different route on your walk. Choose [[heart-centred-communication|generosity]] and offer an unexpected compliment. These tiny actions rewire the nervous system for a new way of being.
+Pick one quality per day and practise it in micro-moments. If you choose spontaneity, take a different route on your walk. These tiny actions rewire the nervous system for a new way of being.
 
 You can also sit quietly, breathe into the heart centre, choose one quality and ask how it feels in the body. Not how it sounds as a concept. How it lives in flesh and breath. This creates a somatic connection to your new identity that goes far beyond the intellectual.
 
@@ -66,4 +66,5 @@ Identity is not fixed. It is a living, breathing garden. You can feel vulnerable
 - [[inner-protector|Inner Protector]]
 - [[unshakable-self|Unshakable Self]]
 - [[inner-sanctuary|Inner Sanctuary]]
+- [[non-attachment-and-compersion|Non-Attachment and Compersion]]
 - [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

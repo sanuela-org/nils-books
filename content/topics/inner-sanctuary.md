@@ -4,7 +4,7 @@ type: practice
 books: [confident-heart]
 aliases: [geborgenheit, inner safety, portable sanctuary, inner home, inner warmth]
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-09-28
 proofread: true
 tags: [practice, inner-sanctuary]
 ---
@@ -35,12 +35,13 @@ This practice settles the nervous system through physical touch.
 - Place one hand over the heart centre on the chest.
 - Place the other hand on a spot on the stomach that needs holding — wherever the body signals a need for comfort.
 - Breathe slowly and let the nervous system settle. Stay as long as the body requests.
+- To soften the armour around the heart further, caress your chest in slow, small circles, as if comforting a child.
 
 ### Practice: Physical anchors of comfort
 
 The body responds to physical signals of safety, even simple ones.
 
-- Hug a pillow to your chest. Wrap yourself in a blanket. Press a warm cup against your palms.
+- Hug a pillow to your chest, or wrap yourself snugly in a blanket.
 - These are not distractions from the real work. They are physical signals of safety to the body, and the body responds to what it receives.
 - Use them when the sanctuary feels hard to generate from within, as a bridge back to the heart centre.
 

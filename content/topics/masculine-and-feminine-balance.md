@@ -4,7 +4,7 @@ type: concept
 books: [confident-heart]
 aliases: [yang dictatorship, inner patriarch, wounded feminine, inner marriage]
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-09-28
 proofread: true
 tags: [concept, masculine-and-feminine-balance]
 ---
@@ -17,9 +17,9 @@ The healthy masculine and the healthy feminine are two universal energies within
 
 ## The yang dictatorship
 
-The rise of the Yang Dictatorship shattered the inner balance. Dominant masculine principles were strongly supported by the [[inner-protector|ego's fortress]]. Emotion was devalued as hysterical, intuitive knowing as illogical, and trusting surrender as weak. This was a war on the heart itself, exiling the very qualities that allow for deep connection, harmony, and unconditional LOVE.
+The rise of the [[glossary#Yang Dictatorship|Yang Dictatorship]] shattered the inner balance. Dominant masculine principles were strongly supported by the [[inner-protector|ego's fortress]]. Emotion was devalued as hysterical, intuitive knowing as illogical, and trusting surrender as weak. This was a war on the heart itself, exiling the very qualities that allow for deep connection, harmony, and unconditional LOVE.
 
-The inner protector rules as the [[glossary|Inner Patriarch]], the strict inner supervisor regardless of gender. It instructs us to control our feelings, prioritise efficiency and achievement over well-being, and view the vulnerable, feminine openness of the heart as a threat. It mistakes a fortress for a home and treats the heart's gardens as a chaotic wilderness that must be tamed.
+The inner protector rules as the [[glossary#Inner Patriarch|Inner Patriarch]], the strict inner supervisor regardless of gender. It instructs us to control our feelings, prioritise efficiency and achievement over well-being, and view the vulnerable, feminine openness of the heart as a threat. It mistakes a fortress for a home and treats the heart's gardens as a chaotic wilderness that must be tamed.
 
 ## The wounded feminine
 

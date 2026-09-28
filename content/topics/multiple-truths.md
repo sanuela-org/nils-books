@@ -4,7 +4,7 @@ type: concept
 books: [confident-heart]
 aliases: [kaleidoscope of truth, kaleidoscopic perception, binary thinking, restorative question, restorative justice]
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-09-28
 proofread: true
 tags: [concept, multiple-truths]
 ---
@@ -21,8 +21,11 @@ The heart's kaleidoscope unfolds a world where a supposed villain is a wounded s
 
 ## How it shows up
 
+- Information: media with the widest reach simulate a diversity of perspectives that all live inside the same narrow, fear-driven mindset. The debates are loud, but the underlying assumptions are rarely questioned, which reinforces the binary code.
 - Learning: traditional schooling often operates as a system of right answers, sorted by grades and ranked against peers, where mistakes are marked in red and curiosity outside the curriculum is discouraged. A learning garden nurtures the whole human being, prioritising curiosity over correctness, recognising that seemingly incorrect answers reveal a child's unique learning process. Mistakes become fertiliser for authentic growth.
-- Justice: the ego-based legal system asks, "What punishment do they deserve?"—a retributive question focused on blame. The heart asks, "What does this situation need to heal?" A restorative approach focuses on repairing harm, hearing those who were harmed, enabling those who caused harm to understand the impact of their actions, and reintegrating everyone through empathy, accountability and healing.
+- Justice: the ego-based legal system asks, "What punishment do they deserve?", a retributive question focused on blame. The heart asks, "What does this situation need to heal?" A restorative approach focuses on repairing harm, hearing those who were harmed, enabling those who caused harm to understand the impact of their actions, and reintegrating everyone through empathy, accountability and healing.
+
+You can start being the change now, at home and among friends: create heart spaces that encourage exploration, honour different kinds of intelligence, and reframe mistakes as courageous attempts.
 
 ## Related topics
 
