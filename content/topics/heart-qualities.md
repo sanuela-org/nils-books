@@ -15,7 +15,7 @@ tags: [concept, heart-qualities]
 
 The heart qualities are the identity that emerges when the armour comes off. They are not achievements or aspirations. They arise naturally from a heart no longer battling itself or its surroundings. Each one is a facet of who you already are beneath the protective patterns that have dominated for years.
 
-Becoming these qualities does not happen through thinking. It happens through small daily choices, through consistent somatic practice, through living in the heart centre moment by moment. They replace the old armoured identity not by force, but by presence.
+These qualities cannot be developed through thinking. They replace the old armoured identity. It happens through making small daily choices, through consistent somatic practice and by living in the heart centre, moment by moment. 
 
 ## The self-assessment
 
@@ -53,13 +53,13 @@ Rate each quality from 1 ('I never embody this') to 9 ('I embody this constantly
 
 Understanding the heart qualities is one thing. Living them as your new identity requires making regular, small choices and breathing consistently from the heart.
 
-When an old armoured pattern surfaces, do not fight it. Simply pause, breathe through your heart centre, and ask with curiosity which quality would serve here. This is not analysis. It is a moment of presence that redirects the nervous system.
+When an old armoured pattern surfaces, do not fight it. Simply pause, breathe through your heart centre, and ask with curiosity which quality would serve here. This is a moment of presence that redirects the nervous system.
 
-Pick one quality per day and practise it in micro-moments. If you choose spontaneity, take a different route on your walk. These tiny actions rewire the nervous system for a new way of being.
+If you wish, pick one quality per day and practise it in micro-moments. If you choose spontaneity, take a different route on your walk. These tiny actions rewire the nervous system for a new way of being.
 
-You can also sit quietly, breathe into the heart centre, choose one quality and ask how it feels in the body. Not how it sounds as a concept. How it lives in flesh and breath. This creates a somatic connection to your new identity that goes far beyond the intellectual.
+You can also sit quietly, breathe into the heart centre, choose one quality and ask how it feels in the body, how it lives in flesh and breath. This creates a somatic connection to your new identity that goes far beyond the intellectual.
 
-Identity is not fixed. It is a living, breathing garden. You can feel vulnerable, powerful and authentic all at once. Each quality is a seed. Tending it, daily, in the smallest of moments, is how the confident heart takes root.
+Identity is a living, breathing garden. You can feel vulnerable, powerful and authentic all at once. Each quality is a seed. Tending it, daily, in the smallest of moments, is how the confident heart takes root.
 
 ## Related topics
 

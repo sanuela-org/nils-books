@@ -2,7 +2,7 @@
 title: Glossary
 type: reference
 created: 2026-09-18
-updated: 2026-09-28
+updated: 2026-09-30
 proofread: true
 tags: [reference]
 ---
@@ -14,6 +14,10 @@ The words of these books carry precise meanings. This glossary gathers them acro
 ## Geborgenheit
 
 The German word for a deep sense of comfort, belonging, safety and emotional warmth — being perfectly held and utterly safe. It does not come from locked doors or high walls, but from a soothing internal radiance. The full practice lives on the [[inner-sanctuary|Inner Sanctuary]] page.
+
+## Heart-centred breathing
+
+The master practice at the centre of this work: breathing LOVE in and out through the centre of your chest, as though your heart itself were breathing. It instantly pulls your awareness out of the mind and into the calm, intuitive space of the heart. You can do it anywhere, in any moment. Nearly every other practice builds on it, from emotional self-regulation and communication to deep surrender. The full practice lives on the [[inner-sanctuary|Inner Sanctuary]] page.
 
 ## Hugging meditation
 
@@ -37,13 +41,9 @@ A stable web of several caring relationships that share the emotional load a sin
 
 ## Reparenting
 
-Meeting your own fear and vulnerability the way a good parent meets a child: with acknowledgement, steadiness and care. Walking through fear this way teaches the nervous system that vulnerability is not an overwhelming threat, and that the heart can guide more confidently than the ego's alarms.
+[[meeting-fear|Meeting your fears]] and vulnerability the way a good parent meets a child: with acknowledgement, steadiness and care. Walking through fear this way teaches the nervous system that vulnerability is not an overwhelming threat, and that the heart can guide more confidently than the ego's alarms.
 
 ## Yang Dictatorship
 
-Coined in [[confident-heart|The Confident Heart]] for millennia of imbalanced masculine principle: separation, control and domination prioritised over connection. Ending it begins within, by rebalancing masculine and feminine energies. Part of [[masculine-and-feminine-balance|masculine and feminine balance]].
+The term was used in [[confident-heart|The Confident Heart]] to describe millennia of imbalanced masculine principles, where separation, control and domination were prioritised over connection. Ending it begins within, by rebalancing masculine and feminine energies. Part of [[masculine-and-feminine-balance|masculine and feminine balance]].
 
-## Related topics
-
-- [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
-- [[sanuela-retreats|Sanuela Retreats]]

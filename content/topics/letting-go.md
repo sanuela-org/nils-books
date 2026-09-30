@@ -27,15 +27,15 @@ Trust's muscle is built through small, consistent actions. These practices grow 
 
 ### Practice: Worst-case release
 
-When a specific fear about the future consumes you, embrace it instead of suppressing it. Play it out in your mind. Then ask: could I handle it? What would I do? You will almost always find the feared outcome is somehow manageable. This process drains the fear of its power.
+When a specific [[meeting-fear|fear about the future]] consumes you, embrace it instead of suppressing it. Play it out in your mind. Then ask: could I handle it? What would I do? You will almost always find the feared outcome is somehow manageable. This process drains the fear of its power.
 
 ### Practice: Full acceptance
 
-When faced with an unwanted situation — a difficult emotion, a delayed plan, a traffic jam — acknowledge it silently: this too is part of life. This does not mean you agree with the situation. It means you stop fighting against its existence right now. Acceptance ends the inner war, not the fact. It creates a sense of forgiveness around the experience, which is the first step toward navigating it peacefully.
+When faced with an unwanted situation — a difficult emotion, a delayed plan, a traffic jam — acknowledge it silently: this too is part of life. This does not mean you agree with the situation. It means you stop fighting against its existence right now. Acceptance ends the inner war. It creates a sense of forgiveness around the experience, which is the first step toward navigating it peacefully.
 
 ### Practice: Small surrenders
 
-Consciously practise letting go in situations where little is at stake. Choose flow over force. Each small act of surrender is a vote for trust over fear. [[deep-surrender|Deep surrender]] explores the deeper feminine path of letting go; this practice stays at the everyday level, the ordinary moments that build the muscle.
+Consciously practise letting go in situations where little is at stake. Choose flow over force. Each small act of surrender is a vote for trust over fear. This practice stays at the everyday level, the ordinary moments that build the muscle. [[deep-surrender|Deep surrender]] explores the deeper feminine path of letting go.
 
 ## Related topics
 

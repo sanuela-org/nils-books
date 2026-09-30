@@ -13,7 +13,7 @@ tags: [concept, controller-and-victim-masks]
 
 ## Definition
 
-The controller and victim masks are the two ego roles that dance beneath the surface of relationships. Both protect the same core wounds. Both are terrified of facing life with responsibility and authentic vulnerability. They feed each other: every controlling move invites a victim response, and every victim stance hands power to a controller. These masks are not personality types. They are reactive roles the inner protector adopts when genuine connection feels too dangerous.
+The controller and victim masks are the two roles of the [[inner-protector|inner protector]] that dance beneath the surface of relationships. Both protect the same core wounds. Both are terrified of facing life with responsibility and authentic vulnerability. They feed each other: every controlling move invites a victim response, and every victim stance hands power to a controller. These masks are not personality types. They are reactive roles the inner protector adopts when genuine connection feels too dangerous.
 
 ## The mask of the controller
 
@@ -33,7 +33,9 @@ The victim mask wears pain, yet its function is control. Playing powerless is a 
 
 ## How the masks meet
 
-Institutions and systems wear the masks too. Hierarchies adopt the controller role, while those beneath them absorb the victim stance. The dynamic is the same whether it plays out between two people, within a workplace, or inside a family. When you lash out when triggered, you take on the victim role and hand the other person the controller role. The cycle perpetuates itself through reaction and counter-reaction. Responding from the heart breaks the cycle. It requires pausing before the role is adopted, noticing the pull, and choosing a different way to meet the moment.
+The dynamic is the same whether it plays out between two people, within a workplace, or inside a family. When you lash out when triggered, you take on the victim role and hand the other person the controller role. Institutions and systems wear the masks too: hierarchies adopt the controller role, while those beneath them absorb the victim stance. 
+
+The cycle perpetuates itself through reaction and counter-reaction. Responding from the heart breaks the cycle. It requires pausing before the role is adopted, noticing the pull, and choosing a different way to meet the moment.
 
 ## Catching the mask on your own face
 
@@ -44,10 +46,10 @@ The emotional reactions are the tell. Frustration, contempt, or the urge to fix 
 Heart-centred language dissolves the controller-victim dynamic. Specific shifts in how you speak make the masks unnecessary.
 
 - "I feel …" instead of "You should …"
-- "I need …" instead of demands
+- "I need …" or "I would prefer …" instead of demanding
 - "I choose not to …" instead of "I can't"
 
-This kind of language puts responsibility where it belongs: on the speaker. It removes the power game entirely. When you speak from the heart about what you actually feel, need, or choose, there is no controller and no victim. There is only one person owning their experience and another person listening. See [[heart-centred-communication|heart-centred communication]] for the broader practice and [[emotional-self-regulation|emotional self-regulation]] for the inner skill that makes this possible under pressure.
+This kind of language puts responsibility where it belongs: on the speaker. It removes the power game entirely. When you speak from the heart about what you actually feel, need, or choose, there is no controller and no victim. There is only a human owning their experience and another human listening. See [[heart-centred-communication|heart-centred communication]] for the broader practice and [[emotional-self-regulation|emotional self-regulation]] for the inner skill that makes this possible under pressure.
 
 ## Related topics
 

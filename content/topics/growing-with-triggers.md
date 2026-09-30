@@ -13,7 +13,7 @@ tags: [practice, growing-with-triggers]
 
 ## Definition
 
-A trigger is not an invasion from outside but a signal from within. The inner protector reports that a core fear has been stimulated, like an alarm in a security system. Most people mistake this internal signal for an attack from another person. Growing with triggers means learning to read them as invitations rather than threats.
+A trigger is not an invasion from outside but a signal from within. The [[inner-protector|inner protector]] reports that a core fear has been stimulated, like an alarm in a security system. Most people mistake this internal signal for an attack from someone. Growing with triggers means learning to read them as invitations rather than threats.
 
 This page covers the specific reading of a trigger as a message from an old wound, and the named protocol for responding to it. For the broader skill of pausing, breathing, and self-soothing, see [[emotional-self-regulation|emotional self-regulation]]. Both practices support each other.
 
@@ -28,7 +28,7 @@ Every trigger holds an invitation: "What part of me is not yet whole and healed,
 When the familiar surge of emotion rises, this sequence interrupts the automatic reaction and redirects it toward conscious choice.
 
 - **The pause command:** as soon as the wave begins, issue a firm internal command: PAUSE. No word passes the lips, no defensive gesture. This circuit breaker creates the space to operate.
-- **Heart-centred breathing:** ground yourself in that space. Feel your feet on the floor, place a hand on your chest, and breathe into the heart centre ([[heart-centred-communication|heart-centred breathing]]). This relocates consciousness from the fortress command centre to the intuitive space of the heart. It takes only seconds and changes everything.
+- **Heart-centred breathing:** ground yourself in that space. Feel your feet on the floor, place a hand on your chest, and breathe into the heart centre. This relocates consciousness from the fortress command centre to the intuitive space of the heart. It takes only seconds and changes everything.
 - **Compassionate exploration:** from this grounded place, ask "What hurt is being touched here?" or "What old story or fear does this remind me of?" No forcing is needed; holding the question with compassionate awareness is enough.
 
 The pause opens a landscape of options where the reflex used to be:
@@ -38,7 +38,7 @@ The pause opens a landscape of options where the reflex used to be:
 - Listen to understand, instead of preparing your counter-argument. This alone can resolve most conflicts.
 - Choose a strategic disengagement: ask for time to process and revisit the conversation later.
 
-Responding from the heart breaks the controller-victim cycle ([[controller-and-victim-masks|controller and victim masks]]). Lashing out hands the other person the controller role; calm presence can invite them out of reactive patterns.
+Responding from the heart breaks the [[controller-and-victim-masks|controller-victim cycle]]. Lashing out hands the other one the controller role; calm presence can invite them out of reactive patterns.
 
 ## Staying steady while you change
 

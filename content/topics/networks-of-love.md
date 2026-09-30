@@ -23,11 +23,9 @@ Wanting more closeness than one partnership can offer does not mean something is
 
 Touch is not a claim of ownership: closeness can be shared comfort and healing presence without possessing anyone. The [[hugging-meditations|hugging meditations]] work this way: touch as a gift of deeply loving presence rather than possession, its wholeness and warmth carried home into another bond.
 
-What the Network of LOVE rejects is the dopamine chase: running through a garden picking every flower. It's all about growth, not appetite:
+What the Network of LOVE rejects is the dopamine chase: running through a garden picking every flower. It's all about growth, not appetite.
 
-> "It's not about having more sex. It's about experiencing more growth!"
-
-Slow, honest, grounded growth is what makes a network more enriching and stabilising than [[monogamy|monogamy]]. Jealousy is the biggest barrier — rooted in old wounds, in the fear of loss or the feeling of not being enough, fear rather than actual loss. Understanding it comes before going further, and *Love Beyond Jealousy* takes it up.
+Slow, honest, grounded growth is what can make a network more enriching and stabilising than [[monogamy|monogamy]]. Jealousy is the biggest barrier — rooted in old wounds, in the fear of loss or the feeling of not being enough, fear rather than actual loss. Understanding it comes before going further, and *Love Beyond Jealousy* takes it up.
 
 The relationship network model answers a need the foreword names: stability that does not have to be questioned every single day — trust, honesty, cohesion and the shared carrying of challenges. Opening wide does not mean giving up safety; the safety is built differently.
 

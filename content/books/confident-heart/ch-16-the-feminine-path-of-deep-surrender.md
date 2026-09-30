@@ -4,7 +4,7 @@ book: confident-heart
 chapter: 16
 substantial: true
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-09-30
 proofread: true
 tags:
   - chapter-summary/confident-heart
@@ -26,7 +26,7 @@ Within that space, an inner inventory unfolds: old stories, unresolved emotions,
 
 Forgiveness is not condoning hurt but a decision to release energetic cords binding you to the past. Forgive others, forgive circumstances, and most importantly forgive yourself: for perceived failures, harsh self-judgement, and ways you have not been who you hoped to be.
 
-[[heart-centred-communication|heart-centred breathing]] carries you home. Each exhale represents the physical sensation of letting go; each inhale softens the remaining edges. Armour exchanged for resilient gentleness: open, receptive, responsive. The heart blooms in its own time and its own perfect way.
+[[inner-sanctuary|heart-centred breathing]] carries you home. Each exhale represents the physical sensation of letting go; each inhale softens the remaining edges. Armour exchanged for resilient gentleness: open, receptive, responsive. The heart blooms in its own time and its own perfect way.
 
 ## Links to topics
 

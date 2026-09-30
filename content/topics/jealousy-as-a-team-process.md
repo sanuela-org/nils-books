@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["jealousy is a team process", "jealousy as a team", "team approach to jealousy"]
 created: 2026-09-17
-updated: 2026-09-23
+updated: 2026-09-30
 proofread: true
 tags: [concept, jealousy-as-a-team-process]
 ---
@@ -17,7 +17,7 @@ Jealousy is not a personal failing or a sign that LOVE is being tested. It is a 
 
 ## Why jealousy hits networks harder
 
-A relationship network acts as a powerful mirror. It reflects unconscious patterns, insecurities and unresolved wounds faster and more intensely than a closed couple relationship ever could. Every new connection, every moment of joy shared with someone else, can trigger old fears — the fear of being replaced, of not being special, of being used for stability while the real excitement happens elsewhere.
+A relationship network acts as a powerful mirror. It reflects unconscious patterns, insecurities and unresolved wounds faster and more intensely than a closed couple relationship ever could. Every new connection, every moment of joy shared with someone else, can trigger [[inner-protector#The core fears|old fears]] — the fear of being replaced, of not being special, of being used for stability while the real excitement happens elsewhere.
 
 - The traditional model hides jealousy behind prohibitions and possessiveness. The network model asks everyone to face it openly.
 - When someone's joy triggers another's fear, the feeling can spiral quickly if it is left unspoken.
@@ -56,7 +56,7 @@ The team-process approach transforms jealousy from a shameful failing into a sha
 - **Compersion** — the ability to feel authentic joy in a partner's joy with someone else. Not the absence of jealousy; an active, cultivated skill that can coexist with fear. See [[non-attachment-and-compersion|non-attachment and compersion]].
 - **Fear alarm** — jealousy understood as a signal rather than a truth. It tells you where to look, not what is actually happening.
 - **Shadow-work** — the inner work of meeting old wounds and unconscious patterns with conscious curiosity, rather than projecting them onto present relationships. See [[shadow-work|shadow work]].
-- **Heart-centred breathing** — the foundational practice for emotional self-regulation: breathing through the heart centre to return to a centred state before engaging with others. See [[heart-centred-communication|heart-centred communication]].
+- **Heart-centred breathing** — the foundational practice for emotional self-regulation: breathing through the heart centre to return to a centred state before engaging with others. See [[inner-sanctuary|heart-centred breathing]].
 
 ## Related topics
 

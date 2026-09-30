@@ -4,7 +4,7 @@ book: confident-heart
 chapter: 13
 substantial: true
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-09-30
 proofread: true
 tags:
   - chapter-summary/confident-heart
@@ -22,7 +22,7 @@ The armour has felt like skin for so long that removing it provokes anxiety. Lib
 
 In the open world beyond the walls, strategy gives way to intuition, walls give way to bridges, and control gives way to LOVE, connection and co-creation. The [[heart-qualities|heart qualities]] that emerge when the heart stops battling — presence, openness, honesty, inner alignment, compassionate curiosity, forgiveness, vulnerability, clarity, joy, and more — arise naturally once the defensive structure relaxes. A self-assessment invites readers to rate how strongly each quality reflects their current reality on a scale.
 
-Working with this territory means pausing when an old armoured pattern surfaces, [[heart-centred-communication|breathing through the heart centre]], and asking with curiosity which quality would serve here. Picking one quality per day and practising it in micro-moments rewires the nervous system. Sitting quietly, breathing into the heart, and feeling a quality somatically — not just thinking it — creates a living connection beyond the intellectual concept.
+Working with this territory means pausing when an old armoured pattern surfaces, [[inner-sanctuary|breathing through the heart centre]], and asking with curiosity which quality would serve here. Picking one quality per day and practising it in micro-moments rewires the nervous system. Sitting quietly, breathing into the heart, and feeling a quality somatically — not just thinking it — creates a living connection beyond the intellectual concept.
 
 ## Links to topics
 

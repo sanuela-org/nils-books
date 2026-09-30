@@ -34,33 +34,33 @@ The book [[confident-heart|The Confident Heart]] describes them like this:
 
 ## The ego's strategies
 
-For its deepest fears, the ego has a fixed strategy.
+The inner protector responds to every fear with a strategy, for example:
 
-- The fear of not being enough: a persona of hyper-competence, achievement and superiority, kept alive by constant comparison to others
-- The fear of being unlovable: barriers against intimacy, pushing people away before they can get close enough to reject us
-- The fear of being powerless: relentless attempts to control people, outcomes and the environment
-- The fear of being overwhelmed: numbing and intellectualising, staying in the head and avoiding deep feelings
-- The fear of insignificance: a grandiose self-image of someone special and destined for greatness, or uniquely victimised
+- The fear of not being enough: The inner protector creates a persona of hyper-competence, achievement and superiority, which is sustained through constant comparison with others.
+- The fear of being unlovable: The inner protector puts up barriers against intimacy, pushing people away before they can get close enough to reject us.
+- The fear of being powerless: The inner protector reacts with relentless attempts to control people, outcomes and the environment.
+- The fear of being overwhelmed: The inner protector responds with numbing and intellectualising, staying in the head and avoiding deep feelings.
+- The fear of insignificance: The inner protector compensates with a grandiose self-image of someone special and destined for greatness, or uniquely victimised.
 
 ## The architecture of the fortress
 
 Beyond single strategies, the ego constructs an entire reality, held up by unspoken internal commandments:
 
-- Identity stories: the stories from the past that we tell ourselves about who we are; the protector resists changing them, because that can feel like a betrayal of our own history
-- The trap of familiarity: the comfort zone equated with safety, the unknown with danger
-- The illusion of control: managing, predicting and dominating, while the heart works through surrender, trust and flow
-- Aversion to 'negative' emotions: sadness, grief, shame and even deep longing get managed, suppressed or converted into anger
-- The urge to be right: blaming others and justifying ourselves, while admitting a mistake feels like a profound loss
-- The feeling of separation: 'me against you' as the ego's ground, where the heart speaks of connection and 'us'
+- Identity stories: the stories from the past that we tell ourselves about who we are; the inner protector resists changing them, because that can feel like a betrayal of our own history.
+- The trap of familiarity: the comfort zone is equated with safety and the unknown with danger.
+- The illusion of control: the inner protector manages, predicts and dominates, while the heart works through surrender, trust and flow.
+- Aversion to 'negative' emotions: sadness, grief, shame and even deep longing get managed, suppressed or converted into anger.
+- The urge to be right: blaming others and justifying ourselves, while admitting a mistake feels like a profound loss.
+- The feeling of separation: 'me against you' as the ego's ground, where the heart speaks of connection and 'us'.
 
 ## The hidden costs
 
 Lived as a permanent fortress, the protection turns inward on itself:
 
-- A fatigue that sleep cannot cure: the guardian scans the horizon around the clock
-- Numbness: pain is avoided, but so are the deep joy of aliveness and true connection
-- Distraction: the quiet emptiness is filled with noise, stimulation and busyness
-- The inner critic: the voice of strategic advice hardens into constant self-attack, and we become both the prisoner and our own cruelest guardian
+- A fatigue that sleep cannot cure: the guardian scans the horizon around the clock.
+- Numbness: pain is avoided, but so are the deep joy of aliveness and true connection.
+- Distraction: the quiet emptiness is filled with noise, stimulation and busyness.
+- The inner critic: the voice of strategic advice hardens into constant self-attack, and we become both the prisoner and our own cruelest guardian.
 
 ## The defence-mechanism self-assessment
 
@@ -99,7 +99,7 @@ Add up all the numbers to find how active your inner protector is right now.
 
 The transformation goal is to shift the inner protector from a fearsome tyrant into a wise advisor. The fortress's identity stories and internal commandments are examined, not demolished. The inner protector is not destroyed but outgrown. The fortress stays in the landscape as shelter in a storm, not a permanent prison.
 
-When the protector's voice as inner critic is met with gratitude rather than resistance, it turns back into strategic advice. The ego's identity stories are no longer believed as absolute truth but seen as patterns that once served a purpose. The destination is the [[unshakable-self|unshakable self]], where the heart leads and the mind serves it faithfully.
+When the inner protector's voice as inner critic is met with gratitude rather than resistance, it turns back into strategic advice. The ego's identity stories are no longer believed as absolute truth but seen as patterns that once served a purpose. The destination is the [[unshakable-self|unshakable self]], where the heart leads and the mind serves it faithfully.
 
 ## Related topics
 
