@@ -56,6 +56,11 @@ function BookUI({ fileData, allFiles }: QuartzComponentProps) {
             <p class="book-titleline">{title}</p>
           )}
           {byline(fm) ? <p class="book-byline">{byline(fm)}</p> : null}
+          {typeof fm.books2read === "string" && fm.books2read ? (
+            <p class="book-buylink">
+              <a href={String(fm.books2read)} target="_blank" rel="noopener">Get the book</a>
+            </p>
+          ) : null}
         </div>
       </div>
     )
@@ -170,6 +175,23 @@ BookUI.css = `
   margin: 0;
   font-size: 0.9rem;
   color: var(--gray);
+}
+
+/* books2read link: book header (right column) and index cards */
+p.book-buylink {
+  margin: 0.55rem 0 0;
+  font-size: 0.92rem;
+}
+
+p.book-buylink a {
+  color: var(--darkgray);
+  font-weight: 500;
+  text-decoration: none;
+  border-bottom: 1px solid var(--gray);
+}
+
+p.book-buylink a:hover {
+  color: var(--tertiary);
 }
 
 /* index book cards get a one-line summary between byline and chapter-summaries link */

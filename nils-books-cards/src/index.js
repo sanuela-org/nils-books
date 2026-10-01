@@ -53,6 +53,7 @@ function collectBooks(filePath) {
       cover: fm.cover,
       bookSlug: String(fm.book_slug ?? "").trim() || name.slice(0, -3),
       summary: String(fm.summary ?? "").trim(),
+      buy: String(fm.books2read ?? "").trim(),
     })
   }
   books.sort((a, b) => {
@@ -67,6 +68,9 @@ function cardHtml(b) {
   const src = `_attachments/${b.bookSlug}/${b.cover}`
   const titleline = b.subtitle ? `${b.title}. ${b.subtitle}` : b.title
   const summary = b.summary ? `\n<p class="book-summary">${esc(b.summary)}</p>` : ""
+  const buy = b.buy
+    ? `\n<p class="book-buylink"><a href="${esc(b.buy)}" target="_blank" rel="noopener">Get the book</a></p>`
+    : ""
   return (
     `<div class="book-entry">\n` +
     `<a class="book-entry-coverlink" href="${esc(href)}">` +
@@ -74,10 +78,11 @@ function cardHtml(b) {
     `</a>\n` +
     `<div class="book-header-meta">\n` +
     `<p class="book-titleline"><a href="${esc(href)}">${esc(titleline)}</a></p>\n` +
-    `<p class="book-byline">${esc([b.author, b.year || ""].filter(Boolean).join(" · "))}</p>` +
+    `<p class="book-byline">${esc([b.author, b.year || ""].filter(Boolean).join(" · "))}</p>\n` +
     summary +
     `\n<p class="book-chapters"><a href="${esc(href)}#chapters">Chapter summaries</a></p>\n` +
-    `</div>\n</div>`
+    buy +
+    `\n</div>\n</div>`
   )
 }
 

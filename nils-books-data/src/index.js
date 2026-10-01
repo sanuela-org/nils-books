@@ -28,14 +28,23 @@ function patchYears(ctx, content) {
   if (!fs.existsSync(fp)) return
   const idx = JSON.parse(fs.readFileSync(fp, "utf8"))
   let patched = 0
+  let ordered = 0
   for (const [slug, entry] of Object.entries(idx)) {
     if (years[slug] !== undefined) {
       entry.year = years[slug]
       patched++
     }
+    // Chapter reading order straight from the slug: ch-00 (foreword) first,
+    // numbered chapters in order, sub-slots (ch-12-2-x) right after ch-12,
+    // closing essay / afterword (highest ch-NN) last.
+    const m = /^books\/[^/]+\/ch-(\d+)(?:-(\d+))?(?:-|$)/.exec(slug)
+    if (m) {
+      entry.chapterOrder = Number(m[1]) + (m[2] ? Number(m[2]) / 100 : 0)
+      ordered++
+    }
   }
   fs.writeFileSync(fp, JSON.stringify(idx))
-  console.log(`[nils-books-data] added year to ${patched} contentIndex entries`)
+  console.log(`[nils-books-data] added year to ${patched} and chapterOrder to ${ordered} contentIndex entries`)
 }
 
 export default (opts) => {

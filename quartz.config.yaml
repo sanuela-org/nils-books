@@ -85,6 +85,9 @@ plugins:
   - source: "./nils-books-cards"
     enabled: true
     order: 75
+  - source: "./nils-jsonld"
+    enabled: true
+    order: 76
   - source: "@quartz-community/latex"
     enabled: true
     options:
@@ -135,7 +138,7 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: true
     options:
-      sortFn: "(a, b) => { const y = (n) => Number(n.data && n.data.year) || 0; const ya = y(a), yb = y(b); if (ya !== yb) return yb - ya; return String(a.displayName || '').localeCompare(String(b.displayName || ''), undefined, { numeric: true, sensitivity: 'base' }) }"
+      sortFn: "(a, b) => { const co = (n) => (n.data && typeof n.data.chapterOrder === 'number') ? n.data.chapterOrder : null; const ca = co(a), cb = co(b); if (ca !== null && cb !== null) return ca - cb; const y = (n) => Number(n.data && n.data.year) || 0; const ya = y(a), yb = y(b); if (ya !== yb) return yb - ya; return String(a.displayName || '').localeCompare(String(b.displayName || ''), undefined, { numeric: true, sensitivity: 'base' }) }"
     layout:
       position: left
       priority: 50
