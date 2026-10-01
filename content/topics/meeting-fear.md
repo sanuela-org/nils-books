@@ -46,4 +46,5 @@ Fear often arrives through a trigger. The pause protocol of [[growing-with-trigg
 - [[inner-protector|Inner Protector]]
 - [[letting-go|Letting go]]
 - [[heart-centred-communication|Heart-Centred Communication]]
+- [[sanuela-retreats|Sanuela Retreats]]
 - [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

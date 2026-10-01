@@ -110,4 +110,5 @@ When the inner protector's voice as inner critic is met with gratitude rather th
 - [[expanding-the-comfort-zone|Expanding the Comfort Zone]]
 - [[jealousy-as-a-team-process|Jealousy as a Team Process]]
 - [[shame-and-social-conditioning|Shame and Social Conditioning]]
+- [[sanuela-retreats|Sanuela Retreats]]
 - [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

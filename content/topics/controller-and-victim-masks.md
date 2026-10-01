@@ -57,4 +57,5 @@ This kind of language puts responsibility where it belongs: on the speaker. It r
 - [[heart-centred-communication|Heart-Centred Communication]]
 - [[growing-with-triggers|Growing With Triggers]]
 - [[inner-protector|Inner Protector]]
+- [[sanuela-retreats|Sanuela Retreats]]
 - [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

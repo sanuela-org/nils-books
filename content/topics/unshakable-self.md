@@ -52,4 +52,5 @@ The path of the confident heart is a pioneering one: it takes courage to face mi
 - [[heart-qualities|Heart Qualities]]
 - [[inner-protector|Inner Protector]]
 - [[masculine-and-feminine-balance|Masculine and Feminine Balance]]
+- [[sanuela-retreats|Sanuela Retreats]]
 - [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

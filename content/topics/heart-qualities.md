@@ -67,4 +67,5 @@ Identity is a living, breathing garden. You can feel vulnerable, powerful and au
 - [[unshakable-self|Unshakable Self]]
 - [[inner-sanctuary|Inner Sanctuary]]
 - [[non-attachment-and-compersion|Non-Attachment and Compersion]]
+- [[sanuela-retreats|Sanuela Retreats]]
 - [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

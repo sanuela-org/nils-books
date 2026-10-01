@@ -58,4 +58,5 @@ Old wounds reinforce scarcity thinking. Understanding [[jealousy-as-a-team-proce
 - [[non-attachment-and-compersion|Non-Attachment and Compersion]]
 - [[jealousy-as-a-team-process|Jealousy as a Team Process]]
 - [[monogamy|Monogamy]]
+- [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

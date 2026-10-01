@@ -25,7 +25,7 @@ The book [[confident-heart|The Confident Heart]] describes it like this: deep su
 
 ### Practice: The retreat
 
-A personal retreat in seclusion for a few hours or days gives this work its setting. Away from the noise of the world, you can hear the voice of your soul; this deep inner cleansing is highly recommended. For the fullest dive, try a dark retreat. Media stories teach us to fear the dark, yet darkness is a pure representation of the divine feminine. It offers a gentle, soothing embrace that asks nothing of you but to turn inward and simply be — a wonderful place for letting go.
+A personal retreat in seclusion for a few hours or days gives this work its setting. Away from the noise of the world, you can hear the voice of your soul; this deep inner cleansing is highly recommended. For the fullest dive, try a [[sanuela-retreats|dark retreat]]. Media stories teach us to fear the dark, yet darkness is a pure representation of the divine feminine. It offers a gentle, soothing embrace that asks nothing of you but to turn inward and simply be — a wonderful place for letting go.
 
 ### Practice: The inner inventory
 
@@ -64,4 +64,5 @@ Following this path is a journey into your deepest truth, a leap of faith into t
 - [[letting-go|Letting Go]]
 - [[masculine-and-feminine-balance|Masculine and Feminine Balance]]
 - [[inner-sanctuary|Inner Sanctuary]]
+- [[sanuela-retreats|Sanuela Retreats]]
 - [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]
