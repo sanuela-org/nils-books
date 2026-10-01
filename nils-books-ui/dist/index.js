@@ -144,21 +144,11 @@ BookUI.css = `
   color: var(--gray);
 }
 
-/* books2read link: book header (right column) and index cards */
+/* books2read link: book header (right column) and index cards \u2014 the anchor
+   inherits the theme's default link styling */
 p.book-buylink {
   margin: 0.55rem 0 0;
   font-size: 0.92rem;
-}
-
-p.book-buylink a {
-  color: var(--darkgray);
-  font-weight: 500;
-  text-decoration: none;
-  border-bottom: 1px solid var(--gray);
-}
-
-p.book-buylink a:hover {
-  color: var(--tertiary);
 }
 
 /* index book cards get a one-line summary between byline and chapter-summaries link */

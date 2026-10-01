@@ -18,6 +18,8 @@ tar -C "$VAULT" \
   --exclude='./schema.md' \
   --exclude='./log.md' \
   --exclude='./proposal-*' \
+  --exclude='./_attachments/all-sanuela-retreats.md' \
+  --exclude='./_attachments/all-sanuela-retreats.odt' \
   -cf - . | tar -C "$CONTENT" -xf -
 
 echo "synced $(find "$CONTENT" -name '*.md' | wc -l) md files"
