@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["consent", "safe word", "feelings of safety"]
 created: 2026-09-19
-updated: 2026-09-23
+updated: 2026-10-01
 proofread: true
 tags: [concept, safety-and-consent]
 ---
@@ -61,4 +61,5 @@ When partners offer a steady presence, honest communication, individual allowanc
 - [[hugging-meditations|Hugging Meditations]]
 - [[group-dynamics-in-a-relationship-network|Group Dynamics in a Relationship Network]]
 - [[networks-of-love|Networks of LOVE]]
+- [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

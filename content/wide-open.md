@@ -4,16 +4,18 @@ subtitle: "How to Open Our Hearts and Build a Network of LOVE"
 book_slug: wide-open
 author: Nils Klippstein
 year: 2026
-isbn: ""
-asin: ""
-kdp_url: ""
+isbn: "979-8181838901"
+asin_print: "B0H5KVB17X"
+asin_kindle: "B0H5L3NCXD"
+asin_audio: "B0H8QBSWBF"
+books2read: "https://books2read.com/u/ml186M"
 cover: cover.jpg
 summary: "opening the heart and building a stable network of loving relationships instead of the exclusive couple model"
 sources: [_sources/wide-open/]
 topics: [monogamy, networks-of-love, hugging-meditations, jealousy-as-a-team-process, heart-centred-communication, shadow-work, planning-pause, reconnection-ritual, non-attachment-and-compersion, allowances-and-boundaries, emotional-self-regulation, time-and-energy-management, conflict-repair, touch-as-connection, safety-and-consent, radical-honesty-and-trust, abundance-and-scarcity-in-love, shame-and-social-conditioning, group-dynamics-in-a-relationship-network, sanuela-retreats, glossary]
 chapters_summarized: 14
 created: 2026-09-14
-updated: 2026-09-23
+updated: 2026-10-01
 tags: [book]
 ---
 

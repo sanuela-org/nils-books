@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["healing touch", "touch without ownership", "holding hands"]
 created: 2026-09-19
-updated: 2026-09-23
+updated: 2026-10-01
 proofread: true
 tags: [concept, touch-as-connection]
 ---
@@ -43,6 +43,7 @@ This is about recognising that LOVE, when truly felt, naturally overflows. The a
 - A long, unhurried embrace after time apart, where both people breathe together without rushing to speak.
 - A hand on someone's back that anchors them in the present moment and says *I am here*.
 - Sitting close enough that bodies touch, sharing warmth simply by being near.
+- A [[sanuela-retreats|retreat at Finca Sanuela]], where conscious touch is learned and practised with guidance
 
 ## Common misunderstandings
 
@@ -59,4 +60,5 @@ This is about recognising that LOVE, when truly felt, naturally overflows. The a
 - [[allowances-and-boundaries|Allowances and Boundaries]]
 - [[shame-and-social-conditioning|Shame and Social Conditioning]]
 - [[networks-of-love|Networks of LOVE]]
+- [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

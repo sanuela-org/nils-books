@@ -4,7 +4,7 @@ type: concept
 books: [confident-heart]
 aliases: [yang dictatorship, inner patriarch, wounded feminine, inner marriage]
 created: 2026-09-27
-updated: 2026-09-28
+updated: 2026-10-01
 proofread: true
 tags: [concept, masculine-and-feminine-balance]
 ---
@@ -39,4 +39,5 @@ Reclaiming the feminine is not defeating the masculine but restoring its partner
 - [[deep-surrender|Deep Surrender]]
 - [[inner-protector|Inner Protector]]
 - [[unshakable-self|Unshakable Self]]
+- [[sanuela-retreats|Sanuela Retreats]]
 - [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

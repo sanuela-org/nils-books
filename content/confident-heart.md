@@ -4,9 +4,11 @@ subtitle: From Fear to LOVE
 book_slug: confident-heart
 author: Nils Klippstein
 year: 2025
-isbn: ""
-asin: ""
-kdp_url: ""
+isbn: "979-8275361841"
+asin_print: "B0G386FH9M"
+asin_kindle: "B0G35YQL3J"
+asin_audio: "B0H8WF5Z4S"
+books2read: "https://books2read.com/u/3n6XjR"
 cover: cover.jpg
 summary: "from fear to LOVE: the inner protector's fortress, its costs, and the confident heart built in its place"
 sources:
@@ -39,7 +41,7 @@ topics:
   - glossary
 chapters_summarized: 21
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-01
 proofread: true
 tags:
   - book

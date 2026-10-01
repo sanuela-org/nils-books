@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["radical honesty", "honesty and trust", "total honesty", "truthfulness"]
 created: 2026-09-19
-updated: 2026-09-28
+updated: 2026-10-01
 proofread: true
 tags: [concept, radical-honesty-and-trust]
 ---
@@ -74,4 +74,5 @@ The book [[wide-open|Wide Open]] describes it like this: the quiet commitment to
 - [[non-attachment-and-compersion|Non-Attachment and Compersion]]
 - [[monogamy|Monogamy]]
 - [[networks-of-love|Networks of LOVE]]
+- [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

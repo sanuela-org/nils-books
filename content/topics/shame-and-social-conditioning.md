@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["social conditioning", "shame around love", "conditioned social system"]
 created: 2026-09-19
-updated: 2026-09-23
+updated: 2026-10-01
 proofread: true
 tags: [concept, shame-and-social-conditioning]
 ---
@@ -47,4 +47,5 @@ The body often responds before the mind catches up — a tightening, a flush, an
 - [[touch-as-connection|Touch as Connection]]
 - [[radical-honesty-and-trust|Radical Honesty and Trust]]
 - [[networks-of-love|Networks of LOVE]]
+- [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

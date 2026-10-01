@@ -4,7 +4,7 @@ type: concept
 books: [wide-open]
 aliases: ["Network of LOVE", "relationship network", "relationship networks"]
 created: 2026-09-14
-updated: 2026-09-28
+updated: 2026-10-01
 proofread: true
 tags: [concept, networks-of-love]
 ---
@@ -79,6 +79,7 @@ In the book [[wide-open|Wide Open]], [[ch-03-why-live-like-a-potted-plant|Chapte
 - Holding the space when a partner needs time on their own.
 - Carrying warmth and a radiating presence home from one connection into another.
 - Wanting more closeness without implying that something is missing from the main relationship.
+- A few days at [[sanuela-retreats|Finca Sanuela]], where the network's skills become daily life instead of theory.
 
 ## Related topics
 
