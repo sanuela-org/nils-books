@@ -18,6 +18,7 @@ tar -C "$VAULT" \
   --exclude='./schema.md' \
   --exclude='./log.md' \
   --exclude='./proposal-*' \
+  --exclude='./better-re-editing.md' \
   --exclude='./_attachments/all-sanuela-retreats.md' \
   --exclude='./_attachments/all-sanuela-retreats.odt' \
   -cf - . | tar -C "$CONTENT" -xf -

@@ -1,10 +1,10 @@
 ---
 title: Heart-Centred Communication
 type: practice
-books: [wide-open]
+books: [wide-open, soulfamilies]
 aliases: ["honest, loving communication", "daily heart-share", "heart share", "heart-share"]
 created: 2026-09-17
-updated: 2026-09-23
+updated: 2026-10-06
 proofread: true
 tags: [practice, heart-centred-communication]
 ---
@@ -19,7 +19,7 @@ Speaking and listening from the heart centre rather than from ego or fear. This 
 
 Heart-centred communication requires specific inner skills that shape how every conversation unfolds.
 
-- Breathe through the heart centre before speaking, so words come from a grounded place rather than reactivity.
+- [[inner-sanctuary#Practice: Heart-centred breathing|Breathe through the heart centre]] before speaking, so words come from a grounded place rather than reactivity.
 - Share feelings using 'I feel' statements — personal experience, not blame or accusation.
 - Address small concerns early, before they grow into larger issues.
 - Listen with the intent to understand, not to argue or prove yourself right.
@@ -59,8 +59,15 @@ This simple practice from the book [[wide-open|Wide Open]] builds emotional tran
 
 Honesty and consistency are the most important things. The practice does not need to happen every single day, but it should be a regular rhythm — the heartbeat the relationship network depends on.
 
+## Across books
+
+In the book [[wide-open|Wide Open]], this is the first and most essential skill of the blueprint ([[ch-06-the-blueprint-takes-shape|Ch 6 — The Blueprint Takes Shape]]), and the daily heart-share is introduced as the rhythm that keeps trust alive ([[ch-08-plans-and-expectations|Ch 8 — Plans and Expectations]]). 
+
+The book [[soulfamilies|Soulfamilies]] grounds the same skill in every exercise: pairs and groups begin by breathing through their heart centres before anyone speaks ([[ch-02-sharing|Ch 2 — Sharing]], [[ch-14-trusting|Ch 14 — Trusting]]).
+
 ## Related topics
 
+- [[inner-sanctuary|Inner Sanctuary]]
 - [[radical-honesty-and-trust|Radical Honesty and Trust]]
 - [[emotional-self-regulation|Emotional Self-Regulation]]
 - [[allowances-and-boundaries|Allowances and Boundaries]]
@@ -71,3 +78,4 @@ Honesty and consistency are the most important things. The practice does not nee
 - [[networks-of-love|Networks of LOVE]]
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
+- [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]

@@ -1,10 +1,10 @@
 ---
 title: Non-Attachment and Compersion
 type: concept
-books: [wide-open]
-aliases: ["non-attachment", "compersion", "loving-kindness for compersion"]
+books: [wide-open, soulfamilies]
+aliases: ["non-attachment", "compersion", "loving-kindness for compersion", "opposite of jealousy", "shared field of connection"]
 created: 2026-09-17
-updated: 2026-09-23
+updated: 2026-10-06
 proofread: true
 tags: [concept, non-attachment-and-compersion]
 ---
@@ -35,9 +35,22 @@ This is not coldness. It is the deepest respect for what two human beings shared
 
 ## Compersion: joy for another's joy
 
-Compersion is actively nurturing joy in a partner's other connections. It is an antidote to jealousy and envy and builds an abundance mindset. But it is not the absence of jealousy. It is the ability to embrace both fear and joy, ache and warmth.
+Compersion is often described as the opposite of jealousy: actively nurturing joy in a partner's other connections — an antidote to jealousy and envy that builds an abundance mindset. But it is not the absence of jealousy. It is the ability to embrace both fear and joy, ache and warmth.
+
+Cultivating compersion means transforming your own wishes and needs into positive, loving support for someone else's well-being — and this support and [[touch-as-connection#Touch in a trio|spaceholding]] can become deeply fulfilling for yourself. It can enter through the spaceholder's seat: as the supporting third in a trio, you might feel a deep joy simply in supporting the others' connection. Others are no longer seen as rivals, but as part of a shared field of connection.
 
 Like any skill, compersion improves with practice. The more you train it, the more natural it becomes, though it is a choice made again and again.
+
+### Benefits
+
+- It opens the heart – We move from fear to trust.
+- It dissolves rivalry – We stop comparing and start celebrating.
+- It brings emotional freedom – LOVE can flow more naturally, without control.
+- It builds stronger bonds – We support instead of compete.
+- It reduces fear of loss – LOVE becomes something shared, not possessed.
+- It helps us grow – We learn to feel joy for others without losing ourselves.
+- It brings peace – We no longer fight what we fear and welcome what is true.
+- It supports honesty – When we feel safe, we become more open.
 
 ## Training compersion
 
@@ -64,6 +77,12 @@ Non-attachment and compersion feed directly into the [[networks-of-love|Network 
 
 When people meet from their inner centre rather than out of need, energies awaken and flow freely — without the desire for possession, pressure or performance. Trust, consent and fairness stabilise the circle, and LOVE becomes a living network rather than a [[monogamy|restricted bond]].
 
+## Across books
+
+In the book [[wide-open|Wide Open]], compersion is the tenth skill of the blueprint, with its own training list and the loving-kindness practice ([[ch-10-becoming-we|Ch 10 — Becoming We]]). 
+
+The book [[soulfamilies|Soulfamilies]] deepens the definition, adds the benefits list and shows compersion entering through the spaceholder's seat in the trio exercise ([[ch-03-connection|Ch 3 — Connection]]).
+
 ## Related topics
 
 - [[jealousy-as-a-team-process|Jealousy as a Team Process]]
@@ -73,4 +92,6 @@ When people meet from their inner centre rather than out of need, energies awake
 - [[touch-as-connection|Touch as Connection]]
 - [[networks-of-love|Networks of LOVE]]
 - [[sanuela-retreats|Sanuela Retreats]]
+- [[welcoming-a-third-soul|Welcoming a Third Soul]]
+- [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]

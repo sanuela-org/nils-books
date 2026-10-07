@@ -1,10 +1,10 @@
 ---
 title: Networks of LOVE
 type: concept
-books: [wide-open]
-aliases: ["Network of LOVE", "relationship network", "relationship networks"]
+books: [wide-open, soulfamilies]
+aliases: ["Network of LOVE", "relationship network", "relationship networks", "network of relationships"]
 created: 2026-09-14
-updated: 2026-10-01
+updated: 2026-10-06
 proofread: true
 tags: [concept, networks-of-love]
 ---
@@ -15,7 +15,7 @@ tags: [concept, networks-of-love]
 
 A Network of LOVE is a stable, honest web of relationships that shares the emotional load a couple would otherwise carry alone.
 
-Metaphorically speaking, it is like potted plants compared to a thriving garden. Potted plants are completely dependent on their caregivers and can suffer if they are isolated with little other support. A garden is joined underground by a mycelial network connecting every tree, bush and flower — sharing nutrients, sending warnings, letting the strong support the weak. That resilience is the model: when one partner needs time alone, others hold the space, and shared responsibility takes the pressure off.
+Metaphorically speaking, it is like potted plants compared to a thriving garden. Potted plants are completely dependent on their caregivers and can suffer if they are isolated with little other support. A garden is joined underground by a mycelial network connecting every tree, bush and flower — sharing nutrients, sending warnings, letting the strong support the weak. 
 
 It is impossible to expect anyone to be a best friend, cheerleader, therapist and lover all at once. Under this impossible weight, couples either strain and things rumble, or the relationship falls asleep. 
 
@@ -67,6 +67,21 @@ The core practices: the [[heart-centred-communication#Practice: Daily heart-shar
 
 In the book [[wide-open|Wide Open]], [[ch-03-why-live-like-a-potted-plant|Chapter 03: Why Live Like a Potted Plant]] delivers the model through in-scene dialogue and a notebook outline written by one of the story's characters. [[ch-02-the-inherited-order|Chapter 02: The Inherited Order]] supplies the historical background: the restricted one-partner model originated from systems of control introduced and enforced by warlords and popes. 
 
+The book [[soulfamilies|Soulfamilies]] delivers the model a second time through the mycelium image and the lessons drawn from it ([[ch-06-networks|Ch 6 — Networks]]). [[ch-04-vulnerability|Ch 4 — Vulnerability]] adds what becomes possible in a network: deep connections of LOVE, [[glossary#Moon Love relationship|Moon Love relationships]] and different ways of relating.
+
+## Lessons from the mycelial network
+
+The book [[soulfamilies|Soulfamilies]] draws these lessons from the mycelial network. In a [[soulfamily-community|soulfamily community]], LOVE and support circulate naturally between souls, with each soul connected to others through trust, presence, and shared experiences.
+
+- **Stay connected:** Just like trees stay linked underground, we can keep emotional closeness alive even without direct physical presence.
+- **Support with presence:** True support does not always need words or actions. Sometimes just being there with an open heart makes all the difference.
+- **Share care and resources freely:** Giving and receiving LOVE, comfort, time and care strengthens everyone involved, not just the 'couples'.
+- **Sense when support is needed:** In the forest, the mycelium senses which trees need more. In human networks, the same awareness grows when we open our hearts and listen deeply to each other.
+- **Hold and protect the vulnerable:** When one tree is weak, the others send help. In relationships, we can offer gentle support when someone needs more holding and care.
+- **Build a field of trust:** The network is stable when no part tries to dominate. Trust grows where freedom and mutual respect are present.
+- **Allow for slow, organic growth:** Mycelial networks do not rush. Relationships and connections should also grow slowly, naturally, at a rhythm that feels right.
+- **Heal through shared presence:** Just like a wounded tree can recover with the help of the network, we heal better when we are lovingly seen, felt, and supported by others.
+
 ## Common misunderstandings
 
 - **"It's a pitch for more sex."** It is about growth, not appetite; the dopamine chase through a garden picking every flower is exactly what the model rejects.
@@ -95,3 +110,4 @@ In the book [[wide-open|Wide Open]], [[ch-03-why-live-like-a-potted-plant|Chapte
 - [[touch-as-connection|Touch as Connection]]
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
+- [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]

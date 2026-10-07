@@ -7,7 +7,7 @@ show_book_covers: true
 
 Welcome! This growing knowledge base brings together the visions, concepts, and practices explored throughout Nils Klippstein’s books. At their heart is an invitation to heal and grow, open ourselves to nourishing closeness, create more honest and caring relationship networks, explore our embodied and energetic nature, and deepen our connection with our inner guidance and with Gaia.
 
-Last updated: September 27, 2026 | Total pages: 72
+Last updated: October 5, 2026 | Total pages: 95
 
 ## Books
 
@@ -84,6 +84,20 @@ Last updated: September 27, 2026 | Total pages: 72
   the inner marriage (concept)
 - [[unshakable-self|Unshakable Self]] — the destination: the confident heart as conductor, the
   fearless mind as orchestra; the heart-mind check-in; legacy as energetic imprint (concept)
+- [[soulfamily-community|Soulfamily Community]] — the chosen family: a small circle of trusted souls sharing
+  daily life, care and growth; visioning questions, a home with open doors, first steps (concept)
+- [[welcoming-a-third-soul|Welcoming a Third Soul]] — closeness from outside read as gift instead of threat:
+  what a supportive third soul does, its benefits and its checklist (concept)
+- [[soulfamily-compass|Soulfamily Compass]] — agreements as a living compass: common values, the four-step
+  process, agreements made visible, emotional agreements (practice)
+- [[shared-decision-making|Shared Decision-Making]] — consensus, advice-based and fluid leadership; light
+  sociocracy deciding by consent, not consensus (concept)
+- [[shared-money-and-resources|Shared Money and Resources]] — money as a living agreement: small steps, bigger
+  questions, the monthly money check-in, shared community income (practice)
+- [[clarifying-space-needs|Clarifying Space Needs]] — what a shared home must support before you commit: function,
+  must-haves, privacy, flow, growth; shared sleeping as a space question (practice)
+- [[raising-children-together|Raising Children Together]] — children held by a circle of trusted adults: benefits
+  for parents and soulfamily members, and for the children themselves (concept)
 
 ## Chapter summaries
 ### Wide Open. How to Open Our Hearts and Build a Network of LOVE
@@ -159,3 +173,37 @@ Last updated: September 27, 2026 | Total pages: 72
   conductor, the mind as orchestra, legacy as energetic imprint
 - [[confident-heart/ch-20-fears-of-freedom|Afterword — Fears of Freedom]] — the backlash against relationship
   networks, the cosy cage, and becoming a quiet invitation
+
+### Soulfamilies. Living, Loving and Growing Together
+- [[soulfamilies/ch-00-foreword|Foreword]] — the full foreword, unabridged: the longing for a more
+  connected, more human way of living, and the invitation to begin
+- [[ch-01-arrival|Ch 1 — Arrival]] — Ari's guarded arrival at the retreat; the first heart-centred
+  breathing circle in the yurt
+- [[ch-02-sharing|Ch 2 — Sharing]] — honest stories in the opening sharing circle; the traditional
+  family model weighed, pros and cons
+- [[ch-03-connection|Ch 3 — Connection]] — hand-holding in trios with a spaceholder; compersion as
+  joy in another's connection
+- [[ch-04-vulnerability|Ch 4 — Vulnerability]] — safety before openness; new possibilities from
+  heart-based bonds to Moon Love; jealousy as a call for deeper sharing
+- [[ch-05-togetherness|Ch 5 — Togetherness]] — a hugging meditation held by Jaro's spaceholding;
+  welcoming a third soul and the checklist for a supportive one
+- [[ch-06-networks|Ch 6 — Networks]] — relationship networks introduced; the mycelial network as
+  the model for how LOVE circulates
+- [[ch-07-challenges|Ch 7 — Challenges]] — arousal met without acting on it; Kai's jealousy named;
+  the common challenges of LOVE faced together
+- [[ch-08-whispers|Ch 8 — Whispers]] — Ari's dawn vision of a soul family; raising children in a
+  circle of care
+- [[ch-09-clarity|Ch 9 — Clarity]] — Ari names her vision; questions to explore alone; a home with
+  open doors
+- [[ch-10-beginnings|Ch 10 — Beginnings]] — a first farmhouse visit; clarifying what a shared space
+  must support
+- [[ch-11-alignment|Ch 11 — Alignment]] — each member's honest inner process; common values and the
+  soulfamily compass
+- [[ch-12-testing|Ch 12 — Testing]] — the trial month: a shared sleeping room, first tensions, roles
+  named; making decisions together
+- [[ch-13-learning|Ch 13 — Learning]] — a weekend guest exposes unspoken agreements; money and
+  shared resources
+- [[ch-14-trusting|Ch 14 — Trusting]] — a lost farmhouse, money talks and trust in the process; the
+  reader's first steps
+- [[ch-15-a-few-days-that-change-everything|Ch 15 — A Few Days That Change Everything]] — a few days
+  at Finca Sanuela: the book's themes met in person

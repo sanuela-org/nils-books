@@ -3,6 +3,7 @@ title: Inner Sanctuary
 type: practice
 books:
   - confident-heart
+  - soulfamilies
 aliases:
   - geborgenheit
   - inner safety
@@ -11,7 +12,7 @@ aliases:
   - inner warmth
   - heart-centred breathing
 created: 2026-09-27
-updated: 2026-09-28
+updated: 2026-10-06
 proofread: true
 tags:
   - practice
@@ -28,7 +29,19 @@ An inner sanctuary is a place of safety that is generated within. It is a portab
 
 ### Practice: Heart-centred breathing
 
-This is the master key to the inner sanctuary. It instantly pulls your awareness out of your mind and into the calm, intuitive space of your heart. It can be done anywhere, in any moment. Simply breathe LOVE in and out through the centre of your chest as though your heart itself were breathing.
+This is the master key to the inner sanctuary. It instantly pulls your awareness out of your mind and into the calm, intuitive space of your heart. It can be done anywhere, in any moment. 
+
+Breathe naturally, but imagine that the air is flowing through your heart centre instead of through your nose. You can place your hand in the centre of your chest if you want to feel it more strongly: LOVE in, LOVE out.
+
+You don't need to change anything, just let the breath flow. Feel and breathe.
+
+#### Benefits
+
+- It calms the nervous system. Fear, stress, and tension soften.
+- It brings attention into the body – from the mind and ego into our feeling.
+- It opens our heart. We feel a closer connection to ourselves and others.
+- It supports honest, caring communication – with more clarity and less fear.
+- It helps us stay emotionally grounded. It's hard to harm others when we breathe with the heart.
 
 The same breathing technique supports clear, compassionate communication. For its use in dialogue, see [[heart-centred-communication|heart-centred communication]].
 
@@ -53,6 +66,12 @@ From this inner stability, community becomes a natural extension. Shared accepta
 
 From this inner stability, friendliness radiates outward and the world mirrors it back. The more safety you generate within, the more the world reflects it in kinder interactions, unexpected support, and an unshakable sense of being held. See [[friendly-universe|friendly universe]].
 
+## Across books
+
+In the book [[confident-heart|The Confident Heart]], the sanctuary is built from *Geborgenheit* and the body's signals of safety ([[ch-04-building-inner-sanctuary|Ch 4 — Building Inner Sanctuary]]). 
+
+The book [[soulfamilies|Soulfamilies]] contributes heart-centred breathing as the master key, with its method and benefits ([[ch-01-arrival|Ch 1 — Arrival]]).
+
 ## Related topics
 
 - [[heart-centred-communication|Heart-Centred Communication]]
@@ -60,3 +79,4 @@ From this inner stability, friendliness radiates outward and the world mirrors i
 - [[inner-protector|Inner Protector]]
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]
+- [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]

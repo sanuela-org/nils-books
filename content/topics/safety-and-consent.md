@@ -1,10 +1,10 @@
 ---
 title: Safety and Consent
 type: concept
-books: [wide-open]
-aliases: ["consent", "safe word", "feelings of safety"]
+books: [wide-open, soulfamilies]
+aliases: ["consent", "safe word", "feelings of safety", "clear inner listening", "honest communication", "warm, heart-based connection", "space of calm and care"]
 created: 2026-09-19
-updated: 2026-10-01
+updated: 2026-10-06
 proofread: true
 tags: [concept, safety-and-consent]
 ---
@@ -26,10 +26,9 @@ Consent given at the start does not lock anyone in. Every moment of closeness ha
 
 ## Safe words and stop signals
 
-A safe word is a word or phrase agreed upon in advance that instantly ends whatever is happening. Some circles use a traffic-light system: green for comfort, yellow for caution or slowing down, and red for stopping completely. Others choose a word that would normally never be used in their conversations. The mechanism matters less than the commitment behind it — when a safe word is spoken, everything stops, no questions asked, no feelings hurt.
+A safe word is a word or phrase agreed upon in advance that instantly ends whatever is happening. Choose a word that would normally never be used in your conversations. The mechanism matters less than the commitment behind it — when a safe word is spoken, everything stops, no questions asked, no feelings hurt.
 
 - You can choose a safe word before any intimate or vulnerable practice begins.
-- The traffic-light system (green / yellow / red) offers graduated options.
 - A stop signal can also be non-verbal: a tap, a squeeze, a shift away.
 - Honouring a stop signal without hesitation is the deepest act of care.
 
@@ -46,6 +45,14 @@ Opening up the heart wide does not mean giving up safety. Safety is built differ
 
 When partners offer a steady presence, honest communication, individual allowances, and a shared commitment, they create a calm and resilient field. Touch, closeness, and even arousal can flourish without fear because trust, consent and fairness stabilise the whole circle. This is a living practice — each act of honesty and each honoured boundary adds another thread to the web of safety.
 
+## Attraction and arousal without acting on them
+
+The book [[soulfamilies|Soulfamilies]] describes it like this: during shared holding hands and hugging meditations, attraction and arousal can sometimes surface unexpectedly. One of the book's characters allowed themselves to feel a strong wave of arousal but remained still. 
+
+Physical closeness is about trust, cosiness and connection, but not necessarily an invitation for sensual intimacy. Deeper connection always requires honest communication and clear inner listening: what am I really feeling and what is the other really feeling? 
+
+The importance lies in allowing space for attraction and arousal without having to act on it. Simply breathing with these energies and staying in the heart can be deeply healing and fulfilling — the practice of [[emotional-self-regulation|emotional self-regulation]].
+
 ## How this shows up
 
 - A partner pauses mid-embrace to ask, "Is this still okay?" and the question feels natural.
@@ -53,6 +60,12 @@ When partners offer a steady presence, honest communication, individual allowanc
 - Before a new level of closeness, partners sit down and name what would make it feel safe for everyone.
 - A felt sense of unease is treated as information, not as a problem to push through.
 - After time apart, partners [[reconnection-ritual|reconnect]] through a ritual that restores the sense of being held.
+
+## Across books
+
+In the book [[wide-open|Wide Open]], safety is the container that makes opening possible: rules, a safe word, everything clear and consensual before the first hugging meditation ([[ch-01-a-different-glow|Ch 1 — A Different Glow]]), and explorations that unfold only inside agreed boundaries ([[ch-11-safe-exploration|Ch 11 — Safe Exploration]]). 
+
+The book [[soulfamilies|Soulfamilies]] adds the idea of meeting attraction and arousal without acting on them ([[ch-07-challenges|Ch 7 — Challenges]]).
 
 ## Related topics
 
@@ -62,4 +75,7 @@ When partners offer a steady presence, honest communication, individual allowanc
 - [[group-dynamics-in-a-relationship-network|Group Dynamics in a Relationship Network]]
 - [[networks-of-love|Networks of LOVE]]
 - [[sanuela-retreats|Sanuela Retreats]]
+- [[welcoming-a-third-soul|Welcoming a Third Soul]]
+- [[emotional-self-regulation|Emotional Self-Regulation]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
+- [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]

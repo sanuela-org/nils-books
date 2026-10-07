@@ -3,13 +3,15 @@ title: Emotional Self-Regulation
 type: practice
 books:
   - wide-open
+  - soulfamilies
 aliases:
   - self-regulation
   - emotional regulation
   - self-soothing
   - recognising triggers
+  - emotionally grounded
 created: 2026-09-17
-updated: 2026-09-28
+updated: 2026-10-06
 proofread: true
 tags:
   - practice
@@ -39,6 +41,10 @@ The core of the practice, as described in the book [[wide-open|Wide Open]]:
 The primary tool for emotional self-regulation is heart-centred breathing. This means breathing through the centre of your chest and imagining pure LOVE flowing in and out. It is not a metaphor — it is a physical practice. When jealousy, fear, or insecurity flares, you place a hand on your chest or abdomen and breathe naturally. The goal is to move from a reactive state into a centred one.
 
 Heart-centred breathing is also at the base of [[hugging-meditations|hugging meditations]]. In this practice, partners hold each other and breathe through their heart centres together. One of the many benefits of hugging meditation is that it helps to build the neural pathway of self-regulation, making it available when you need it most.
+
+### The grounding benefit
+
+The book [[soulfamilies|Soulfamilies]] describes it like this: heart-centred breathing grounds the emotions before anything else happens — it calms the nervous system, brings attention into the body and opens the heart. Its benefits list names the grounding directly: it is hard to harm others when we breathe with the heart. For the complete practice and its full benefits list, see [[inner-sanctuary#Practice: Heart-centred breathing|heart-centred breathing]].
 
 ## Pausing as a tool
 
@@ -77,6 +83,12 @@ This is deeply liberating. You do not have to overcome your jealousy before you 
 - A pause is not withdrawal. It is an investment in the quality of the next exchange.
 - Self-regulation and shadow work are distinct skills. This page covers the in-the-moment practice. Deeper healing of old wounds is the work of [[shadow-work|shadow work]].
 
+## Across books
+
+In the book [[wide-open|Wide Open]], emotional self-regulation is the second essential skill of the blueprint ([[ch-06-the-blueprint-takes-shape|Ch 6 — The Blueprint Takes Shape]]). 
+
+The book [[soulfamilies|Soulfamilies]] grounds it in heart-centred breathing at the start of everything, where its benefits list names the emotional grounding ([[ch-01-arrival|Ch 1 — Arrival]]).
+
 ## Related topics
 
 - [[shadow-work|Shadow Work]] — the deeper, longer-term healing of the wounds that self-regulation helps you navigate
@@ -84,3 +96,4 @@ This is deeply liberating. You do not have to overcome your jealousy before you 
 - [[heart-centred-communication|Heart-Centred Communication]] — the skill of speaking and listening from a centred, loving place
 - [[sanuela-retreats|Sanuela Retreats]] — where the practices of the books are experienced in person
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]] — the book where these practices are presented
+- [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]

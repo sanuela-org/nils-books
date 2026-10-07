@@ -1,10 +1,10 @@
 ---
 title: Jealousy as a Team Process
 type: concept
-books: [wide-open]
-aliases: ["jealousy is a team process", "jealousy as a team", "team approach to jealousy"]
+books: [wide-open, soulfamilies]
+aliases: ["jealousy is a team process", "jealousy as a team", "team approach to jealousy", "a call for deeper sharing"]
 created: 2026-09-17
-updated: 2026-09-30
+updated: 2026-10-06
 proofread: true
 tags: [concept, jealousy-as-a-team-process]
 ---
@@ -50,6 +50,19 @@ The team-process approach transforms jealousy from a shameful failing into a sha
 - **Sit with discomfort.** A certain amount of discomfort is the price of growth. The complex network does not offer safety by avoiding difficult feelings. It offers safety by proving the team can survive them.
 - **Separate past from present.** The ex who used you is not your current partner. The wound of being left is not evidence of being abandoned now. Disentangling these is the heart of [[shadow-work|inner shadow work]].
 
+## The sharing circle for jealousy
+
+The book [[soulfamilies|Soulfamilies]] describes it like this: jealousy is not the problem or the fault of the one who feels it. It is a call for deeper sharing. When jealousy comes up, the group does not ignore it and does not try to solve it in themselves. They sit together, speak from the heart and listen.
+
+Then the group asks each other:
+
+- How can I support you?
+- What would help you feel safe, seen, and met?
+
+That is how the group can grow together.
+
+The same holds for the challenges a relationship network meets: they are not the fault of one soul alone, but a shared responsibility. In a stable and caring relationship network, the group can learn to face them together: sitting down, sharing openly, listening deeply, and helping each other grow. This way, LOVE can become stronger than any fear or insecurity. The wider list of challenges a group works through together, and how it carries them, is set out in [[group-dynamics-in-a-relationship-network|group dynamics in a relationship network]].
+
 ## Key terms
 
 - **Team process** — the shared, collaborative approach to handling jealousy. Never one's problem to solve alone; a responsibility of everyone involved.
@@ -57,6 +70,12 @@ The team-process approach transforms jealousy from a shameful failing into a sha
 - **Fear alarm** — jealousy understood as a signal rather than a truth. It tells you where to look, not what is actually happening.
 - **Shadow-work** — the inner work of meeting old wounds and unconscious patterns with conscious curiosity, rather than projecting them onto present relationships. See [[shadow-work|shadow work]].
 - **Heart-centred breathing** — the foundational practice for emotional self-regulation: breathing through the heart centre to return to a centred state before engaging with others. See [[inner-sanctuary|heart-centred breathing]].
+
+## Across books
+
+In the book [[wide-open|Wide Open]], working jealousy as a team is the blueprint's most challenging skill ([[ch-06-the-blueprint-takes-shape|Ch 6 — The Blueprint Takes Shape]]). 
+
+The book [[soulfamilies|Soulfamilies]] turns it into group practice: jealousy named openly in the sharing circle, met with the two support questions ([[ch-04-vulnerability|Ch 4 — Vulnerability]]), and honesty in the circle bringing deep healing ([[ch-07-challenges|Ch 7 — Challenges]]).
 
 ## Related topics
 
@@ -67,5 +86,7 @@ The team-process approach transforms jealousy from a shameful failing into a sha
 - [[allowances-and-boundaries|Allowances and Boundaries]]
 - [[networks-of-love|Networks of LOVE]]
 - [[conflict-repair|Conflict Repair]]
+- [[group-dynamics-in-a-relationship-network|Group Dynamics in a Relationship Network]]
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
+- [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]

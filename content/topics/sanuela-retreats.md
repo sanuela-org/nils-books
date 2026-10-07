@@ -4,7 +4,7 @@ type: reference
 books: []
 aliases: ["retreats at Finca Sanuela", "Finca Sanuela retreat", "Sanuela retreat", "Sanuela retreats", "Finca Sanuela"]
 created: 2026-09-18
-updated: 2026-10-01
+updated: 2026-10-05
 proofread: true
 tags: [reference]
 ---
@@ -62,3 +62,4 @@ For current dates, prices and booking, see the official page on sanuela.org: [Re
 - [[shadow-work|Shadow Work]]
 - [[safety-and-consent|Safety and Consent]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
+- [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]

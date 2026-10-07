@@ -1,10 +1,10 @@
 ---
 title: Monogamy
 type: concept
-books: [wide-open]
-aliases: ["exclusive monogamy", "one-partner model", "traditional relationship model"]
+books: [wide-open, soulfamilies]
+aliases: ["exclusive monogamy", "one-partner model", "traditional relationship model", "traditional family model"]
 created: 2026-09-15
-updated: 2026-09-28
+updated: 2026-10-06
 proofread: true
 tags: [concept, monogamy]
 ---
@@ -46,6 +46,39 @@ The passages long used to defend the exclusive model — verses about unity, loy
 
 The alternative to the exclusive couple is a garden rather than a pot: a network joined underground, where touch is not ownership and LOVE is abundant rather than a limited resource — see [[networks-of-love|Networks of LOVE]].
 
+## The traditional family model weighed
+
+The book [[soulfamilies|Soulfamilies]] weighs the traditional relationship model on both sides and describes it like this:
+
+In the traditional relationship model, we usually live as a couple, sometimes with children, in a shared home. It often comes with expectations of lifelong commitment, sexual exclusivity, and carrying all emotional, financial, and parenting responsibilities within this small unit.
+
+Most of us grew up with this idea, and this story is repeated in many of our books, films, and cultural norms.
+
+### The pros of the traditional family model
+
+- Offers clear structure and social acceptance.
+- Can create a sense of stability and long-term commitment.
+- Often provides legal and financial security.
+- Supports focused parenting with shared responsibility.
+- Helps define roles and expectations within the household.
+- Can strengthen a shared sense of identity and history.
+
+### The cons of the traditional family model
+
+- Assumes one human can meet nearly all emotional and physical needs.
+- Encourages emotional dependency and fear of losing the other.
+- Often isolates couples from wider emotional or social support.
+- High separation rates suggest that some deeper needs are not being met.
+- Outside connections – emotional or physical – are often seen as a threat.
+- May lead to mistrust, emotional distance, or lack of true intimacy.
+- Can create pressure to stay in unhealthy or limiting relationships.
+- Often shaped by social expectations.
+- Leaves little space for personal freedom or evolving expressions of LOVE.
+- Can create resentment, unmet needs or loneliness, even within the partnership.
+- May block personal or emotional growth through overprotection.
+
+The closed couple box is the model a [[soulfamily-community|soulfamily community]] grows beyond.
+
 ## Common misunderstandings
 
 - **"Monogamy is the natural order."** It was built, piece by piece, and knowing that makes questioning it legitimate rather than wrong.
@@ -58,8 +91,16 @@ The alternative to the exclusive couple is a garden rather than a pot: a network
 - **LOVE** — capitalised in all books, and treated as abundant rather than a limited resource.
 - **Network of LOVE** — a stable, honest web of connections that shares the emotional load a couple would otherwise carry alone; see [[networks-of-love|Networks of LOVE]].
 
+## Across books
+
+In the book [[wide-open|Wide Open]], [[ch-02-the-inherited-order|Ch 2 — The Inherited Order]] supplies the history: the one-partner model built by warlords, rulers and church leaders, and defended with Bible passages that, read in context, forbid nothing. 
+
+The book [[soulfamilies|Soulfamilies]] weighs the pros and cons of the traditional family model as it looks today ([[ch-02-sharing|Ch 2 — Sharing]]).
+
 ## Related topics
 
 - [[networks-of-love|Networks of LOVE]]
+- [[soulfamily-community|Soulfamily Community]]
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
+- [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]
