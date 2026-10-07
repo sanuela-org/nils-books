@@ -1,10 +1,10 @@
 ---
-title: Retreats at Finca Sanuela
+title: Sanuela Retreats
 type: reference
 books: []
 aliases: ["retreats at Finca Sanuela", "Finca Sanuela retreat", "Sanuela retreat", "Sanuela retreats", "Finca Sanuela"]
 created: 2026-09-18
-updated: 2026-10-05
+updated: 2026-10-07
 proofread: true
 tags: [reference]
 ---
