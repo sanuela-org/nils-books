@@ -19,8 +19,15 @@ tar -C "$VAULT" \
   --exclude='./log.md' \
   --exclude='./proposal-*' \
   --exclude='./better-re-editing.md' \
-  --exclude='./_attachments/all-sanuela-retreats.md' \
-  --exclude='./_attachments/all-sanuela-retreats.odt' \
+  --exclude='./_attachments' \
   -cf - . | tar -C "$CONTENT" -xf -
 
-echo "synced $(find "$CONTENT" -name '*.md' | wc -l) md files"
+# _attachments rule (Nils, 2026-10-07): graphics only. Covers and figures
+# travel; text files in _attachments never publish. Text meant for the site
+# gets its own directory (e.g. articles/) — added to the tar excludes then.
+(cd "$VAULT" && find _attachments -type f \
+  \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.gif' \
+     -o -iname '*.webp' -o -iname '*.svg' -o -iname '*.avif' \) -print0 \
+  | tar --null -T - -cf -) | tar -C "$CONTENT" -xf -
+
+echo "synced $(find "$CONTENT" -name '*.md' | wc -l) md files, $(find "$CONTENT/_attachments" -type f | wc -l) attachment files"
