@@ -5,7 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: google
+    tagId: G-LJYEP9PXKT
   locale: en-US
   baseUrl: books.sanuela.org
   ignorePatterns:
