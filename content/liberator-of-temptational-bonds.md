@@ -10,18 +10,18 @@ asin_kindle: "B0DYRCJ41Q"
 asin_audio: ""
 books2read: "https://books2read.com/u/3ngqkK"
 cover: cover.jpg
-summary: "Alistair Rosevale frees Sanuela's souls from the thorns of craving — the path from addiction to fasting, self-LOVE and astral nourishment"
+summary: "Alistair Rosevale frees Sanuela's souls from the thorns of craving — the path from addiction to self-LOVE, fasting and astral nourishment"
 sources: [_sources/liberator-of-temptational-bonds/]
 topics: [thorns-of-craving, fasting-as-spiritual-practice, breatharian-initiation, guided-meditations-for-cravings, moon-love-relationship, hugging-meditations, inner-sanctuary, glossary]
 chapters_summarized: 27
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-17
 tags: [book]
 ---
 
 # Liberator of Temptational Bonds
 
-Nils Klippstein's spiritual fantasy about Alistair Rosevale, the liberator who frees Sanuela's souls from their thorns of craving. The story carries the book's own medicine: Alistair grows up inside a family of addictions, discovers the astral beings behind craving, and finds the path out — fasting, self-LOVE and the willingness to return to the underworld to guide others. Four guided meditations and the appendix carry the practice into the reader's life.
+Nils Klippstein's spiritual fantasy about Alistair Rosevale, the liberator who frees Sanuela's souls from their thorns of craving. The story carries the book's own medicine: Alistair grows up inside a family of addictions, discovers the astral beings behind craving, and finds the path out — self-LOVE, fasting and the willingness to return to the underworld to guide others. Four guided meditations and the appendix carry the practice into the reader's life.
 
 ## Summary
 
