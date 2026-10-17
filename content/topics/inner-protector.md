@@ -9,7 +9,7 @@ proofread: true
 tags: [concept, inner-protector]
 ---
 
-# Inner protector
+# Inner Protector
 
 ## Definition
 

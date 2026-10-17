@@ -7,7 +7,7 @@ show_book_covers: true
 
 Welcome! This growing knowledge base brings together the visions, concepts, and practices explored throughout Nils Klippstein’s books. At their heart is an invitation to heal and grow, open ourselves to nourishing closeness, create more honest and caring relationship networks, explore our embodied and energetic nature, and deepen our connection with our inner guidance and with Gaia.
 
-Last updated: October 5, 2026 | Total pages: 95
+Last updated: October 7, 2026 | Total pages: 145
 
 ## Books
 
@@ -207,3 +207,59 @@ Last updated: October 5, 2026 | Total pages: 95
   reader's first steps
 - [[ch-15-a-few-days-that-change-everything|Ch 15 — A Few Days That Change Everything]] — a few days
   at Finca Sanuela: the book's themes met in person
+
+### Liberator of Temptational Bonds. Spiritual Fantasy
+- [[liberator-of-temptational-bonds/ch-00-foreword|Foreword]] — the full foreword, unabridged: Nils's
+  own decades with addiction, and the retreat where his body learnt to live without food
+- [[liberator-of-temptational-bonds/ch-01-thorns-of-craving|Ch 1 — Thorns of Craving]] — astral thorns
+  feeding on craving, and the liberator Ayana sends souls to
+- [[liberator-of-temptational-bonds/ch-02-sips-of-silence|Ch 2 — Sips of Silence]] — Alistair's childhood
+  between his father's whisky and his mother's crystalglaze
+- [[liberator-of-temptational-bonds/ch-03-the-weight-of-false-comfort|Ch 3 — The Weight of False Comfort]] —
+  Elara's feasts as armour, and the slow loss of her laughter
+- [[liberator-of-temptational-bonds/ch-04-bitter-sweet-awakening|Ch 4 — Bitter-Sweet Awakening]] — the
+  young Alistair's failed abstinence, a book's warning line, and the family argument that clears his eyes
+- [[liberator-of-temptational-bonds/ch-05-discovery-of-the-thorns|Ch 5 — Discovery of the Thorns]] — the
+  hidden chamber in the library of Altaris and the ancient scripture *Thorns of Craving*
+- [[liberator-of-temptational-bonds/ch-06-being-guided-to-let-go|Ch 6 — Being Guided to Let Go]] — the
+  journey north to Calantha's cave enclave: hugging ceremonies, cord-cutting and the first fast
+- [[liberator-of-temptational-bonds/ch-07-a-new-dawn-in-altaris|Ch 7 — A New Dawn in Altaris]] — the
+  sanctuary in Altaris, the eastern visitors who transform cravings instead of plucking them, and the partnership with Ayana
+- [[liberator-of-temptational-bonds/ch-08-when-the-thorns-kept-a-soul-alive|Ch 8 — When the Thorns Kept a Soul Alive]] —
+  guests whose cravings keep them alive; cacao, lemon water and the patience of waiting
+- [[liberator-of-temptational-bonds/ch-09-mama-cacao|Ch 9 — Mama Cacao]] — the one craving that stays:
+  cacao as heart medicine, and as substitute
+- [[liberator-of-temptational-bonds/ch-10-the-lack-of-love|Ch 10 — The Lack of Love]] — food as the quick
+  cover for the hunger for LOVE, and the practices that turn inward
+- [[liberator-of-temptational-bonds/ch-11-emotional-neediness|Ch 11 — Emotional Neediness]] — neediness met
+  with hugs, community and creative work; Liliana's way out
+- [[liberator-of-temptational-bonds/ch-12-emotional-dependency|Ch 12 — Emotional Dependency]] — Nyvii names
+  Alistair her drug; the sphere of light with one condition
+- [[liberator-of-temptational-bonds/ch-13-days-of-full-indulgence|Ch 13 — Days of Full Indulgence]] — planned
+  days of indulgence without regret, and the contrast that makes fasting sweet
+- [[liberator-of-temptational-bonds/ch-14-returning-to-the-shadows|Ch 14 — Returning to the Shadows]] —
+  Fergus's book proposal: a deliberate, documented dive back into crystalglaze
+- [[liberator-of-temptational-bonds/ch-15-balance-believe-and-body-intuition|Ch 15 — Balance, Believe, and Body Intuition]] —
+  lemon water, body intuition and the return of moods; Fergus names the book
+- [[liberator-of-temptational-bonds/ch-16-tales-of-the-underworld|Ch 16 — Tales of the Underworld]] — two
+  poems and the body's honest report from the underworld of indulgence
+- [[liberator-of-temptational-bonds/ch-17-between-two-worlds|Ch 17 — Between Two Worlds]] — bananas as a
+  cosmic signpost, the seesaw between the two diets, and the last moonbread
+- [[liberator-of-temptational-bonds/ch-18-the-choice-between-being-awake-or-asleep|Ch 18 — The Choice Between Being Awake or Asleep]] —
+  the choice each craving offers; Cerulean and the longing for Oneness
+- [[liberator-of-temptational-bonds/ch-19-arias-search-for-wholeness|Ch 19 — Aria's Search for Wholeness]] —
+  Aria's first visit and the four guided meditations laid out
+- [[liberator-of-temptational-bonds/ch-20-healing-journey-to-the-roots-of-cravings|Ch 20 — Healing Journey to the Roots of Cravings]] —
+  the first meditation: memories walked back to the heart and forgiven
+- [[liberator-of-temptational-bonds/ch-21-from-processed-to-pure|Ch 21 — From Processed to Pure]] — the
+  second meditation: shrinking grey quick-fixes, growing vivid fruit
+- [[liberator-of-temptational-bonds/ch-22-improving-your-relationship-with-food|Ch 22 — Improving Your Relationship With Food]] —
+  the third meditation: your inner parts at one round table
+- [[liberator-of-temptational-bonds/ch-23-embracing-the-power-of-fasting|Ch 23 — Embracing the Power of Fasting]] —
+  the fourth meditation: worries on the altar, intentions rooted
+- [[liberator-of-temptational-bonds/ch-24-just-imagine|Ch 24 — Just Imagine ...]] — the appendix vision of
+  a world where food is whole again
+- [[liberator-of-temptational-bonds/ch-25-learning-how-to-live-on-astral-nourishment|Ch 25 — Learning How to Live on Astral Nourishment]] —
+  the breatharian path and the nine-day initiation in Tenerife
+- [[liberator-of-temptational-bonds/ch-26-creative-shamanic-ritual-for-cleansing|Ch 26 — Creative Shamanic Ritual for Cleansing]] —
+  a prompt to an AI, and the couples' ritual it returned

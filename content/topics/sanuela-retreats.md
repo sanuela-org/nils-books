@@ -40,6 +40,7 @@ A retreat at Finca Sanuela in Tenerife brings the themes of the books into lived
 - **Ready to Love Again** — a private healing retreat for singles: recognising old relationship patterns, clarifying values and non-negotiables, and building a vision of the partnership you are ready for. Guided shadow work and somatic closeness practice are woven through the days, and a photo session in the Tenerife landscape captures who you have become.
 - **Heart & Soul Companion Training** — learning to offer others conscious, caring, non-sexual touch: hand-holding, hugging meditations and energetic heart work, grounded in safety and consent and yin and yang balance. Your own inner opening is part of the training.
 - **Network of LOVE** as a lived experience, alone or as a couple: honest communication, working with jealousy, compersion, conscious touch and individual visioning, shaped entirely around where you are.
+- **Breatharian Initiation** — a nine day process to transition to live on astral nourishment. 
 - **The Darkroom Experience** — several days and nights in complete darkness in a quiet darkroom space at the finca, with daily integration sessions. There is space for deep inner processes, visions and rest.
 
 ## Possible lengths
@@ -54,12 +55,11 @@ For current dates, prices and booking, see the official page on sanuela.org: [Re
 
 ## Related topics
 
-- [[glossary|Glossary]]
 - [[networks-of-love|Networks of LOVE]]
 - [[hugging-meditations|Hugging Meditations]]
 - [[touch-as-connection|Touch as Connection]]
 - [[heart-centred-communication|Heart-Centred Communication]]
 - [[shadow-work|Shadow Work]]
-- [[safety-and-consent|Safety and Consent]]
+- [[breatharian-initiation|Breatharian Initiation]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
 - [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]

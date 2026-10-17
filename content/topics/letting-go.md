@@ -9,7 +9,7 @@ proofread: true
 tags: [practice, letting-go]
 ---
 
-# Letting go
+# Letting Go
 
 ## Definition
 

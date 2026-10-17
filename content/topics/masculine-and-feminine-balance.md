@@ -9,7 +9,7 @@ proofread: true
 tags: [concept, masculine-and-feminine-balance]
 ---
 
-# Masculine and feminine balance
+# Masculine and Feminine Balance
 
 ## Definition
 

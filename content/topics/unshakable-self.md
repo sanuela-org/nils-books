@@ -9,7 +9,7 @@ proofread: true
 tags: [concept, unshakable-self]
 ---
 
-# Unshakable self
+# Unshakable Self
 
 ## Definition
 

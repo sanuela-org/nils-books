@@ -67,7 +67,7 @@ The core practices: the [[heart-centred-communication#Practice: Daily heart-shar
 
 In the book [[wide-open|Wide Open]], [[ch-03-why-live-like-a-potted-plant|Chapter 03: Why Live Like a Potted Plant]] delivers the model through in-scene dialogue and a notebook outline written by one of the story's characters. [[ch-02-the-inherited-order|Chapter 02: The Inherited Order]] supplies the historical background: the restricted one-partner model originated from systems of control introduced and enforced by warlords and popes. 
 
-The book [[soulfamilies|Soulfamilies]] delivers the model a second time through the mycelium image and the lessons drawn from it ([[ch-06-networks|Ch 6 — Networks]]). [[ch-04-vulnerability|Ch 4 — Vulnerability]] adds what becomes possible in a network: deep connections of LOVE, [[glossary#Moon Love relationship|Moon Love relationships]] and different ways of relating.
+The book [[soulfamilies|Soulfamilies]] delivers the model a second time through the mycelium image and the lessons drawn from it ([[ch-06-networks|Ch 6 — Networks]]). [[ch-04-vulnerability|Ch 4 — Vulnerability]] adds what becomes possible in a network: deep connections of LOVE, [[glossary#Moon Love Relationship|Moon Love relationships]] and different ways of relating.
 
 ## Lessons from the mycelial network
 

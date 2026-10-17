@@ -9,7 +9,7 @@ proofread: true
 tags: [practice, deep-surrender]
 ---
 
-# Deep surrender
+# Deep Surrender
 
 ## Definition
 
