@@ -1,0 +1,21 @@
+{
+  "name": "nils-folder-sort",
+  "version": "1.0.0",
+  "description": "Wraps @quartz-community/folder-page so folder page lists render alphabetically by title (topics list), while book chapter lists keep reading order via the ch-NN slug rule",
+  "type": "module",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "quartz": {
+    "name": "nils-folder-sort",
+    "displayName": "Nils Folder Sort",
+    "category": "pageType",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

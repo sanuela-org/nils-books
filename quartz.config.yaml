@@ -133,7 +133,7 @@ plugins:
     enabled: true
   - source: "@quartz-community/content-page"
     enabled: true
-  - source: "@quartz-community/folder-page"
+  - source: "./nils-folder-sort"
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
