@@ -19,7 +19,7 @@ Deep surrender is the feminine path of releasing resistance. Non-doing is an act
 
 The book [[confident-heart|The Confident Heart]] describes it like this: deep surrender unfolds in four movements. You create a safe space, conduct an inner inventory, practise the art of acceptance, and close with forgiveness. Non-doing is the ground the whole path stands on. The deepest healing and the most profound insights arise when you stop striving and simply create a silent, welcoming space within. This stillness is the power of the womb: the dark, fertile void that holds infinite potential, where true transformation is born.
 
-[[inner-sanctuary|Heart-centred breathing]] is the fundamental tool at every step. Each exhale carries the physical sensation of letting go. Each inhale softens the remaining edges of resistance in body and mind. Continue until there is no more struggle, only the pure sensation of acceptance — the raw, deliciously balanced essence of your being.
+[[heart-centred-breathing|Heart-centred breathing]] is the fundamental tool at every step. Each exhale carries the physical sensation of letting go. Each inhale softens the remaining edges of resistance in body and mind. Continue until there is no more struggle, only the pure sensation of acceptance — the raw, deliciously balanced essence of your being.
 
 ## Practices
 

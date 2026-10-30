@@ -44,7 +44,7 @@ Heart-centred breathing is also at the base of [[hugging-meditations|hugging med
 
 ### The grounding benefit
 
-The book [[soulfamilies|Soulfamilies]] describes it like this: heart-centred breathing grounds the emotions before anything else happens — it calms the nervous system, brings attention into the body and opens the heart. Its benefits list names the grounding directly: it is hard to harm others when we breathe with the heart. For the complete practice and its full benefits list, see [[inner-sanctuary#Practice: Heart-centred breathing|heart-centred breathing]].
+The book [[soulfamilies|Soulfamilies]] describes it like this: heart-centred breathing grounds the emotions before anything else happens — it calms the nervous system, brings attention into the body and opens the heart. Its benefits list names the grounding directly: it is hard to harm others when we breathe with the heart. For the complete practice and its full benefits list, see [[heart-centred-breathing|heart-centred breathing]].
 
 ## Pausing as a tool
 

@@ -3,13 +3,14 @@ title: Soulfamily Community
 type: concept
 books:
   - soulfamilies
+  - kind-of-magick
 aliases:
   - soul family
   - chosen family
   - small circle of trusted souls
   - handful of trusted souls
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-20
 proofread: true
 tags:
   - concept
@@ -69,6 +70,10 @@ The book [[soulfamilies|Soulfamilies]] describes it like this: it doesn't have t
 
 Above all, don't wait for perfection. No place, no plan, no moment will ever feel fully complete. Start with what is there – the people, the feelings, the longings. Soulfamilies grow through trust, not through certainty. And trust begins with the first step.
 
+The book [[kind-of-magick|A Kind of Magick]] describes the longing such a circle answers like this: a community in honesty, where nobody has to pretend — people sharing meals, stories, touch, closeness and silence, holding hands without it being awkward, supporting each other's growth. People not afraid of their own [[shadow-work|shadows]], willing to [[meeting-fear|look at their fears]] with someone else, who understand that healing isn't always pretty. Soft and safe, but also alive and challenging — a place where you can receive as much as you give. Nobody performs; the community holds the space instead of fixing anyone.
+
+The same book also names a quieter way the circle finds you: by holding an inner image of belonging so steadily that kindred spirits begin to resonate with it — a field of welcome woven outward until others start to respond ([[books/kind-of-magick/ch-05-energetic-weaving|Ch 5 — Energetic Weaving]]). 
+
 ## Related topics
 
 - [[networks-of-love|Networks of LOVE]]
@@ -80,3 +85,4 @@ Above all, don't wait for perfection. No place, no plan, no moment will ever fee
 - [[clarifying-space-needs|Clarifying Space Needs]]
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]
+- [[kind-of-magick|Book: A Kind of Magick]]

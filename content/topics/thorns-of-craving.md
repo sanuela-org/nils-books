@@ -35,7 +35,7 @@ Behind every craving stands a lack of self-LOVE: what the snack promises — com
 
 Mindful eating, savouring every bite and understanding the source and purpose of your food can make them lose their grip. [[fasting-as-spiritual-practice|Fasting]] raises your frequencies and starves the thorns of craving. Liberation removes what feeds them. 
 
-Renewed gut bacteria through fermented and wholesome foods can take the body side away; healed emotional wounds and a heart centre kept vibrant through [[inner-sanctuary|heart-centred breathing]] and [[hugging-meditations|hugging meditations]] help on the astral side. 
+Renewed gut bacteria through fermented and wholesome foods can take the body side away; healed emotional wounds and a heart centre kept vibrant through [[heart-centred-breathing|heart-centred breathing]] and [[hugging-meditations|hugging meditations]] help on the astral side. 
 
 When self-LOVE awakens, they have nothing left to hold on to. The thorns then often leave in search of other souls at lower frequencies.
 

@@ -54,7 +54,7 @@ The book [[soulfamilies|Soulfamilies]] describes it like this: "Once a month, or
 
 Once the space, the practices, and the relationships within it are mature enough, the community can open its doors to others. One of the most natural ways for a community to sustain itself financially is by sharing what it has built.
 
-Some guests may come for a weekend retreat – to experience [[inner-sanctuary#Practice: Heart-centred breathing|heart-centred breathing]], hugs or [[hugging-meditations|hugging meditations]], sharing circles, and the emotional warmth of conscious community life. Others may stay for a week or a month as co-living guests. They immerse themselves fully in daily life, contributing to shared tasks and exploring whether this way of living resonates with them. This is ideal for people who are considering starting their own soulfamily community one day.
+Some guests may come for a weekend retreat – to experience [[heart-centred-breathing|heart-centred breathing]], hugs or [[hugging-meditations|hugging meditations]], sharing circles, and the emotional warmth of conscious community life. Others may stay for a week or a month as co-living guests. They immerse themselves fully in daily life, contributing to shared tasks and exploring whether this way of living resonates with them. This is ideal for people who are considering starting their own soulfamily community one day.
 
 Guests can contribute towards the community's shared costs: food, rent, energy and the work involved in hosting. In this way, a shared income arises quite naturally from the way the community already lives. The soulfamily shares a unique and deeply human way of life that can be passed on.
 

@@ -1,10 +1,10 @@
 ---
 title: Networks of LOVE
 type: concept
-books: [wide-open, soulfamilies]
+books: [wide-open, soulfamilies, kind-of-magick]
 aliases: ["Network of LOVE", "relationship network", "relationship networks", "network of relationships"]
 created: 2026-09-14
-updated: 2026-10-06
+updated: 2026-10-24
 proofread: true
 tags: [concept, networks-of-love]
 ---
@@ -69,6 +69,8 @@ In the book [[wide-open|Wide Open]], [[ch-03-why-live-like-a-potted-plant|Chapte
 
 The book [[soulfamilies|Soulfamilies]] delivers the model a second time through the mycelium image and the lessons drawn from it ([[ch-06-networks|Ch 6 — Networks]]). [[ch-04-vulnerability|Ch 4 — Vulnerability]] adds what becomes possible in a network: deep connections of LOVE, [[glossary#Moon Love Relationship|Moon Love relationships]] and different ways of relating.
 
+The book [[kind-of-magick|A Kind of Magick]] arrives at the network from the [[magick|magick]] side: a vision of a circle of belonging written in a journal, and then the changed energy of the one who holds that vision rippling back as small, ordinary connections — the network beginning to form around a coherent frequency ([[books/kind-of-magick/ch-01-recognising-the-longing|Ch 1 — Recognising the Longing]], [[books/kind-of-magick/ch-05-energetic-weaving|Ch 5 — Energetic Weaving]]).
+
 ## Lessons from the mycelial network
 
 The book [[soulfamilies|Soulfamilies]] draws these lessons from the mycelial network. In a [[soulfamily-community|soulfamily community]], LOVE and support circulate naturally between souls, with each soul connected to others through trust, presence, and shared experiences.
@@ -92,6 +94,7 @@ The book [[soulfamilies|Soulfamilies]] draws these lessons from the mycelial net
 
 - Hugging meditations, where touch shares comfort without possessing anyone.
 - Holding the space when a partner needs time on their own.
+- A circle where you can receive as much as you give — belonging held in honesty, with nobody performing.
 - Carrying warmth and a radiating presence home from one connection into another.
 - Wanting more closeness without implying that something is missing from the main relationship.
 - A few days at [[sanuela-retreats|Finca Sanuela]], where the network's skills become daily life instead of theory.
@@ -111,3 +114,4 @@ The book [[soulfamilies|Soulfamilies]] draws these lessons from the mycelial net
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
 - [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]
+- [[kind-of-magick|Book: A Kind of Magick]]

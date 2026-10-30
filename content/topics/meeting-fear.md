@@ -3,12 +3,13 @@ title: Meeting fear
 type: practice
 books:
   - confident-heart
+  - kind-of-magick
 aliases:
   - fear protocol
   - new relationship with fear
   - reparenting
 created: 2026-09-27
-updated: 2026-09-30
+updated: 2026-10-21
 proofread: true
 tags:
   - practice
@@ -33,6 +34,8 @@ The first move is simply acknowledging the signal in the body. The practice then
 
 The process of walking through fear is about reparenting the inner world. It teaches the nervous system that vulnerability is not an overwhelming threat. The heart provides more balanced and confident guidance than the inner protector's frantic alarms.
 
+The book [[kind-of-magick|A Kind of Magick]] describes it like this: fear is like an old, loyal guard dog that believes it still has to protect you. You don't have to fight it or shut it away — thank it for its concern, pat it on the head, and walk through the gate anyway. The choice is not between fear and fearlessness, but between fear that controls you and fear you acknowledge, accept and use as a source of energy. Fear shows you exactly where you need to grow and where to offer LOVE to the parts of yourself that feel insecure.
+
 Here you can find a practice that works directly with the worst-case scenario fears that the mind brings up: [[letting-go#Practice: Worst-case release|Letting go]]
 
 ## When triggers bring the fear
@@ -46,5 +49,6 @@ Fear often arrives through a trigger. The pause protocol of [[growing-with-trigg
 - [[inner-protector|Inner Protector]]
 - [[letting-go|Letting go]]
 - [[heart-centred-communication|Heart-Centred Communication]]
+- [[heart-centred-breathing|Heart-Centred Breathing]]
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[confident-heart|Book: The Confident Heart. From Fear to LOVE]]

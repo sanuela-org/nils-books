@@ -18,6 +18,7 @@ tar -C "$VAULT" \
   --exclude='./schema.md' \
   --exclude='./log.md' \
   --exclude='./proposal-*' \
+  --exclude='./topic-proposal-*' \
   --exclude='./better-re-editing.md' \
   --exclude='./_attachments' \
   -cf - . | tar -C "$CONTENT" -xf -

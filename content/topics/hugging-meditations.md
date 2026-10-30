@@ -1,10 +1,10 @@
 ---
 title: Hugging Meditations
 type: practice
-books: [wide-open, soulfamilies]
+books: [wide-open, soulfamilies, kind-of-magick]
 aliases: ["hugging meditation", "hug meditation", "energetic healing through hugging", "hugging meditations"]
 created: 2026-09-17
-updated: 2026-10-06
+updated: 2026-10-20
 proofread: true
 tags: [practice, hugging-meditations]
 ---
@@ -21,9 +21,9 @@ Sit facing your partner. Close your eyes. Begin by holding hands — this is eno
 
 When both feel ready, move into a closer embrace. One option is sitting in yab yum: one of you sits in the other's lap — thighs wrapped around the partner's hips, chests touching, arms around each other, heads resting on shoulders. Usually the woman sits in the man's lap, but you can choose whatever feels best. You can also do the hugging meditation while standing close together. Find the position that feels natural and safe.
 
-Breathe naturally, but imagine that you are breathing pure LOVE in and out through the centre of your chest. Nothing else matters right now. Just feel.
+Breathe naturally, but imagine that you are breathing pure LOVE in and out through the centre of your chest. Nothing else matters right now. Just feel. 
 
-The initial awkwardness dissolves quickly. What remains is deep, beautiful presence. A wide-open feeling spreads from the chest — not excitement or romantic attraction, but a vibrant, loving peace. And perhaps a dancing liquid light that moves through every cell, releasing tensions you did not know you were carrying.
+The initial awkwardness dissolves quickly. What remains is deep, beautiful presence. A wide-open feeling spreads from the chest — not excitement or romantic attraction, but a vibrant, loving peace. And perhaps a dancing liquid light that moves through every cell, releasing tensions you did not know you were carrying. Even a few minutes of embrace like this can dispel feelings of separation, calm the mind, and balance misaligned energies within you and between the two of you. Some practitioners picture their auras merging into one luminous bubble of light around them both.
 
 In a longer embrace, you can stretch your legs and switch the position of your heads to reduce strain on your necks. These steps are never rushed or forced — everyone involved has to feel ready and safe.
 
@@ -62,6 +62,8 @@ In the book [[wide-open|Wide Open]], the hugging meditation is one of the story'
 
 The book [[soulfamilies|Soulfamilies]] adds similar experiences and the option of a [[welcoming-a-third-soul|third soul]] breathing with the pair, and how to keep a longer embrace comfortable ([[ch-04-vulnerability|Ch 4 — Vulnerability]], [[ch-05-togetherness|Ch 5 — Togetherness]], [[ch-06-networks|Ch 6 — Networks]]).
 
+The book [[kind-of-magick|A Kind of Magick]] presents the practice as one of the flow-cultivating techniques: a standing embrace with chests in full contact, breathing through the heart centres and imagining the auras merging into one luminous bubble of light, after a few minutes of which feelings of separation dissolve and a shared energetic circuit forms ([[books/kind-of-magick/ch-12-cultivating-energetic-flow|Ch 12 — Cultivating Energetic Flow]]). The same chapter offers [[cultivating-energetic-flow#Silent handholding|silent handholding]] as its gentler sibling practice — a mini-meditation that builds the same attunement before a full embrace.
+
 ## Related topics
 
 - [[touch-as-connection|Touch as Connection]]
@@ -75,3 +77,4 @@ The book [[soulfamilies|Soulfamilies]] adds similar experiences and the option o
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
 - [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]
+- [[kind-of-magick|Book: A Kind of Magick]]

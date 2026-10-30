@@ -26,7 +26,7 @@ Within that space, an inner inventory unfolds: old stories, unresolved emotions,
 
 Forgiveness is not condoning hurt but a decision to release energetic cords binding you to the past. Forgive others, forgive circumstances, and most importantly forgive yourself: for perceived failures, harsh self-judgement, and ways you have not been who you hoped to be.
 
-[[inner-sanctuary|heart-centred breathing]] carries you home. Each exhale represents the physical sensation of letting go; each inhale softens the remaining edges. Armour exchanged for resilient gentleness: open, receptive, responsive. The heart blooms in its own time and its own perfect way.
+[[heart-centred-breathing|heart-centred breathing]] carries you home. Each exhale represents the physical sensation of letting go; each inhale softens the remaining edges. Armour exchanged for resilient gentleness: open, receptive, responsive. The heart blooms in its own time and its own perfect way.
 
 ## Links to topics
 

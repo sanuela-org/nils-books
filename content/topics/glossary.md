@@ -2,7 +2,7 @@
 title: Glossary
 type: reference
 created: 2026-09-18
-updated: 2026-10-10
+updated: 2026-10-24
 proofread: true
 tags: [reference]
 ---
@@ -19,6 +19,10 @@ Learning to live on astral nourishment: your body has to "jump into the cold wat
 
 Euphoric crystalglaze is Sanuela's white, sweet, glittering comfort substance — what we call sugar in our world. It is not nourishing, yet it gives an instant, fleeting comfort that the mind mistakes for care. It was banned from the markets during the Great Change, but it survives on the black markets and through old habits. For some, it still feeds the Thorns of Craving.
 
+## Gaia
+
+Mother Earth as a living, loving and highly evolved conscious being — more than the rock we live on, with an awareness so much greater than ours that we may rightly call her a goddess. She designed the planetary school that educates and evolves souls, lends us bodies crafted from her own elements, and is the local, conscious administrator of divine will for all earthly matters. The full picture lives on the [[gaia|Gaia]] page.
+
 ## Geborgenheit
 
 The German word for a deep sense of comfort, belonging, safety and emotional warmth — being perfectly held and utterly safe. It comes from a soothing internal radiance. The full practice lives on the [[inner-sanctuary|Inner Sanctuary]] page.
@@ -27,9 +31,13 @@ The German word for a deep sense of comfort, belonging, safety and emotional war
 
 The transition in Sanuela's markets when the flavourful, physically addictive substances were banned: step by step, market owners changed their offerings for the well-being of all. Told in the book [[liberator-of-temptational-bonds|Liberator of Temptational Bonds]].
 
+## Healer & Creator (H&C)
+
+The Healer & Creator Technique is an energy practice, described in [[kind-of-magick|A Kind of Magick]]. It draws subtle energies up through the body, integrates them, and shapes them into spheres of light. The technique can be used for self-healing and harmonisation, as well as for embodying specific energetic qualities. It can be incorporated into daily life as a permanent practice.
+
 ## Heart-Centred Breathing
 
-The master practice at the centre of this work: breathing LOVE in and out through your chest, as though your heart centre itself were breathing. It instantly pulls your awareness out of the mind and into the calm, intuitive space of the heart. You can do it anywhere, in any moment. Nearly every other practice builds on it, from emotional self-regulation and communication to deep surrender. The full practice lives on the [[inner-sanctuary|Inner Sanctuary]] page.
+The master practice at the centre of this work: breathing LOVE in and out through your chest, as though your heart centre itself were breathing. It instantly pulls your awareness out of the mind and into the calm, intuitive space of the heart. You can do it anywhere, in any moment. Nearly every other practice builds on it, from emotional self-regulation and communication to deep surrender. The full practice lives on the [[heart-centred-breathing|heart-centred breathing]] page.
 
 ## Hugging Meditation
 
@@ -47,6 +55,10 @@ The mind's innate survival mechanism, often called the ego: it guards a set of c
 
 Luma is the inner presence of light and LOVE. It begins as a subtle, heart-centred glow, stirring when trust opens the way and truth is felt in the heart, allowing divine LOVE to flow. As soft as candlelight and as steady as the sun, Luma speaks in whispers, but always tells the truth. When welcomed, it grows into a radiant warmth that fills the whole body, like light pouring through every cell.
 
+## Magick
+
+Magick, spelled with a k, is the conscious art of shaping reality by changing consciousness first — co-creation with a deep, loving divine intelligence rather than the imposition of a personal will. In Aleister Crowley's definition, every intentional act is a magickal act. The full picture lives on the [[magick|Heart-Centred Magick]] page.
+
 ## Moon Love Relationship
 
 A bond between two close friends, based on deep trust and care, that comes together in a more sensual way only once per lunar cycle — for example by cuddling naked or exploring each other's bodies sensually. Named in [[soulfamilies|Soulfamilies]] among the new possibilities beyond the couple model.
@@ -54,6 +66,10 @@ A bond between two close friends, based on deep trust and care, that comes toget
 ## Network of LOVE
 
 A stable web of several caring relationships that share the emotional load a single partner would otherwise carry alone, held together by honesty, consent and trust. The model and its skills live on the [[networks-of-love|Networks of LOVE]] page.
+
+## Personal Universe
+
+Each of us lives within a personal universe: a unique, subjective reality with its own rules, structures and its own magick, and at the same time a holographic fragment of a greater interconnected whole. Speaking of 'my personal universe' instead of the distant 'the universe' reclaims co-creatorship. [[kind-of-magick|A Kind of Magick]] builds its magick on it; [[liberator-of-temptational-bonds|Liberator of Temptational Bonds]] speaks of becoming One with it. The full picture lives on the [[personal-universe|Personal Universe]] page.
 
 ## Reparenting
 

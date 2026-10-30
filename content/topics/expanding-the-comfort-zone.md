@@ -17,7 +17,7 @@ The inner world divides into three territories. The comfort zone is predictable,
 
 ## Practice: The expedition
 
-Growth follows a simple rhythm: set an intention, walk into the stretch zone with curiosity, and integrate what you find. The intention establishes a clear course, agreeing on purpose and duration with whoever shares the experience. As the [[inner-protector|inner protector]] raises its alarms, acknowledge the concern and redirect attention to the heart with [[inner-sanctuary|heart-centred breathing]].
+Growth follows a simple rhythm: set an intention, walk into the stretch zone with curiosity, and integrate what you find. The intention establishes a clear course, agreeing on purpose and duration with whoever shares the experience. As the [[inner-protector|inner protector]] raises its alarms, acknowledge the concern and redirect attention to the heart with [[heart-centred-breathing|heart-centred breathing]].
 
 During the experience, distinguish stretch from overwhelm. Feeling both nervous and excited indicates that you are in the stretch zone. When you feel that you are beyond your capacity, you have entered the overwhelm zone. In this zone, venturing further only serves to reinforce defences rather than dissolve them. Never force what feels violating; true growth builds self-trust by expanding without breaking.
 

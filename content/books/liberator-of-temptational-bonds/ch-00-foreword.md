@@ -21,7 +21,7 @@ Coffee was the easiest addiction to get rid of. My reward was to be more in bala
 
 In a retreat with just myself and a dear friend as my host, I was intuitively guided to release any fears I had about letting go of the belief that my body needed any food at all. I was shown that this is actually the greatest addiction of all, acquired in our first moments of life and usually never questioned afterwards.
 
-As I had never been able to fast for a single day before, this process was deeply cleansing, both physically and emotionally. My trusted friend helped me with [[hugging-meditations|hugging meditations]] and emotional support twice a day. Once again I experienced the power of these prolonged hugs with [[inner-sanctuary#Practice: Heart-centred breathing|heart chakra breathing]]. Even the sometimes deeply felt detox pain in my bones and muscles disappeared.
+As I had never been able to fast for a single day before, this process was deeply cleansing, both physically and emotionally. My trusted friend helped me with [[hugging-meditations|hugging meditations]] and emotional support twice a day. Once again I experienced the power of these prolonged hugs with [[heart-centred-breathing|heart chakra breathing]]. Even the sometimes deeply felt detox pain in my bones and muscles disappeared.
 
 I then went through long periods of integration, going through all sorts of further stages and processing. Techniques such as humming connect me to my astral body and transform limitless energies into my physical body when I need them. Many insects do the same.
 

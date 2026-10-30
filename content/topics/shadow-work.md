@@ -1,10 +1,10 @@
 ---
 title: Shadow Work
 type: concept
-books: [wide-open]
+books: [wide-open, kind-of-magick]
 aliases: ["inner shadow work", "core relational beliefs"]
 created: 2026-09-17
-updated: 2026-09-23
+updated: 2026-10-24
 proofread: true
 tags: [concept, shadow-work]
 ---
@@ -36,6 +36,12 @@ Old wounds express themselves through automatic communication patterns. These ar
 - **Blaming** — directing anger outward to avoid the rawer feeling underneath.
 
 These patterns are not flaws to be ashamed of. They are strategies that once served you. The work is recognising them as they arise, pausing before acting on them, and choosing a different response.
+
+The book [[kind-of-magick|A Kind of Magick]] offers a simple starting point for shadow work. The next time a strong emotional reaction arises — irritation, jealousy, shame — pause instead of justifying, suppressing or projecting it, and ask three questions: What is this emotion trying to tell me? What is it trying to protect me from? When did I first learn that this part of me was not acceptable? Then breathe into the sensations in your body and let them speak without judgement — you might welcome a frightened child inside you, or simply put a hand on your heart and whisper: "I see you. It's okay. You belong to me, too." 
+
+The same book offers a variation of the [[healer-creator-technique#More H&C applications|Healer & Creator Technique]] that consciously draws the energies of a shadow aspect upward and integrates them.
+
+The shadow isn't something to be eliminated; it's fertile soil. Every rejected part, once met with compassion, loses its power over you and becomes an ally — a source of depth, resilience and greater LOVE.
 
 ## Jealousy and envy untangled
 
@@ -73,6 +79,12 @@ Jealousy and joy can coexist — realising this is a form of self-validation. Yo
 
 See [[emotional-self-regulation|emotional self-regulation]] for the broader practice of working with difficult feelings.
 
+## Across books
+
+In the book [[wide-open|Wide Open]], shadow work is the backbone skill of the relationship blueprint: the network acts as a mirror that surfaces core relational beliefs faster and more intensely than a monogamous relationship could, and the work is staying present with what it shows.
+
+The book [[kind-of-magick|A Kind of Magick]] gives the same work a [[magick|magick]] frame: meeting a strong emotion with the three messenger questions instead of suppressing it ([[books/kind-of-magick/ch-10-consciousness-energy-and-love|Ch 10 — Consciousness, Energy & LOVE]]), fear as an old guard dog to be thanked rather than fought ([[books/kind-of-magick/ch-02-shadows-and-fears|Ch 2 — Shadows and Fears]]), and a [[healer-creator-technique|Healer & Creator]] variation that consciously draws the energies of a shadow aspect upward and integrates them. ([[books/kind-of-magick/ch-14-the-healer-creator-technique|Ch 14 — The Healer & Creator Technique]]).
+
 ## How this shows up
 
 - Hearing a partner's laughter with someone else and feeling an immediate sinking dread.
@@ -92,3 +104,4 @@ See [[emotional-self-regulation|emotional self-regulation]] for the broader prac
 - [[networks-of-love|Networks of LOVE]]
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
+- [[kind-of-magick|Book: A Kind of Magick]]

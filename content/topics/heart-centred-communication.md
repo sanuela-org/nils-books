@@ -19,7 +19,7 @@ Speaking and listening from the heart centre rather than from ego or fear. This 
 
 Heart-centred communication requires specific inner skills that shape how every conversation unfolds.
 
-- [[inner-sanctuary#Practice: Heart-centred breathing|Breathe through the heart centre]] before speaking, so words come from a grounded place rather than reactivity.
+- [[heart-centred-breathing|Breathe through the heart centre]] before speaking, so words come from a grounded place rather than reactivity.
 - Share feelings using 'I feel' statements — personal experience, not blame or accusation.
 - Address small concerns early, before they grow into larger issues.
 - Listen with the intent to understand, not to argue or prove yourself right.

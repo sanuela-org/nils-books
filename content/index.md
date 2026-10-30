@@ -7,7 +7,7 @@ show_book_covers: true
 
 Welcome! This growing knowledge base brings together the visions, concepts, and practices explored throughout Nils Klippstein’s books. At their heart is an invitation to heal and grow, open ourselves to nourishing closeness, create more honest and caring relationship networks, explore our embodied and energetic nature, and deepen our connection with our inner guidance and with Gaia.
 
-Last updated: October 7, 2026 | Total pages: 145
+Last updated: October 24, 2026 | Total pages: 183
 
 ## Books
 
@@ -98,6 +98,40 @@ Last updated: October 7, 2026 | Total pages: 145
   must-haves, privacy, flow, growth; shared sleeping as a space question (practice)
 - [[raising-children-together|Raising Children Together]] — children held by a circle of trusted adults: benefits
   for parents and soulfamily members, and for the children themselves (concept)
+- [[thorns-of-craving|Thorns of Craving]] — astral entities that feed on craving: how they hook
+  in, what feeds them, what helps (concept)
+- [[breatharian-initiation|Breatharian Initiation]] — living on astral nourishment: the nine-day
+  initiation and the transition beyond food (concept)
+- [[fasting-as-spiritual-practice|Fasting as Spiritual Practice]] — fasting as raised frequencies:
+  the three-day entry, its phases, the one-day-longer game (practice)
+- [[guided-meditations-for-cravings|Guided Meditations for Cravings]] — four guided meditations
+  that walk cravings down to their roots (practice)
+- [[moon-love-relationship|Moon Love Relationship]] — a bond met once per lunar cycle: sensuality
+  paced by the moon (concept)
+- [[personal-universe|Personal Universe]] — each of us lives in a personal universe: the phrase
+  that replaces the distant "the universe" and reclaims co-creatorship (concept)
+- [[gaia|Gaia]] — Mother Earth as a living, loving conscious being: the planetary school and our
+  graduation into conscious partners (concept)
+- [[magick|Heart-Centred Magick]] — magick with a k: change in consciousness first; every intentional act is a
+  magickal act (concept)
+- [[consciousness-energy-love|Consciousness, Energy & LOVE]] — creation's trinity and the union
+  beyond duality (concept)
+- [[intention-and-divine-will|Intention and Divine Will]] — aligning personal will with divine
+  will: asking from fullness, the soul's curriculum (concept)
+- [[magick-and-consent|Magick and Consent]] — black magick as anything imposed on another soul:
+  uninvited healing and the consent-respecting alternatives (concept)
+- [[nine-step-manifesting-ritual|The Nine-Step Manifesting Ritual]] — the core ritual, all
+  nine steps with all options; trusting and waiting as its second half (practice)
+- [[synchronicity|Synchronicity]] — life answering in signs: reading signposts without
+  swallowing every ripple (concept)
+- [[the-five-elements|The Five Elements]] — Earth, Water, Fire, Air, Ether as living energies:
+  essences, symbols, shadow sides, changing and combining elements (concept)
+- [[archetypes|Archetypes]] — ancient blueprints of the soul: the twelve foundation archetypes,
+  companions, the King and the Queen, archetype+element combinations (concept)
+- [[magickal-companions|Magickal Companions]] — the invitation-based relationship to ascended
+  masters, archangels and saints, planets and stars, crystals, tarot and oracle cards (concept)
+- [[heart-centred-breathing|Heart-Centred Breathing]] — the book's foundational one-breath practice: golden LOVE into the heart centre (practice)
+- [[cultivating-energetic-flow|Cultivating Energetic Flow]] — intuitive hours, brisk walking with the astral tingling, humming, silent handholding (practice)
 
 ## Chapter summaries
 ### Wide Open. How to Open Our Hearts and Build a Network of LOVE
@@ -263,3 +297,53 @@ Last updated: October 7, 2026 | Total pages: 145
   the breatharian path and the nine-day initiation in Tenerife
 - [[liberator-of-temptational-bonds/ch-26-creative-shamanic-ritual-for-cleansing|Ch 26 — Creative Shamanic Ritual for Cleansing]] —
   a prompt to an AI, and the couples' ritual it returned
+
+### A Kind of Magick. Manifesting From Your Heart
+- [[ch-00-the-spelling-of-magick|The Spelling of Magick]] — why 'magick' with a k, and the co-creation
+  answer to Crowley
+- [[ch-01-recognising-the-longing|Ch 1 — Recognising the Longing]] — a healer's hollow days and the journal
+  questions that summon a vision of honest community
+- [[ch-02-shadows-and-fears|Ch 2 — Shadows and Fears]] — the fear of not being enough, met as a guard dog
+  to thank rather than a wall to tear down
+- [[ch-03-signs-and-symbols|Ch 3 — Signs and Symbols]] — water, fire, feathers and stones: the world begins
+  speaking in signs
+- [[ch-04-the-living-map|Ch 4 — The Living Map]] — the symbols arranged on his floor become the first
+  ritual map
+- [[ch-05-energetic-weaving|Ch 5 — Energetic Weaving]] — the astral shower grows into a field of belonging
+  cast over the whole city
+- [[ch-06-practising-heart-centred-magick|Ch 6 — Practising Heart-Centred Magick]] — the framework's
+  invitation: heart-centred, dogma-free, and free in every sense
+- [[ch-07-who-is-the-universe|Ch 7 — Who Is 'The Universe'?]] — the distant universe becomes your personal
+  universe, and Gaia stands revealed as its loving administrator
+- [[ch-08-what-is-magick|Ch 8 — What Is Magick?]] — change in consciousness first; every intentional act is
+  a magickal act, and a ritual speaks to the subconscious
+- [[ch-09-the-art-of-trusting-and-waiting|Ch 9 — The Art of Trusting and Waiting]] — the planted seed, the
+  breadcrumbs, the partnership with becoming
+- [[ch-10-consciousness-energy-and-love|Ch 10 — Consciousness, Energy & LOVE]] — creation's trinity, the
+  shadow work and magickal forgiveness that clear old interference
+- [[ch-11-intention-and-divine-will|Ch 11 — Intention and Divine Will]] — surrender without resignation;
+  where egocentric magick crosses the line
+- [[ch-12-cultivating-energetic-flow|Ch 12 — Cultivating Energetic Flow]] — heart-centred breathing and the
+  small daily movers of vibration
+- [[ch-13-the-nine-step-manifesting-ritual|Ch 13 — The Nine-Step Manifesting Ritual]] — the core ritual, from
+  heart-centred presence to patient, observing trust
+- [[ch-14-the-healer-creator-technique|Ch 14 — The Healer & Creator Technique]] — energy flow and spheres:
+  healing yourself, embodying qualities, expanding the canvas
+- [[ch-15-the-fear-of-awakening|Ch 15 — The Fear of Awakening]] — the fear of your own light, released
+  through the body rather than argued away
+- [[ch-16-the-five-elements|Ch 16 — The Five Elements]] — Earth, Water, Fire, Air and Ether as living
+  companions of the practice
+- [[ch-17-human-archetypes|Ch 17 — Human Archetypes]] — twelve foundations, the extended list, and the
+  King and the Queen as mature synthesis
+- [[ch-18-animal-archetypes|Ch 18 — Animal Archetypes]] — instinct and presence speaking directly to
+  the soul
+- [[ch-19-plant-archetypes|Ch 19 — Plant Archetypes]] — presence, roots and the silent alchemy of growth
+- [[ch-20-archetypes-and-elements|Ch 20 — Archetypes & Elements]] — companion plus element:
+  combinations with fine-grained precision
+- [[ch-21-ascended-masters-archangels-and-saints|Ch 21 — Ascended Masters, Archangels and Saints]] —
+  aligning with perfected frequencies, never begging
+- [[ch-22-planets-and-stars|Ch 22 — Planets and Stars]] — conscious celestial neighbours, planetary
+  days of the week, the Moon as cosmic mirror
+- [[ch-23-crystals|Ch 23 — Crystals]] — crystalline stability as anchor and amplifier
+- [[ch-24-tarot-and-oracle-cards|Ch 24 — Tarot and Oracle Cards]] — inviting synchronicity into the
+  ritual's design

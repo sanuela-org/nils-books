@@ -69,7 +69,7 @@ The same holds for the challenges a relationship network meets: they are not the
 - **Compersion** — the ability to feel authentic joy in a partner's joy with someone else. Not the absence of jealousy; an active, cultivated skill that can coexist with fear. See [[non-attachment-and-compersion|non-attachment and compersion]].
 - **Fear alarm** — jealousy understood as a signal rather than a truth. It tells you where to look, not what is actually happening.
 - **Shadow-work** — the inner work of meeting old wounds and unconscious patterns with conscious curiosity, rather than projecting them onto present relationships. See [[shadow-work|shadow work]].
-- **Heart-centred breathing** — the foundational practice for emotional self-regulation: breathing through the heart centre to return to a centred state before engaging with others. See [[inner-sanctuary|heart-centred breathing]].
+- **Heart-centred breathing** — the foundational practice for emotional self-regulation: breathing through the heart centre to return to a centred state before engaging with others. See [[heart-centred-breathing|heart-centred breathing]].
 
 ## Across books
 

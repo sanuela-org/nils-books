@@ -27,7 +27,7 @@ Nils Klippstein's guide to building a soulfamily community: a small circle of tr
 
 A [[soulfamily-community|soulfamily community]] is a chosen family: a small group of trusted souls who share daily life, emotional support and growth together. The model grows like the [[networks-of-love|mycelial network that feeds a forest]] rather than like the closed couple box — connection, care and support circulating freely instead of ownership.
 
-The story follows Ari, who arrives at a retreat guarded and leaves with a vision; past the retreat, four friends slowly build the community. The teaching sections lay out the building blocks: [[inner-sanctuary#Practice: Heart-centred breathing|heart-centred breathing]] and sharing circles, [[welcoming-a-third-soul|the support of a third soul]], [[non-attachment-and-compersion|compersion]], and the practical layers — visioning questions, space needs, common values, the [[soulfamily-compass|soulfamily compass]], [[shared-decision-making|shared decisions]], [[shared-money-and-resources|shared money]] and first steps.
+The story follows Ari, who arrives at a retreat guarded and leaves with a vision; past the retreat, four friends slowly build the community. The teaching sections lay out the building blocks: [[heart-centred-breathing|heart-centred breathing]] and sharing circles, [[welcoming-a-third-soul|the support of a third soul]], [[non-attachment-and-compersion|compersion]], and the practical layers — visioning questions, space needs, common values, the [[soulfamily-compass|soulfamily compass]], [[shared-decision-making|shared decisions]], [[shared-money-and-resources|shared money]] and first steps.
 
 Jealousy and old ownership patterns are met as a [[jealousy-as-a-team-process|team process]]. Children grow up held by several caring adults. Nothing needs to start perfect: soulfamilies grow through trust and patience.
 
@@ -64,7 +64,7 @@ Jealousy and old ownership patterns are met as a [[jealousy-as-a-team-process|te
 
 The book's practices, with full steps living on their topic pages:
 
-- [[inner-sanctuary#Practice: Heart-centred breathing|Heart-centred breathing]] — LOVE in, LOVE out: the simple breath that opens and closes every circle.
+- [[heart-centred-breathing|Heart-centred breathing]] — LOVE in, LOVE out: the simple breath that opens and closes every circle.
 - [[heart-centred-communication|Sharing circle]] — speaking from the heart into full presence, no advice, no fixing.
 - [[hugging-meditations|Hugging meditation]] — the held embrace, alone in yab yum or with a spaceholder's support.
 - [[welcoming-a-third-soul|Welcoming a third soul]] — the supportive presence that keeps a bond from stagnating.

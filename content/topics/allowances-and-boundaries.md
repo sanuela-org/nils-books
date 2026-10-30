@@ -1,10 +1,10 @@
 ---
 title: Allowances and Boundaries
 type: concept
-books: [wide-open, soulfamilies]
+books: [wide-open, soulfamilies, kind-of-magick]
 aliases: [allowances, boundaries, "levels of closeness", "boundaries in relationships", "personal allowances", "clear boundaries"]
 created: 2026-09-17
-updated: 2026-10-06
+updated: 2026-10-20
 proofread: true
 tags: [concept, allowances-and-boundaries]
 ---
@@ -36,6 +36,8 @@ Translating restrictions into positive statements keeps the focus on what the re
 Each partner's comfort zone is different. What feels safe to one may feel too open or too closed to another. The work is finding where two (or more) people's edges meet — and building the agreement there.
 
 A common fear is that boundaries limit freedom. In reality, boundaries are what make freedom possible. Without them, anxiety fills the gap. With them, partners can relax into trust, knowing their needs are seen and respected.
+
+The image of a boundary matters here. The book [[kind-of-magick|A Kind of Magick]] describes it like this: many people build boundaries that work like the walls of a fortress — impossible to penetrate and isolating. What serves connection better is a boundary more like a cell membrane: perceptive, alive, and allowing a conscious exchange without losing yourself. A healthy boundary is selective, not closed.
 
 Setting boundaries is not a solo exercise. Both partners sit down, share what they feel, and work out what would make a situation feel safe for each of them. The process itself builds trust — it proves that both people's feelings matter equally.
 
@@ -77,6 +79,8 @@ In the book [[wide-open|Wide Open]], allowances and boundaries belong to the blu
 
 The book [[soulfamilies|Soulfamilies]] adds two layers: allowances set with the open knowing and acceptance of any closer partners ([[ch-06-networks|Ch 6 — Networks]]), and respect for space as a common value ([[ch-11-alignment|Ch 11 — Alignment]]).
 
+The book [[kind-of-magick|A Kind of Magick]] contributes the image that reframes what a boundary is: rigid, isolating fortress walls versus a perceptive cell membrane that exchanges consciously ([[books/kind-of-magick/ch-01-recognising-the-longing|Ch 1 — Recognising the Longing]]).
+
 ## Related topics
 
 - [[heart-centred-communication|Heart-Centred Communication]]
@@ -89,3 +93,4 @@ The book [[soulfamilies|Soulfamilies]] adds two layers: allowances set with the 
 - [[sanuela-retreats|Sanuela Retreats]]
 - [[wide-open|Book: Wide Open. How to Open Our Hearts and Build a Network of LOVE]]
 - [[soulfamilies|Book: Soulfamilies. Living, Loving and Growing Together]]
+- [[kind-of-magick|Book: A Kind of Magick]]
